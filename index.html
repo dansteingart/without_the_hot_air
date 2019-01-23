@@ -1,0 +1,42 @@
+<html>
+<head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/static/annotator-full.min.js"></script>
+
+<style>
+    
+    h1,h2,h3,h4 {font-family:Helvetica}
+    h1{margin-left:-40px}
+    a {color:red;text-decoration:none}
+    .capt,.caption{font-family:Helvetica; font-size:13; max-width:600px; margin: auto auto auto auto; line-height:13pt;}
+    .figurenumber {color:silver}
+    a:hover {color:silver}
+    #content {max-width:800px; margin:auto auto auto auto; font-size:16pt;line-height:22pt;font-family:Times;text-align:justify}
+    blockquote {background:#eee;padding: 10px 10px 10px 10px; font-family: Times; font-size:14pt}
+    img {margin:auto auto; display:block}
+    table {border-collapse: collapse;}
+    table,th,td {margin:auto auto; max-width:600px;font-family:Helvetica;border:solid #aaa 1px; }
+    th,td{padding: 5px 20px 5px 20px;}
+    th {background:#eee}
+</style>
+<link rel="stylesheet" type="text/css" href="/static/style.css" />
+<link rel="stylesheet" type="text/css" href="/static/annotator.min.css" />
+
+</head>
+<body>
+    <div id="content">fooooo</div>
+</body>
+<script>
+var converter = new showdown.Converter();
+var path      = window.location.pathname.split("/")
+var chapter   = path[path.length-1]
+var target    = `/md/SEwtHA_${chapter}`
+converter.setOption('tables','true')
+$.get(target).done(function(data){
+    $("#content").html(converter.makeHtml(data))
+    $("#content").annotator();
+
+})
+</script>    
+</html>
