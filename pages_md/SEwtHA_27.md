@@ -21,7 +21,7 @@ In my future cartoon country, the energy consumption is reduced by using more ef
 
 In the five plans for the future, transport is largely electrified. Electric engines are more efficient than petrol engines, so the energy required for transport is reduced. Public transport (also largely electrified) is better integrated, better personalized, and better patronized. I’ve assumed that electrification makes transport about four times more efficient, and that economic growth cancels out some of these savings, so that the net effect is a halving of energy consumption for transport. There are a few essential vehicles that can’t be easily electrified, and for those we make our own liquid fuels (for example biodiesel or biomethanol or cellulosic
 
-<span class="figurenumber">Figure 27.1</span>. Current consumption per person in “cartoon Britain 2008” (left two columns), and a future consumption plan, along with a possible breakdown of fuels (right two columns). This plan requires that electricity supply be increased from 18 to 48 kWh/d per person of electricity.
+<div class='caption'><span class="figurenumber">Figure 27.1</span>. Current consumption per person in “cartoon Britain 2008” (left two columns), and a future consumption plan, along with a possible breakdown of fuels (right two columns). This plan requires that electricity supply be increased from 18 to 48 kWh/d per person of electricity.</div>
 
 bioethanol). The energy for transport is 18 kWh/d/p of electricity and 2 kWh/d/p of liquid fuels. The electric vehicles’ batteries serve as an energy storage facility, helping to cope with fluctuations of electricity supply and demand. The area required for the biofuel production is about 12% of the UK (500 m<sup>2</sup> per person), assuming that biofuel production comes from 1%-efficient plants and that conversion of plant to fuel is 33% efficient. Alternatively, the biofuels could be imported if we could persuade other countries to devote the required (Wales-sized) area of agricultural land to biofuels for us.
 
@@ -46,7 +46,7 @@ In all five plans, hydroelectricity contributes 0.2 kWh/d/p, the same as today.
 Electric vehicles are used as a dynamically-adjustable load on the electricity network. The average power required to charge the electric vehicles is 45 GW (18 kWh/d/p). So fluctuations in renewables such as solar and wind can be balanced by turning up and down this load, as long as the fluctuations are not too big or lengthy. Daily swings in electricity demand are going to be bigger than they are today because of the replacement of
 
 <img src="figure228.png" width="218" height="387" />
-<span class="figurenumber">Figure 27.2</span>. Waste-to-energy facilities in Britain. The line shows the average power production assuming 1 kg of waste → 0.5 kWh of electricity.
+<div class='caption'><span class="figurenumber">Figure 27.2</span>. Waste-to-energy facilities in Britain. The line shows the average power production assuming 1 kg of waste → 0.5 kWh of electricity.</div>
 
 <img src="figure227.png" width="699" height="394" />
 gas for cooking and heating by electricity (see figure 26.16, p200). To ensure that surges in demand of 10 GW lasting up to 5 hours can be covered, all the plans would build five new pumped storage facilities like Dinorwig (or upgrade hydroelectric facilities to provide pumped storage). 50 GWh of storage is equal to five Dinorwigs, each with a capacity of 2 GW. Some of the plans that follow will require extra pumped storage beyond this. For additional insurance, all the plans would build an electricity interconnector to Norway, with a capacity of 2 GW.
@@ -57,7 +57,7 @@ Plan D (“D” stands for “domestic diversity”) uses a lot of every possibl
 
 Here’s where plan D gets its 50 kWh/d/p of electricity from. Wind: 8 kWh/d/p (20 GW average; 66 GW peak) (plus about 400 GWh of associated pumped storage facilities). Solar PV: 3 kWh/d/p. Waste incineration: 1.3[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#207) kWh/d/p. Hydroelectricity: 0.2 kWh/d/p. Wave: 2 kWh/d/p. Tide: 3.7 kWh/d/p. Nuclear: 16 kWh/d/p (40 GW). “Clean coal”: 16 kWh/d/p (40 GW).
 
-<span class="figurenumber">Figure 27.3</span>. Left: Municipal solid waste put into landfill, versus amount incinerated, in kg per day per person, by country. Right: Amount of waste recycled versus amount landfilled or incinerated. Percentage of waste recycled is given beside each country’s name.
+<div class='caption'><span class="figurenumber">Figure 27.3</span>. Left: Municipal solid waste put into landfill, versus amount incinerated, in kg per day per person, by country. Right: Amount of waste recycled versus amount landfilled or incinerated. Percentage of waste recycled is given beside each country’s name.</div>
 
 To get 8 kWh/d/p of wind requires a 30-fold increase in wind power over the installed power in 2008. Britain would have nearly 3 times as much wind hardware as Germany has now. Installing this much windpower offshore over a period of 10 years would require roughly 50 jack-up barges.
 
@@ -78,7 +78,7 @@ Do any features of this plan strike you as unreasonable or objectionable? If so,
 Plan N is the “NIMBY” plan, for people who don’t like industrializing the British countryside with renewable energy facilities, and who don’t want
 
 <img src="figure229.png" width="101" height="368" />
-<span class="figurenumber">Figure 27.4.</span> Plan D
+<div class='caption'><span class="figurenumber">Figure 27.4.</span> Plan D</div>
 
 new nuclear power stations either. Let’s reveal the plan in stages.
 
@@ -103,10 +103,10 @@ Some people say “we don’t want nuclear power!” How can we satisfy them? Pe
 We can create a nuclear-free plan by taking plan D, keeping all those renewables in our back yard, and doing a straight swap of nuclear for
 
 <img src="figure230.png" width="109" height="368" />
-<span class="figurenumber">Figure 27.5.</span> Plan N
+<div class='caption'><span class="figurenumber">Figure 27.5.</span> Plan N</div>
 
 <img src="figure231.png" width="101" height="368" />
-<span class="figurenumber">Figure 27.6.</span> Plan L
+<div class='caption'><span class="figurenumber">Figure 27.6.</span> Plan L</div>
 
 desert power. As in plan N, the delivery of desert power requires a large increase in transmission systems between North Africa and Britain; the Europe–UK interconnectors would need to be increased from 2 GW to at least 40 GW.
 
@@ -127,7 +127,7 @@ The immense dependence of plan G on renewables, especially wind, creates difficu
 Plan G’s electricity breaks down as follows. Wind: 32 kWh/d/p (80 GW average) (plus about 4000 GWh of associated pumped-storage facilities). Solar photovoltaics: 3 kWh/d/p. Hydroelectricity and waste incineration:
 
 <img src="figure232.png" width="102" height="368" />
-<span class="figurenumber">Figure 27.7.</span> Plan G
+<div class='caption'><span class="figurenumber">Figure 27.7.</span> Plan G</div>
 
 1.3 kWh/d/p. Wave: 3 kWh/d/p. Tide: 3.7 kWh/d/p. Solar power in deserts: 7 kWh/d/p (17 GW).
 
@@ -150,7 +150,7 @@ Figure 27.9 shows all five plans.
 In a future world where carbon pollution is priced appropriately to prevent catastrophic climate change, we will be interested in any power scheme that can at low cost put extra carbon down a hole in the ground. Such carbon-neutralization schemes might permit us to continue flying at 2004 levels (while oil lasts). In 2004, average UK emissions of CO<sub>2</sub> from flying were about 0.5 t CO<sub>2</sub> per year per person. Accounting for the full greenhouse impact of flying, perhaps the effective emissions were about 1 t CO<sub>2</sub>e per year per person. Now, in all five of these plans I assumed that one
 
 <img src="figure234.png" width="102" height="368" />
-<span class="figurenumber">Figure 27.8.</span> Plan E
+<div class='caption'><span class="figurenumber">Figure 27.8.</span> Plan E</div>
 
 1 t CO<sub>2</sub>e means greenhouse-gas emissions equivalent to one ton of CO<sub>2</sub>.
 
@@ -161,7 +161,7 @@ eighth of the UK was devoted to the production of energy crops which were then u
 
 If you don’t like these plans, I’m not surprised. I agree that there is something unpalatable about every one of them. Feel free to make another plan that is more to your liking. But make sure it adds up!
 
-<span class="figurenumber">Figure 27.9.</span> All five plans.
+<div class='caption'><span class="figurenumber">Figure 27.9.</span> All five plans.</div>
 
 Perhaps you will conclude that a viable plan has to involve less power consumption per capita. I might agree with that, but it’s a difficult policy to sell – recall Tony Blair’s response (p222) when someone suggested he should fly overseas for holidays less frequently!
 

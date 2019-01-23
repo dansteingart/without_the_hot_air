@@ -13,7 +13,7 @@ The questions we’ll address in this chapter are:
 3.  What happens to the green stack when we take into account social and economic constraints?
 
 <img src="figure125.png" width="218" height="743" />
-<span class="figurenumber">Figure 18.1</span>. The state of play after we added up all the traditional renewables.
+<div class='caption'><span class="figurenumber">Figure 18.1</span>. The state of play after we added up all the traditional renewables.</div>
 
 ## Red reflections
 
@@ -45,16 +45,16 @@ Electricity
 All energy used by transport
 31.6
 <img src="figure129.png" width="101" height="483" />
-<span class="figurenumber">Figure 18.2</span>. Energy consumption, broken down by end use, according to the Department for Trade and Industry.
+<div class='caption'><span class="figurenumber">Figure 18.2</span>. Energy consumption, broken down by end use, according to the Department for Trade and Industry.</div>
 
-<span class="figurenumber">Table 18.3</span>. 2006 breakdown of energy consumption by transport mode, in kWh/d per person. Source: Dept. for Transport (2007).
+<div class='caption'><span class="figurenumber">Table 18.3</span>. 2006 breakdown of energy consumption by transport mode, in kWh/d per person. Source: Dept. for Transport (2007).</div>
 
 <img src="figure126.png" width="480" height="531" />
 Let’s look more closely at transport. In our red stack, we found that the energy footprints of driving a car 50 km per day and of flying to Cape Town once per year are roughly equal. Table 18.3 shows the relative importances of the different transport modes in the national balance-sheet. In the national averages, aviation is smaller than road transport.
 
 How do Britain’s official consumption figures compare with those of other countries? Figure 18.4 shows the power consumptions of lots of countries or regions, versus their gross domestic products (GDPs). There’s an evident correlation between power consumption and GDP: the higher a country’s GDP (per capita), the more power it consumes per capita. The UK is a fairly typical high-GDP country, surrounded by Germany, France, Japan, Austria, Ireland, Switzerland, and Denmark. The only notable exception to the rule “big GDP implies big power consumption” is Hong Kong. Hong Kong’s GDP per capita is about the same as Britain’s, but
 
-<span class="figurenumber">Figure 18.4</span>. Power consumption per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having “high human development;” circles, “medium” or “low.” Figure 30.1 (p231) shows the same data on logarithmic scales.
+<div class='caption'><span class="figurenumber">Figure 18.4</span>. Power consumption per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having “high human development;” circles, “medium” or “low.” Figure 30.1 (p231) shows the same data on logarithmic scales.</div>
 
 <img src="figure127.png" width="480" height="210" />
 Hong Kong’s power consumption is about <span class="red">80 kWh/d/p</span>.
@@ -67,7 +67,7 @@ People often say that Britain has plenty of renewables. Have I been mean to gree
 
 <span class="leadin">IEE</span>The Institute of Electrical Engineers published a report on renewable energy in 2002 – a summary of possible contributions from renewables in the UK. The second column of figure 18.6 shows the “technical potential” of a variety of renewable technologies for UK electricity generation – “an upper limit that is unlikely ever to be exceeded even with quite dramatic changes in the structure of our society and economy.” According to the IEE, the total of all renewables’ technical potential is about 27 kWh/d per person.
 
-<span class="figurenumber">Figure 18.5</span>. Hong Kong. Photo by Samuel Louie and Carol Spears.
+<div class='caption'><span class="figurenumber">Figure 18.5</span>. Hong Kong. Photo by Samuel Louie and Carol Spears.</div>
 
 <img src="figure128.png" width="658" height="721" />
 <span id="spanp107" class="figurenumber">Figure 18.6.</span> Estimates of theoretical or practical renewable resources in the UK, by the Institute of Electrical Engineers, the Tyndall Centre, the Interdepartmental Analysts Group, and the Performance and Innovation Unit; and the proposals from the Centre for Alternative Technology’s “Island Britain” plan for 2027.
@@ -99,7 +99,7 @@ Solar panels on roofs?
 “No, they would spoil the visual amenity of the street.”
 
 <img src="figure130.png" width="346" height="743" /> <img src="figure418.png" width="337" height="607" />
-<span class="figurenumber">Figure 18.7</span>. The state of play after we add up all the traditional renewables, and then have a public consultation.
+<div class='caption'><span class="figurenumber">Figure 18.7</span>. The state of play after we add up all the traditional renewables, and then have a public consultation.</div>
 
 <img src="figure131.png" width="286" height="451" />
 More forestry?
@@ -126,7 +126,7 @@ After all these objections, I fear that the maximum Britain would ever get from 
 
 Figure 18.8 offers guidance to anyone trying to erect wind farms in Britain. On a map of the British mainland I’ve shown in white a 2-km radius exclusion zone surrounding every hamlet, village, and town. These white areas would presumably be excluded from wind-farm development because they are too close to the humans. I’ve coloured in black all regions
 
-<span class="figurenumber">Figure 18.8</span>. Where the wild things are. One of the grounds for objecting to wind farms is the noise they produce. I’ve chopped out of this map of the British mainland a 2-km-radius exclusion zone surrounding every hamlet, village, and town. These white areas would presumably be excluded from wind-farm development. The remaining black areas would perhaps also be largely excluded because of the need to protect tranquil places from industrialization. Settlement data from <span class="websitetitle">www.openstreetmap.org</span>.
+<div class='caption'><span class="figurenumber">Figure 18.8</span>. Where the wild things are. One of the grounds for objecting to wind farms is the noise they produce. I’ve chopped out of this map of the British mainland a 2-km-radius exclusion zone surrounding every hamlet, village, and town. These white areas would presumably be excluded from wind-farm development. The remaining black areas would perhaps also be largely excluded because of the need to protect tranquil places from industrialization. Settlement data from <span class="websitetitle">www.openstreetmap.org</span>.</div>
 
 <img src="figure132.png" width="403" height="419" />
 that are *more than 2 km* from any human settlement. These areas are largely excluded from wind-farm development because they are *tranquil*, and it’s essential to protect tranquil places from industrialization. If you want to avoid objections to your wind farm, pick any piece of land that is not coloured black or white.
@@ -142,7 +142,7 @@ The two conclusions we can draw from Part I are:
 1.  *To make a difference, renewable facilities have to be country-sized*.
 2.  For any renewable facility to make a contribution comparable to our current consumption, *it has to be country-sized*. To get a big contribution from wind, we used wind farms with the area of Wales. To get a
 
-<span class="figurenumber">Figure 18.9</span>. Production of renewables and nuclear energy in the UK in 2006. All powers are expressed per-person, as usual. The breakdown of the renewables on the right hand side is scaled up 100-fold vertically.
+<div class='caption'><span class="figurenumber">Figure 18.9</span>. Production of renewables and nuclear energy in the UK in 2006. All powers are expressed per-person, as usual. The breakdown of the renewables on the right hand side is scaled up 100-fold vertically.</div>
 
 1.  big contribution from solar photovoltaics, we required half the area of Wales. To get a big contribution from waves, we imagined wave farms covering 500 km of coastline. To make energy crops with a big contribution, we took 75% of the whole country.
 2.  Renewable facilities have to be country-sized because all renewables are so diffuse. Table 18.10 summarizes most of the powers-per-unitarea that we encountered in Part I.
@@ -184,4 +184,4 @@ Hydroelectric   facility
 11 W/m<sup>2</sup>
 Geothermal
 0.017 W/m<sup>2</sup>
-<span class="figurenumber">Table 18.10</span>. Renewable facilities have to be country-sized because all renewables are so diffuse.
+<div class='caption'><span class="figurenumber">Table 18.10</span>. Renewable facilities have to be country-sized because all renewables are so diffuse.</div>

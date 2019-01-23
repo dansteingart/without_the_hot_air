@@ -19,7 +19,7 @@ Carbon pollution charges are usually measured in dollars or euros per ton of CO<
 <img src="figure434.png" width="221" height="168" />
 
 <img src="figure245.png" width="70" height="79" />
-<span class="figurenumber">Figure 31.1.</span> The weights of an atom of carbon and a molecule of CO<sub>2</sub> are in the ratio 12 to 44, because the carbon atom weighs 12 units and the two oxygen atoms weigh 16 each. 12 + 16 +16 = 44.
+<div class='caption'><span class="figurenumber">Figure 31.1.</span> The weights of an atom of carbon and a molecule of CO<sub>2</sub> are in the ratio 12 to 44, because the carbon atom weighs 12 units and the two oxygen atoms weigh 16 each. 12 + 16 +16 = 44.</div>
 
 ton of coal (which is what you might use to heat a house over a year). Now imagine everyone on the planet burning one ton of coal per year: that’s 6 Gt C per year, because the planet has 6 billion people.
 
@@ -30,7 +30,7 @@ Where is all the carbon? We need to know how much is in the oceans, in the groun
 Figure 31.2 shows where the carbon is. Most of it – 40 000 Gt – is in the ocean (in the form of dissolved CO<sub>2</sub> gas, carbonates, living plant and
 
 <img src="figure246.png" width="411" height="569" />
-<span class="figurenumber">Figure 31.2.</span> Estimated amounts of carbon, in gigatons, in accessible places on the earth. (There’s a load more carbon in rocks too; this carbon moves round on a timescale of millions of years, with a long-term balance between carbon in sediment being subducted at tectonic plate boundaries, and carbon popping out of volcanoes from time to time. For simplicity I ignore this geological carbon.)
+<div class='caption'><span class="figurenumber">Figure 31.2.</span> Estimated amounts of carbon, in gigatons, in accessible places on the earth. (There’s a load more carbon in rocks too; this carbon moves round on a timescale of millions of years, with a long-term balance between carbon in sediment being subducted at tectonic plate boundaries, and carbon popping out of volcanoes from time to time. For simplicity I ignore this geological carbon.)</div>
 
 animal life, and decaying materials). Soils and vegetation together contain about 3700 Gt. Accessible fossil fuels – mainly coal – contain about 1600 Gt. Finally, the atmosphere contains about 600 Gt of carbon.
 
@@ -47,7 +47,7 @@ The oceans circulate slowly: a chunk of deep-ocean water takes about 1000 years 
 This slow turn-over of the oceans has a crucial consequence: we have
 
 <img src="figure247.png" width="190" height="482" />
-<span class="figurenumber">Figure 31.3.</span> The arrows show two extra carbon flows produced by burning fossil fuels. There is an imbalance between the 8.4 Gt C/y emissions into the atmosphere from burning fossil fuels and the 2 Gt C/y take-up of CO<sub>2</sub> by the oceans. This cartoon omits the less-well quantified flows between atmosphere, soil, vegetation, and so forth.
+<div class='caption'><span class="figurenumber">Figure 31.3.</span> The arrows show two extra carbon flows produced by burning fossil fuels. There is an imbalance between the 8.4 Gt C/y emissions into the atmosphere from burning fossil fuels and the 2 Gt C/y take-up of CO<sub>2</sub> by the oceans. This cartoon omits the less-well quantified flows between atmosphere, soil, vegetation, and so forth.</div>
 
 enough fossil fuels to seriously influence the climate over the next 1000 years.
 
@@ -62,7 +62,7 @@ If fossil-fuel burning were reduced to zero in the 2050s, the 2 Gt flow from atm
 Thus our perturbation of the carbon concentration might eventually be righted, but only after thousands of years. And that’s assuming that this large perturbation of the atmosphere doesn’t drastically alter the ecosystem. It’s conceivable, for example, that the acidification of the surface waters of the ocean might cause a sufficient extinction of ocean plant-life that a new vicious cycle kicks in: acidification means extinguished plant-life, means plant-life absorbs less CO<sub>2</sub> from the ocean, means oceans become even more acidic. Such vicious cycles (which scientists call “positive feedbacks” or “runaway feedbacks”) have happened on earth before: it’s believed, for example, that ice ages ended relatively rapidly because of positive feedback cycles in which rising temperatures caused surface snow and ice to melt, which reduced the ground’s reflection of sunlight, which meant the ground absorbed more heat, which led to increased temperatures. (Melted snow – water – is much darker than frozen snow.) Another positive feedback possibility to worry about involves methane hydrates, which are frozen in gigaton quantities in places like Arctic Siberia, and in 100-gigaton quantities on continental shelves. Global warming greater than 1 °C would possibly melt methane hydrates, which release methane into the atmosphere, and methane increases global warming more strongly
 
 <img src="figure248.png" width="221" height="314" />
-<span class="figurenumber">Figure 31.4.</span> Decay of a small pulse of CO<sub>2</sub> added to today’s atmosphere, according to the Bern model of the carbon cycle. Source: Hansen et al. (2007).
+<div class='caption'><span class="figurenumber">Figure 31.4.</span> Decay of a small pulse of CO<sub>2</sub> added to today’s atmosphere, according to the Bern model of the carbon cycle. Source: Hansen et al. (2007).</div>
 
 than CO<sub>2</sub> does.
 
@@ -117,7 +117,7 @@ Trees are carbon-capturing systems; they suck CO<sub>2</sub> out of thin air, an
 | compress    | 0.07          |
 | total       | 0.20          |
 
-<span class="figurenumber">Table 31.5.</span> The inescapable energy-cost of concentrating and compressing CO2 from thin air.
+<div class='caption'><span class="figurenumber">Table 31.5.</span> The inescapable energy-cost of concentrating and compressing CO2 from thin air.</div>
 
 <img src="figure348.png" width="219" height="151" />
 
@@ -146,7 +146,7 @@ A final idea for carbon sucking might sidestep this difficulty. The idea is to p
 Some regions of the world have food shortages. There are fish shortages in many areas, because of over-fishing during the last 50 years. The idea of *ocean nourishment* is to fertilize the oceans, supporting the base of the food chain, enabling the oceans to support more plant life and more fish, and incidentally to fix more carbon. Led by Australian scientist Ian Jones, the ocean nourishment engineers would like to pump a nitrogencontaining fertilizer such as urea into appropriate fish-poor parts of the ocean. They claim that 900 km<sup>2</sup> of ocean can be nourished to take up about 5 Mt CO<sub>2</sub>/y. Jones and his colleagues reckon that the ocean nourishment process is suitable for any areas of the ocean deficient in nitrogen. That includes most of the North Atlantic. Let’s put this idea on a map. UK carbon emissions are about 600 Mt CO<sub>2</sub>/y. So complete neutralization of UK carbon emissions would require 120 such areas in the ocean. The map
 
 <img src="figure249.png" width="325" height="289" />
-<span class="figurenumber">Figure 31.6.</span> 120 areas in the Atlantic Ocean, each 900 km<sup>2</sup> in size. These make up the estimated area required in order to fix Britain’s carbon emissions by ocean nourishment.
+<div class='caption'><span class="figurenumber">Figure 31.6.</span> 120 areas in the Atlantic Ocean, each 900 km<sup>2</sup> in size. These make up the estimated area required in order to fix Britain’s carbon emissions by ocean nourishment.</div>
 
 in figure 31.6 shows these areas to scale alongside the British Isles. As usual, a plan that actually adds up requires country-sized facilities! And we haven’t touched on how we would make all the required urea.
 

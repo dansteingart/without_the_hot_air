@@ -39,10 +39,10 @@ Let’s now expand our set of motivations, and assume that we want to get off fo
 What should we do to bring about the development of non-fossil energy supply, and of efficiency measures? One attitude is “Just let the market handle it. As fossil fuels become expensive, renewables and nuclear power will become relatively cheaper, and the rational consumer will prefer efficient technologies.” I find it odd that people have such faith in markets, given how regularly markets give us things like booms and busts, credit crunches, and collapses of banks. Markets may be a good
 
 <img src="figure241.png" width="227" height="357" />
-<span class="figurenumber">Figure 29.1.</span> A fat lot of good that did! The price, in euro, of one ton of CO<sub>2</sub> under the first period of the European emissions trading scheme. Source: <span class="websitetitle">www.eex.com</span>.
+<div class='caption'><span class="figurenumber">Figure 29.1.</span> A fat lot of good that did! The price, in euro, of one ton of CO<sub>2</sub> under the first period of the European emissions trading scheme. Source: <span class="websitetitle">www.eex.com</span>.</div>
 
 <img src="figure240.png" width="447" height="728" />
-<span class="figurenumber">Figure 29.2.</span> What price would CO<sub>2</sub> need to have in order to drive society to make significant changes in CO<sub>2</sub> pollution? The diagram shows carbon dioxide costs (per tonne) at which particular investments will become economical, or particular behaviours will be significantly impacted, assuming that a major behavioural impact on activities like flying and driving results if the carbon cost doubles the cost of the activity. As the cost rises through $20–70 per tonne, CO<sub>2</sub> would become sufficiently costly that it would be economical to add carbon sequestration to new and old power stations. A price of $110 per tonne would transform large-scale renewable electricity-generation projects that currently cost 3p per kWh more than gas from pipedreams into financially viable ventures. For example, the proposed Severn barrage would produce tidal power with a cost of 6p per kWh, which is 3.3p above a typical selling price of 2.7p per kWh; if each 1000 kWh from the barrage avoided one ton of CO<sub>2</sub> pollution at a value of £60 per ton, the Severn barrage would more than pay for itself. At $150 per tonne, domestic users of gas would notice the cost of carbon in their heating bills. A price of $250 per tonne would increase the effective cost of a barrel of oil by $100. At $370, carbon pollution would cost enough to significantly reduce people’s inclination to fly. At $500 per tonne, average Europeans who didn’t change their lifestyle might spend 12% of income on the carbon costs of driving, flying, and heating their homes with gas. And at $900 per tonne, the carbon cost of driving would be noticeable.
+<div class='caption'><span class="figurenumber">Figure 29.2.</span> What price would CO<sub>2</sub> need to have in order to drive society to make significant changes in CO<sub>2</sub> pollution? The diagram shows carbon dioxide costs (per tonne) at which particular investments will become economical, or particular behaviours will be significantly impacted, assuming that a major behavioural impact on activities like flying and driving results if the carbon cost doubles the cost of the activity. As the cost rises through $20–70 per tonne, CO<sub>2</sub> would become sufficiently costly that it would be economical to add carbon sequestration to new and old power stations. A price of $110 per tonne would transform large-scale renewable electricity-generation projects that currently cost 3p per kWh more than gas from pipedreams into financially viable ventures. For example, the proposed Severn barrage would produce tidal power with a cost of 6p per kWh, which is 3.3p above a typical selling price of 2.7p per kWh; if each 1000 kWh from the barrage avoided one ton of CO<sub>2</sub> pollution at a value of £60 per ton, the Severn barrage would more than pay for itself. At $150 per tonne, domestic users of gas would notice the cost of carbon in their heating bills. A price of $250 per tonne would increase the effective cost of a barrel of oil by $100. At $370, carbon pollution would cost enough to significantly reduce people’s inclination to fly. At $500 per tonne, average Europeans who didn’t change their lifestyle might spend 12% of income on the carbon costs of driving, flying, and heating their homes with gas. And at $900 per tonne, the carbon cost of driving would be noticeable.</div>
 
 way of making some short-term decisions – about investments that will pay off within ten years or so – but can we expect markets to do a good job of making decisions about energy, decisions whose impacts last many decades or centuries?
 
@@ -137,7 +137,7 @@ People sometimes ask me “What should I do?” Table 29.3 indicates eight simpl
 
 Whereas the above actions are easy to implement, the ones in table 29.4 take a bit more planning, determination, and money.
 
-<span class="figurenumber">Table 29.3.</span> Eight simple personal actions.
+<div class='caption'><span class="figurenumber">Table 29.3.</span> Eight simple personal actions.</div>
 
 | Major action                                                              | possible saving |
 |---------------------------------------------------------------------------|-----------------|
@@ -168,6 +168,6 @@ page no.
 
 <span class="mark">–</span>*The Conservative Party’s Quality of Life Policy Group* – Gummer et al. (2007).
 
-<span class="figurenumber">Table 29.4.</span> Seven harder actions.
+<div class='caption'><span class="figurenumber">Table 29.4.</span> Seven harder actions.</div>
 
-<span class="figurenumber">Table 29.5.</span> A few more simple actions with small savings.
+<div class='caption'><span class="figurenumber">Table 29.5.</span> A few more simple actions with small savings.</div>

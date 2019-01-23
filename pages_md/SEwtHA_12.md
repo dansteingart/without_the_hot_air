@@ -32,7 +32,7 @@ How do the numbers assumed in this calculation compare with today’s technology
 What’s the weight of a Pelamis, and how much steel does it contain? One snake with a maximum power of 750 kW weighs 700 tons, including 350 tons of ballast. So it has about 350 tons of steel. That’s a weight-topower ratio of roughly 500 kg per kW (peak). We can compare this with the steel requirements for offshore wind: an offshore wind-turbine with a maximum power of 3 MW weighs 500 tons, including its foundation. That’s a weight-to-power ratio of about 170 kg per kW, one third of the wave machine’s. The Pelamis is a first prototype; presumably with further investment and development in wave technology, the weight-to-power ratio would fall.
 
 <img src="figure86.png" width="212" height="640" />
-<span class="figurenumber">Figure 12.2</span>. Wave.
+<div class='caption'><span class="figurenumber">Figure 12.2</span>. Wave.</div>
 
 ## Notes and further reading
 

@@ -86,7 +86,7 @@ force 11
 126
 35
 force 12
-<span class="figurenumber">Figure B.1.</span> Speeds.
+<div class='caption'><span class="figurenumber">Figure B.1.</span> Speeds.</div>
 
 <img src="figure260.png" width="269" height="113" />
 normal; the speed of such a wind is therefore comparable to the typical speed of the cyclist, which is, let’s say, 21 km per hour (13 miles per hour, or 6 metres per second). In Cambridge, the wind is only occasionally this big. Nevertheless, let’s use this as a typical British figure (and bear in mind that we may need to revise our estimates).
@@ -113,10 +113,10 @@ Indeed, when I visited this windmill on a very breezy day, its meter showed it w
 
 To estimate how much power we can get from wind, we need to decide how big our windmills are going to be, and how close together we can pack them.
 
-<span class="figurenumber">Figure B.2.</span> Flow of air past a windmill. The air is slowed down and splayed out by the windmill.
+<div class='caption'><span class="figurenumber">Figure B.2.</span> Flow of air past a windmill. The air is slowed down and splayed out by the windmill.</div>
 
 <img src="figure264.png" width="219" height="319" />
-<span class="figurenumber">Figure B.3.</span> The Brooklyn windmill above Wellington, New Zealand, with people providing a scale at the base. On a breezy day, this windmill was producing 60 kW, (1400 kWh per day). Photo by Philip Banks.
+<div class='caption'><span class="figurenumber">Figure B.3.</span> The Brooklyn windmill above Wellington, New Zealand, with people providing a scale at the base. On a breezy day, this windmill was producing 60 kW, (1400 kWh per day). Photo by Philip Banks.</div>
 
 How densely could such windmills be packed? Too close and the upwind ones will cast wind-shadows on the downwind ones. Experts say that windmills can’t be spaced closer than 5 times their diameter without losing significant power. At this spacing, the power that windmills can generate per unit land area is
 
@@ -136,14 +136,14 @@ This calculation depended sensitively on our estimate of the windspeed. Is 6 m/s
 
 <img src="figure261.png" width="460" height="289" />
 <img src="figure265.png" width="201" height="209" />
-<span class="figurenumber">Figure B.4.</span> Wind farm layout.
+<div class='caption'><span class="figurenumber">Figure B.4.</span> Wind farm layout.</div>
 
 POWER PER UNIT AREA
 wind farm (speed 6 m/s)
 2 W/m<sup>2</sup>
-<span class="figurenumber">Table B.5.</span> Facts worth remembering: wind farms.
+<div class='caption'><span class="figurenumber">Table B.5.</span> Facts worth remembering: wind farms.</div>
 
-<span class="figurenumber">Figure B.6.</span> Average summer windspeed (dark bar) and average winter windspeed (light bar) in eight locations around Britain. Speeds were measured at the standard weatherman’s height of 10 metres. Averages are over the period 1971–2000.
+<div class='caption'><span class="figurenumber">Figure B.6.</span> Average summer windspeed (dark bar) and average winter windspeed (light bar) in eight locations around Britain. Speeds were measured at the standard weatherman’s height of 10 metres. Averages are over the period 1971–2000.</div>
 
 4 m/s as our estimated windspeed, we must scale our estimate down, multiplying it by (4/6)<sup>3</sup> <span class="cong">≅</span> 0.3. (Remember, wind power scales as wind-speed cubed.)
 
@@ -167,7 +167,7 @@ Some standard formulae for speed *v* as a function of height *z* are:
 In practice, these two wind shear formulae give similar numerical answers. That’s not to say that they are accurate at all times however. Van den Berg (2004) suggests that different wind profiles often hold at night.
 
 <img src="figure266.png" width="219" height="362" />
-<span class="figurenumber">Figure B.7.</span> Top: Two models of wind speed and wind power as a function of height. DWIA = Danish Wind Industry Association; NREL = National Renewable Energy Laboratory. For each model the speed at 10 m has been fixed to 6 m/s. For the Danish Wind model, the roughness length is set to *z*<span class="smallsub"><sub>0</sub></span> = 0.1 m. Bottom: The power density (the power per unit of upright area) according to each of these models.
+<div class='caption'><span class="figurenumber">Figure B.7.</span> Top: Two models of wind speed and wind power as a function of height. DWIA = Danish Wind Industry Association; NREL = National Renewable Energy Laboratory. For each model the speed at 10 m has been fixed to 6 m/s. For the Danish Wind model, the roughness length is set to *z*<span class="smallsub"><sub>0</sub></span> = 0.1 m. Bottom: The power density (the power per unit of upright area) according to each of these models.</div>
 
 <img src="figure262.png" width="614" height="169" />
 ### Standard windmill properties
@@ -184,7 +184,7 @@ The London Array is an offshore wind farm planned for the outer Thames Estuary. 
 >
 > Bill Boggia of Graveney, where the undersea cables of the wind farm will come ashore.
 
-<span class="figurenumber">Figure B.8.</span> The qr5 from <span class="websitetitle">quietrevolution.co.uk</span>. Not a typical windmill.
+<div class='caption'><span class="figurenumber">Figure B.8.</span> The qr5 from <span class="websitetitle">quietrevolution.co.uk</span>. Not a typical windmill.</div>
 
 ## Queries
 
@@ -206,7 +206,7 @@ page no.
 Watson et al. (2002) say a minimum annual mean wind speed of 7.0 m/s is currently thought to be necessary for commercial viability of wind power. About 33% of UK land area has such speeds.
 
 <img src="figure268.png" width="214" height="173" />
-<span class="figurenumber">Figure B.9.</span> An Ampair “600 W” micro-turbine. The average power generated by this micro-turbine in Leamington Spa is 0.037 kWh per day (1.5 W).
+<div class='caption'><span class="figurenumber">Figure B.9.</span> An Ampair “600 W” micro-turbine. The average power generated by this micro-turbine in Leamington Spa is 0.037 kWh per day (1.5 W).</div>
 
 <img src="figure269.png" width="176" height="348" />
-<span class="figurenumber">Figure B.10.</span> A 5.5-m diameter Iskra 5 kW turbine \[<span class="websitetitle">www.iskrawind.com</span>\] having its annual check-up. This turbine, located in Hertfordshire (not the windiest of locations in Britain), mounted at a height of 12 m, has an average output of 11 kWh per day. A wind farm of machines with this performance, one per 30 m × 30 m square, would have a power per unit area of <span class="green">0.5 W/m<sup>2</sup></span>.
+<div class='caption'><span class="figurenumber">Figure B.10.</span> A 5.5-m diameter Iskra 5 kW turbine \[<span class="websitetitle">www.iskrawind.com</span>\] having its annual check-up. This turbine, located in Hertfordshire (not the windiest of locations in Britain), mounted at a height of 12 m, has an average output of 11 kWh per day. A wind farm of machines with this performance, one per 30 m × 30 m square, would have a power per unit area of <span class="green">0.5 W/m<sup>2</sup></span>.</div>

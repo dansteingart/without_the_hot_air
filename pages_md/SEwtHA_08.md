@@ -11,12 +11,12 @@ When we multiply this by the area per person (2700 m<sup>2</sup>, if the lowland
 <img src="figure407.png" width="400" height="291" />
 
 <img src="figure64.png" width="219" height="148" />
-<span class="figurenumber">Figure 8.1</span>. Nant-y-Moch dam, part of a 55 MW hydroelectric scheme in Wales. Photo by Dave Newbould, <span class="websitetitle">www.origins-photography.co.uk</span>.
+<div class='caption'><span class="figurenumber">Figure 8.1</span>. Nant-y-Moch dam, part of a 55 MW hydroelectric scheme in Wales. Photo by Dave Newbould, <span class="websitetitle">www.origins-photography.co.uk</span>.</div>
 
 <img src="figure406.png" width="205" height="289" />
 [<sup>**Erratum**</sup>](http://www.withouthotair.com/Errata.html#55)
 
-<span class="figurenumber">Figure 8.2</span>. Altitudes of land in Britain. The rectangles show how much land area there is at each height.
+<div class='caption'><span class="figurenumber">Figure 8.2</span>. Altitudes of land in Britain. The rectangles show how much land area there is at each height.</div>
 
 Let’s turn to the highlands. Kinlochewe is a rainier spot: it gets 2278 mm per year, four times more than Bedford. The height drops there are bigger too – large areas of land are above 300 m. So overall a twelve-fold increase in power per square metre is plausible for mountainous regions. The raw power per unit area is roughly 0.24 W/m<sup>2</sup>. If the highlands generously share their hydro-power with the rest of the UK (at 1300 m<sup>2</sup> area per person), we find an upper limit of about 7 kWh per day per person. As in the lowlands, this is the upper limit on raw power if evaporation were outlawed and every drop were perfectly exploited.
 
@@ -33,7 +33,7 @@ The actual power from hydroelectricity in the UK today is 0.2 kWh/d per person, 
 <span class="mark">–</span>*The actual power from hydroelectricity in the UK today is 0.2 kWh per day per person*. Source: MacLeay et al. (2007). In 2006, large-scale hydro produced 3515 GWh (from plant with a capacity of 1.37 GW); small-scale hydro, 212 GWh (0.01 kWh/d/p) (from a capacity of 153 MW). In 1943, when the growth of hydroelectricity was in full swing, the North of Scotland Hydroelectricity Board’s engineers estimated that the Highlands of Scotland could produce 6.3 TWh per year in 102 facilities – that would correspond to 0.3 kWh/d per person in the UK (Ross, 2008). Glendoe, the first new large-scale hydroelectric project in the UK since 1957, will add capacity of 100 MW and is expected to deliver 180 GWh per year. Glendoe’s catchment area is 75 km<sup>2</sup>, so its power density works out to 0.27 W per m<sup>2</sup> of catchment area. Glendoe has been billed as “big enough to power Glasgow.” But if we share its 180 GWh per year across the population of Glasgow (616 000 people), we get only 0.8 kWh/d per person. That is just 5% of the average electricity consumption of 17 kWh/d per person. The 20fold exaggeration is achieved by focusing on Glendoe’s peak output rather than its average, which is 5 times smaller; and by discussing “homes” rather than the total electrical power of Glasgow (see p329).
 
 <img src="figure65.png" width="215" height="457" />
-<span class="figurenumber">Figure 8.3</span>. Hydroelectricity.
+<div class='caption'><span class="figurenumber">Figure 8.3</span>. Hydroelectricity.</div>
 
 <img src="figure66.png" width="219" height="287" />
-<span class="figurenumber">Figure 8.4</span>. A 60 kW waterwheel.
+<div class='caption'><span class="figurenumber">Figure 8.4</span>. A 60 kW waterwheel.</div>

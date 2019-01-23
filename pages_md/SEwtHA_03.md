@@ -24,13 +24,13 @@ Rather than willfully perpetuate an inaccurate estimate, let’s switch to the a
 Congratulations! We’ve made our first estimate of consumption. I’ve displayed this estimate in the left-hand stack in figure 3.3. The red box’s height represents 40 kWh per day per person.
 
 <img src="figure19.png" width="221" height="113" />
-<span class="figurenumber">Figure 3.1.</span> Cars. A red BMW dwarfed by a spaceship from the planet Dorkon.
+<div class='caption'><span class="figurenumber">Figure 3.1.</span> Cars. A red BMW dwarfed by a spaceship from the planet Dorkon.</div>
 
 <img src="figure20.png" width="208" height="164" />
-<span class="figurenumber">Figure 3.2.</span> Want to know the energy in car fuel? Look at the label on a pack of butter or margarine. The calorific value is 3000 kJ per 100 g, or about 8 kWh per kg.
+<div class='caption'><span class="figurenumber">Figure 3.2.</span> Want to know the energy in car fuel? Look at the label on a pack of butter or margarine. The calorific value is 3000 kJ per 100 g, or about 8 kWh per kg.</div>
 
 <img src="figure21.png" width="189" height="173" />
-<span class="figurenumber">Figure 3.3.</span> Chapter 3’s conclusion: a typical car-driver uses about 40 kWh per day.
+<div class='caption'><span class="figurenumber">Figure 3.3.</span> Chapter 3’s conclusion: a typical car-driver uses about 40 kWh per day.</div>
 
 This is the estimate for a typical car-driver driving a typical car today. Later chapters will discuss the *average* consumption of all the people in Britain, taking into account the fact that not everyone drives. We’ll also discuss in Part II what the consumption *could* be, with the help of other technologies such as electric cars.
 
@@ -55,7 +55,7 @@ page no.
 <span class="mark">29</span> *For the distance travelled per day, let’s use 50 km.* This corresponds to 18 000 km (11 000 miles) per year. Roughly half of the British population drive to work. The total amount of car travel in the UK is 686 billion passenger-km per year, which corresponds to an “average distance travelled by car per British person” of 30 km per day. Source: Department for Transport \[<span class="tinylink">5647rh</span>\]. As I said on p22, I aim to estimate the consumption of a “typical moderately-affluent person” – the consumption that many people aspire to. Some people don’t drive much. In this chapter, I want to estimate the energy consumed by someone who chooses to drive, rather than depersonalize the answer by reporting the UK average, which mixes together the drivers and non-drivers. If I said “the average use of energy for car driving
 
 <img src="figure22.png" width="218" height="187" />
-<span class="figurenumber">Figure 3.4.</span> How British people travel to work, according to the 2001 census.
+<div class='caption'><span class="figurenumber">Figure 3.4.</span> How British people travel to work, according to the 2001 census.</div>
 
 in the UK is 24 kWh/d per person,” I bet some people would misunderstand and say: “I’m a car driver so I guess I use 24 kWh/d.”[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#31)
 

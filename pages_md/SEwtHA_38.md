@@ -16,7 +16,7 @@ You can estimate the period of ocean waves by recalling the time between waves a
 where *g* is the acceleration of gravity (9.8 m/s<sup>2</sup>). For example, if *T* = 10 seconds, then *v* = 16 m/s. The wavelength of such a wave – the distance between crests – is *λ* = *vT* = *gT*<sup>2</sup>/2π = 160 m.
 
 <img src="figure298.png" width="202" height="619" />
-<span class="figurenumber">Figure F.1.</span> Facts about deep-water waves. In all four figures the horizontal axis is the wave speed in m/s. From top to bottom the graphs show: wind speed (in m/s) required to make a wave with this wave speed; period (in seconds) of a wave; wavelength (in m) of a wave; and power density (in kW/m) of a wave with amplitude 1 m.
+<div class='caption'><span class="figurenumber">Figure F.1.</span> Facts about deep-water waves. In all four figures the horizontal axis is the wave speed in m/s. From top to bottom the graphs show: wind speed (in m/s) required to make a wave with this wave speed; period (in seconds) of a wave; wavelength (in m) of a wave; and power density (in kW/m) of a wave with amplitude 1 m.</div>
 
 <img src="figure297.png" width="643" height="390" />
 For a wave of wavelength *λ* and period *T*, if the height of each crest and depth of each trough is *h* = 1 m, the potential energy passing per unit time, per unit length, is
@@ -39,7 +39,7 @@ To find the potential energy properly, we should have done an integral here; it 
 
 Waves have kinetic energy as well as potential energy, and, remarkably, these are exactly equal, although I don’t show that calculation here; so the total power of the waves is double the power calculated from potential
 
-<span class="figurenumber">Figure F.2.</span> A wave has energy in two forms: potential energy associated with raising water out of the light-shaded troughs into the heavy-shaded crests; and kinetic energy of all the water within a few wavelengths of the surface – the speed of the water is indicated by the small arrows. The speed of the wave, travelling from left to right, is indicated by the much bigger arrow at the top.
+<div class='caption'><span class="figurenumber">Figure F.2.</span> A wave has energy in two forms: potential energy associated with raising water out of the light-shaded troughs into the heavy-shaded crests; and kinetic energy of all the water within a few wavelengths of the surface – the speed of the water is indicated by the small arrows. The speed of the wave, travelling from left to right, is indicated by the much bigger arrow at the top.</div>
 
 energy.
 

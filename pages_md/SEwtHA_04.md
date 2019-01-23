@@ -20,10 +20,10 @@ Plugging in the British population density: 250 people per square kilometre, or 
 <img src="figure26.png" width="480" height="180" />
 <img src="figure333.png" width="221" height="247" />
 
-<span class="figurenumber">Figure 4.1.</span> Cambridge mean wind speed in metres per second, daily (red line), and half-hourly (blue line) during 2006. See also figure 4.6.
+<div class='caption'><span class="figurenumber">Figure 4.1.</span> Cambridge mean wind speed in metres per second, daily (red line), and half-hourly (blue line) during 2006. See also figure 4.6.</div>
 
 <img src="figure400.png" width="205" height="289" />
-<span class="figurenumber">Figure 4.2.</span> Cairngorm mean wind speed in metres per second, during six months of 2006.
+<div class='caption'><span class="figurenumber">Figure 4.2.</span> Cairngorm mean wind speed in metres per second, during six months of 2006.</div>
 
 generate
 
@@ -44,13 +44,13 @@ This conclusion – that the maximum contribution of onshore wind, albeit “hug
 The Whitelee wind farm being built near Glasgow in Scotland has 140 turbines with a combined *peak* capacity of 322 MW in an area of 55 km<sup>2</sup>. That’s 6 W/m<sup>2</sup>, *peak*. The average power produced is smaller because the turbines don’t run at peak output all the time. The ratio of the average power to the peak power is called the “load factor” or “capacity factor,” and it varies from site to site, and with the choice of hardware plopped on the site; a typical factor for a good site with modern turbines is 30%. If we assume Whitelee has a load factor of 33% then the average power production per unit land area is <span class="green">2 W/m<sup>2</sup></span> – exactly the same as the power density we assumed above.
 
 <img src="figure27.png" width="212" height="175" />
-<span class="figurenumber">Figure 4.3.</span> Chapter 4’s conclusion: the maximum plausible production from on-shore windmills in the United Kingdom is 20 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure 4.3.</span> Chapter 4’s conclusion: the maximum plausible production from on-shore windmills in the United Kingdom is 20 kWh per day per person.</div>
 
 <img src="figure401.png" width="176" height="79" />
-<span class="figurenumber">Table 4.4.</span> Facts worth remembering: wind farms.
+<div class='caption'><span class="figurenumber">Table 4.4.</span> Facts worth remembering: wind farms.</div>
 
 <img src="figure402.png" width="241" height="79" />
-<span class="figurenumber">Table 4.5.</span> Facts worth remembering: population density. See page 338 for more population densities.
+<div class='caption'><span class="figurenumber">Table 4.5.</span> Facts worth remembering: population density. See page 338 for more population densities.</div>
 
 <img src="figure28.png" width="451" height="194" />
 ## Queries
@@ -71,4 +71,4 @@ page no.
 
 <span class="mark">33</span>*The windmills required to provide the UK with 20 kWh/d per person are 50 times the entire wind power of Denmark.* Assuming a load factor of 33%, an average power of 20 kWh/d per person requires an installed capacity of 150 GW. At the end of 2006, Denmark had an installed capacity of 3.1 GW; Germany had 20.6 GW. The world total was 74 GW (<span class="websitetitle">wwindea.org</span>). Incidentally, the load factor of the Danish wind fleet was 22% in 2006, and the average power it delivered was 3 kWh/d per person.
 
-<span class="figurenumber">Figure 4.6.</span> Histogram of Cambridge average wind speed in metres per second: daily averages (left), and half-hourly averages (right).
+<div class='caption'><span class="figurenumber">Figure 4.6.</span> Histogram of Cambridge average wind speed in metres per second: daily averages (left), and half-hourly averages (right).</div>

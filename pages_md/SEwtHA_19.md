@@ -19,7 +19,7 @@ And if everyone does it?
 The “if-everyone” multiplying machine is a bad thing because it deflects people’s attention towards 25million minnows instead of 25million sharks. The mantra “*Little changes can make a big difference*” is bunkum, when applied to climate change and power. It may be true that “many people doing
 
 <img src="figure431.png" width="208" height="287" />
-<span class="figurenumber">Figure 19.1</span>. Reproduced by kind permission of PRIVATE EYE / Robert Thompson <span class="websitetitle">www.private-eye.co.uk</span>.
+<div class='caption'><span class="figurenumber">Figure 19.1</span>. Reproduced by kind permission of PRIVATE EYE / Robert Thompson <span class="websitetitle">www.private-eye.co.uk</span>.</div>
 
 a little adds up to a lot,” if all those “littles” are somehow focused into a single “lot” – for example, if one million people donate £10 to *one* accidentvictim, then the victim receives £10 million. That’s a lot. But power is a very different thing. We all use power. So to achieve a “big difference” in total power consumption, you need almost everyone to make a “big” difference to their own power consumption.
 
@@ -54,7 +54,7 @@ Daily Telegraph, 24 July 2007
 Isaac Asimov
 
 <img src="figure432.png" width="219" height="222" />
-<span class="figurenumber">Figure 19.2</span>. Population growth and emissions... Cartoon courtesy of Colin Wheeler.
+<div class='caption'><span class="figurenumber">Figure 19.2</span>. Population growth and emissions... Cartoon courtesy of Colin Wheeler.</div>
 
 energy in just three forms: heating, transport, and electricity. The heating consumption of cartoon-Britain is 40 kWh per day per person (currently all supplied by fossil fuels); the transport consumption is also 40 kWh per day per person (currently all supplied by fossil fuels); and the electricity consumption is 18 kWh(e) per day per person; the electricity is currently almost all generated from fossil fuels; the conversion of fossil-fuel energy to electricity is 40% efficient, so supplying 18 kWh(e) of electricity in today’s cartoon-Britain requires a fossil-fuel input of 45 kWh per day per person. This simplification ignores some fairly sizeable details, such as agriculture and industry, and the embodied energy of imported goods! But I’d like to be able to have a *quick* conversation about the main things we need to do to get off fossil fuels. Heating, transport, and electricity account for more than half of our energy consumption, so if we can come up with a plan that delivers heating, transport, and electricity sustainably, then we have made a good step on the way to a more detailed plan that adds up.
 
@@ -77,7 +77,7 @@ Are you eager to know the end of the story right away? Here is a quick summary, 
 First, we electrify transport. Electrification both gets transport off fossil fuels, and makes transport more energy-efficient. (Of course, electrification
 
 <img src="figure133.png" width="211" height="519" />
-<span class="figurenumber">Figure 19.3</span>. Current consumption in “cartoon-Britain 2008.”
+<div class='caption'><span class="figurenumber">Figure 19.3</span>. Current consumption in “cartoon-Britain 2008.”</div>
 
 increases our demand for green electricity.)
 

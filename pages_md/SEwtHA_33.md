@@ -31,7 +31,7 @@ where *m<sub>c</sub>* is the mass of the car.
 
 <img src="figure251.png" width="346" height="90" />
 <img src="figure252.png" width="219" height="166" />
-<span class="figurenumber">Figure A.1.</span>A Peugot 206 has a drag coefficient of 0.33. Photo by Christopher Batt.
+<div class='caption'><span class="figurenumber">Figure A.1.</span>A Peugot 206 has a drag coefficient of 0.33. Photo by Christopher Batt.</div>
 
 The key formula for most of the calculations in this book is:
 
@@ -42,9 +42,9 @@ For example, a car of mass *m* = 1000 kg moving at 100 km per hour or *v* = 28 
 <span class="above">1</span>⁄<span class="below">2</span>*mv<sup>2</sup>* <span class="cong">≅</span>  390 000 J <span class="cong">≅</span> 0.1 kWh.
 
 <img src="figure253.png" width="168" height="80" />
-<span class="figurenumber">Figure A.2.</span>Our cartoon: a car moves at speed *v* between stops separated by a distance *d*.
+<div class='caption'><span class="figurenumber">Figure A.2.</span>Our cartoon: a car moves at speed *v* between stops separated by a distance *d*.</div>
 
-<span class="figurenumber">Figure A.3.</span>A car moving at speed *v* creates behind it a tube of swirling air; the cross-sectional area of the tube is similar to the frontal area of the car, and the speed at which air in the tube swirls is roughly *v*.
+<div class='caption'><span class="figurenumber">Figure A.3.</span>A car moving at speed *v* creates behind it a tube of swirling air; the cross-sectional area of the tube is similar to the frontal area of the car, and the speed at which air in the tube swirls is roughly *v*.</div>
 
 -   The tube of air created in a time *t* has a volume *Avt*, where *A* is the cross-sectional area of the tube, which is similar to the area of the front view of the car. (For a streamlined car, *A* is usually a little smaller than the frontal area *A*<sub><span class="smallsub">car</span></sub>, and the ratio of the tube’s effective cross-sectional area to the car area is called the drag coefficient *c*<sub><span class="smallsub">d</span></sub>. Throughout the following equations, *A* means the effective area of the car, *c*<sub><span class="smallsub">d</span></sub>*A*<sub><span class="smallsub">car</span></sub>.) The tube has mass *m*<sub><span class="smallsub">air</span></sub> = *ρAvt* (where *ρ* is the density of air) and swirls at speed *v*, so its kinetic energy is:
 
@@ -82,10 +82,10 @@ Let’s work out the special distance *d*\* between stop signs, below which the 
 I’m using this formula:     mass = density × volume The symbol *ρ* (Greek letter ‘rho’) denotes the density.
 
 <img src="figure254.png" width="169" height="65" />
-<span class="figurenumber">Figure A.4.</span> To know whether energy consumption is braking-dominated or air-swirling-dominated, we compare the mass of the car with the mass of the tube of air between stop-signs.
+<div class='caption'><span class="figurenumber">Figure A.4.</span> To know whether energy consumption is braking-dominated or air-swirling-dominated, we compare the mass of the car with the mass of the tube of air between stop-signs.</div>
 
 <img src="figure255.png" width="221" height="101" />
-<span class="figurenumber">Figure A.5.</span> Power consumed by a car is proportional to its cross-sectional area, during motorway driving, and to its mass, during town driving. Guess which gets better mileage – the VW on the left, or the spaceship?
+<div class='caption'><span class="figurenumber">Figure A.5.</span> Power consumed by a car is proportional to its cross-sectional area, during motorway driving, and to its mass, during town driving. Guess which gets better mileage – the VW on the left, or the spaceship?</div>
 
 and the drag coefficient is *c*<span class="smallsub"><sub>d</sub></span> = 1/3 and the mass is *m*<sub><span class="smallsub">c</span></sub> = 1000 kg then the special distance is:
 
@@ -124,7 +124,7 @@ Bicycle at 21 km/h
 PLANES AT 900 KM/H
 A380
 27 kWh/100 seat-km
-<span class="figurenumber">Table A.6.</span> Facts worth remembering: car energy consumption.
+<div class='caption'><span class="figurenumber">Table A.6.</span> Facts worth remembering: car energy consumption.</div>
 
 mileage figures for cars quoted in Chapter 3. Moreover, the theory gives insight into how the energy consumed by your car could be reduced. The theory has a couple of flaws which we’ll explore in a moment.
 
@@ -200,7 +200,7 @@ VW Polo GTi
 0.65
 Honda Insight
 0.47
-<span class="figurenumber">Table A.7.</span> Drag coefficients and drag areas.
+<div class='caption'><span class="figurenumber">Table A.7.</span> Drag coefficients and drag areas.</div>
 
 sumption of objects with completely different speeds and areas. Specifically, let’s assume that the area ratio is
 
@@ -233,15 +233,15 @@ Some things we’ve completely ignored so far are the energy consumed in the tyr
 | truck rubber tyres     | 0.007                                          |
 | car rubber tyres       | 0.010                                          |
 
-<span class="figurenumber">Table A.8.</span> The rolling resistance is equal to the weight multiplied by the coefficient of rolling resistance, *C*<span class="smallsub"><sub>rr</sub></span>. The rolling resistance includes the force due to wheel flex, friction losses in the wheel bearings, shaking and vibration of both the roadbed and the vehicle (including energy absorbed by the vehicle’s shock absorbers), and sliding of the wheels on the road or rail. The coefficient varies with the quality of the road, with the material the wheel is made from, and with temperature. The numbers given here assume smooth roads. \[<span class="tinylink">2bhu35</span>\]
+<div class='caption'><span class="figurenumber">Table A.8.</span> The rolling resistance is equal to the weight multiplied by the coefficient of rolling resistance, *C*<span class="smallsub"><sub>rr</sub></span>. The rolling resistance includes the force due to wheel flex, friction losses in the wheel bearings, shaking and vibration of both the roadbed and the vehicle (including energy absorbed by the vehicle’s shock absorbers), and sliding of the wheels on the road or rail. The coefficient varies with the quality of the road, with the material the wheel is made from, and with temperature. The numbers given here assume smooth roads. \[<span class="tinylink">2bhu35</span>\]</div>
 
 <img src="figure321.png" width="219" height="226" /> <img src="figure322.png" width="194" height="222" /> <img src="figure323.png" width="221" height="232" />
 
-<span class="figurenumber">Figure A.9.</span> Simple theory of car fuel consumption (energy per distance) when driving at steady speed. Assumptions: the car’s engine uses energy with an efficiency of 0.25, whatever the speed; *c*<span class="smallsub"><sub>d</sub></span>*A*<span class="smallsub"><sub>car</sub></span> = 1 m<sup>2</sup>; *m*<span class="smallsub"><sub>car</sub></span> = 1000 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.01.
+<div class='caption'><span class="figurenumber">Figure A.9.</span> Simple theory of car fuel consumption (energy per distance) when driving at steady speed. Assumptions: the car’s engine uses energy with an efficiency of 0.25, whatever the speed; *c*<span class="smallsub"><sub>d</sub></span>*A*<span class="smallsub"><sub>car</sub></span> = 1 m<sup>2</sup>; *m*<span class="smallsub"><sub>car</sub></span> = 1000 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.01.</div>
 
-<span class="figurenumber">Figure A.10.</span> Simple theory of bike fuel consumption (energy per distance). Vertical axis is energy consumption in kWh per 100 km. Assumptions: the bike’s engine (that’s you!) uses energy with an efficiency of 0.25,; the drag-area of the cyclist is 0.75 m<sup>2</sup>; the cyclist+bike’s mass is 90 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.005.
+<div class='caption'><span class="figurenumber">Figure A.10.</span> Simple theory of bike fuel consumption (energy per distance). Vertical axis is energy consumption in kWh per 100 km. Assumptions: the bike’s engine (that’s you!) uses energy with an efficiency of 0.25,; the drag-area of the cyclist is 0.75 m<sup>2</sup>; the cyclist+bike’s mass is 90 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.005.</div>
 
-<span class="figurenumber">Figure A.11.</span> Simple theory of train energy consumption, per passenger, for an eight-carriage train carrying 584 passengers. Vertical axis is energy consumption in kWh per 100 p-km. Assumptions: the train’s engine uses energy with an efficiency of 0.90; *c*<span class="smallsub"><sub>d</sub></span>*A*<span class="smallsub"><sub>train</sub></span> = 11 m<sup>2</sup>; *m*<span class="smallsub"><sub>train</sub></span> = 400 000 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.002.
+<div class='caption'><span class="figurenumber">Figure A.11.</span> Simple theory of train energy consumption, per passenger, for an eight-carriage train carrying 584 passengers. Vertical axis is energy consumption in kWh per 100 p-km. Assumptions: the train’s engine uses energy with an efficiency of 0.90; *c*<span class="smallsub"><sub>d</sub></span>*A*<span class="smallsub"><sub>train</sub></span> = 11 m<sup>2</sup>; *m*<span class="smallsub"><sub>train</sub></span> = 400 000 kg; and *C*<span class="smallsub"><sub>rr</sub></span> = 0.002.</div>
 
 the speed. The constant of proportionality is called the coefficient of rolling resistance, *C*<span class="smallsub"><sub>rr</sub></span>. Table A.8 gives some typical values.
 
@@ -282,10 +282,10 @@ For a single-carriage train (*m* = 50 000 kg, *A* = 11 m<sup>2</sup>) , the spee
 When I say that halving your driving speed should reduce fuel consumption (in miles per gallon) to *one quarter* of current levels, some people feel sceptical. They have a point: most cars’ engines have an optimum revolution rate, and the choice of gears of the car determines a range of speeds at which the optimum engine efficiency can be delivered. If my suggested experiment of halving the car’s speed takes the car out of this designed range of speeds, the consumption might not fall by as much as four-fold. My tacit assumption that the engine’s efficiency is the same at all speeds and all loads led to the conclusion that it’s always good (in terms of miles per gallon) to travel slower; but if the engine’s efficiency drops off at low speeds, then the most fuel-efficient speed might be at an intermediate speed that makes a compromise between going slow and keeping the engine efficient. For the BMW 318ti in figure A.12, for example, the optimum speed is about 60 km/h. But if society were to decide that car speeds should be reduced, there is nothing to stop engines and gears being redesigned so that the peak engine efficiency was found at the right speed. As further evidence
 
 <img src="figure256.png" width="218" height="225" />
-<span class="figurenumber">Figure A.12.</span> Current cars’ fuel consumptions do not vary as speed squared. Prius data from B.Z. Wilson; BMW data from Phil C. Stuart. The smooth curve shows what a speed-squared curve would look like, assuming a drag-area of 0.6 m<sup>2</sup>.
+<div class='caption'><span class="figurenumber">Figure A.12.</span> Current cars’ fuel consumptions do not vary as speed squared. Prius data from B.Z. Wilson; BMW data from Phil C. Stuart. The smooth curve shows what a speed-squared curve would look like, assuming a drag-area of 0.6 m<sup>2</sup>.</div>
 
 <img src="figure257.png" width="179" height="333" />
-<span class="figurenumber">Figure A.13.</span> Powers of cars (kW) versus their top speeds (km/h). Both scales are logarithmic. The power increases as the third power of the speed. To go twice as fast requires eight times as much engine power. From Tennekes (1997).
+<div class='caption'><span class="figurenumber">Figure A.13.</span> Powers of cars (kW) versus their top speeds (km/h). Both scales are logarithmic. The power increases as the third power of the speed. To go twice as fast requires eight times as much engine power. From Tennekes (1997).</div>
 
 that the power a car requires really does increase as the cube of speed, figure A.13 shows the engine power versus the top speeds of a range of cars. The line shows the relationship “power proportional to *v*<sup>3</sup>.”
 
@@ -298,7 +298,7 @@ Let’s assume that the mass of the car and occupants is 740 kg, *without* any b
 It thus seems to me that the range problem has been solved by the advent of modern batteries. It would be nice to have even better batteries, but an energy density of 120 Wh per kg is already good enough, as long as we’re happy for the batteries in a car to weigh up to 500 kg. In practice I imagine most people would be content to have a range of 300 km, which can be delivered by 250 kg of batteries. If these batteries were divided into ten 25 kg chunks, separately unpluggable, then a car user could keep just four of the ten chunks on board when he’s doing regular commuting (100 kg gives a range of 140 km); and collect an extra six chunks from a battery-recharging station when he wants to make longer-range trips. During long-range trips, he would exchange his batteries for a fresh set at a battery-exchange station every 300 km or so.
 
 <img src="figure258.png" width="222" height="357" />
-<span class="figurenumber">Figure A.14.</span> Theory of electric car range (horizontal axis) and transport cost (vertical axis) as a function of battery mass, for two battery technologies. A car with 500 kg of old batteries, with an energy density of 40 Wh per kg, has a range of 180 km. With the same weight of modern batteries, delivering 120 Wh per kg, an electric car can have a range of more than 500 km. Both cars would have an energy cost of about 13 kWh per 100 km. These numbers allow for a battery charging efficiency of 85%.
+<div class='caption'><span class="figurenumber">Figure A.14.</span> Theory of electric car range (horizontal axis) and transport cost (vertical axis) as a function of battery mass, for two battery technologies. A car with 500 kg of old batteries, with an energy density of 40 Wh per kg, has a range of 180 km. With the same weight of modern batteries, delivering 120 Wh per kg, an electric car can have a range of more than 500 km. Both cars would have an energy cost of about 13 kWh per 100 km. These numbers allow for a battery charging efficiency of 85%.</div>
 
 ## Notes and further reading
 
@@ -317,4 +317,4 @@ page no.
 Further reading: Gabrielli and von Kármán (1950).
 
 <img src="figure259.png" width="221" height="148" />
-<span class="figurenumber">Figure A.15.</span> The Wartsila-Sulzer RTA96-C 14-cylinder two-stroke diesel engine. 27 m long and 13.5 m high. <span class="websitetitle">www.wartsila.com</span>
+<div class='caption'><span class="figurenumber">Figure A.15.</span> The Wartsila-Sulzer RTA96-C 14-cylinder two-stroke diesel engine. 27 m long and 13.5 m high. <span class="websitetitle">www.wartsila.com</span></div>

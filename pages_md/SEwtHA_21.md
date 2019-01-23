@@ -29,7 +29,7 @@ That’s bigger than the space-heating requirement we estimated in Chapter 7. It
 OK, how can we reduce the power used by heating? Well, obviously, there are three lines of attack.
 
 <img src="figure174.png" width="219" height="289" />
-<span class="figurenumber">Figure 21.1</span>. My house.
+<div class='caption'><span class="figurenumber">Figure 21.1</span>. My house.</div>
 
 1.  Reduce the <span class="mauve">average temperature difference</span>. This can be achieved by turning thermostats down (or, if you have friends in high places, by changing the weather).
 2.  Reduce the <span class="darkblue">leakiness of the building</span>. This can be done by improving the building’s insulation – think triple glazing, draught-proofing, and fluffy blankets in the loft – or, more radically, by demolishing the building and replacing it with a better insulated building; or perhaps by living in a building of smaller size per person. (Leakiness tends to be bigger, the larger a building’s floor area, because the areas of external wall, window, and roof tend to be bigger too.)
@@ -46,7 +46,7 @@ Unfortunately, however, this remarkable energy-saving technology has side-effect
 What can be done with leaky old houses, apart from calling in the bulldozers? Figure 21.3 shows estimates of the space heating required in old
 
 <img src="figure175.png" width="162" height="226" />
-<span class="figurenumber">Figure 21.2</span>. Actual heat consumption in 12 identical houses with identical heating systems. All houses had floor area 86 m<sup>2</sup> and were designed to have a leakiness of <span class="darkblue">2.7 kWh/d/°C</span>. Source: Carbon Trust (2007).
+<div class='caption'><span class="figurenumber">Figure 21.2</span>. Actual heat consumption in 12 identical houses with identical heating systems. All houses had floor area 86 m<sup>2</sup> and were designed to have a leakiness of <span class="darkblue">2.7 kWh/d/°C</span>. Source: Carbon Trust (2007).</div>
 
 <img src="figure176.png" width="429" height="496" />
 detached, semi-detached, and terraced houses as progressively more effort is put into patching them up. Adding loft insulation and cavity-wall insulation reduces heat loss in a typical old house by about 25%. Thanks to incidental heat gains, this 25% reduction in heat loss translates into roughly a 40% reduction in heating consumption.
@@ -57,7 +57,7 @@ Let’s put these ideas to the test.
 
 I introduced you to my house on page 53. Let’s pick up the story. In 2004 I had a condensing boiler installed, replacing the old gas boiler. (Condensing boilers use a heat-exchanger to transfer heat from the exhaust gases to incoming air.) At the same time I removed the house’s hot-water tank (so hot water is now made only on demand), and I put thermostats on all the bedroom radiators. Along with the new condensing boiler came a
 
-<span class="figurenumber">Figure 21.3</span>. Estimates of the space heating required in a range of UK houses. From Eden and Bending (1985).
+<div class='caption'><span class="figurenumber">Figure 21.3</span>. Estimates of the space heating required in a range of UK houses. From Eden and Bending (1985).</div>
 
 <img src="figure177.png" width="468" height="258" />
 new heating controller that allows me to set different target temperatures for different times of day. With these changes, my consumption decreased from an average of 50 kWh/d to about 32 kWh/d.
@@ -70,13 +70,13 @@ Because this case study is such a hodge-podge of building modifications and beha
 
 So, my main tip is cunning thermostat management. What’s a reasonable thermostat setting to aim for? Nowadays many people seem to think that 17 °C is unbearably cold. However, the average winter-time temperature in British houses in 1970 was 13 °C! A human’s perception of whether they feel warm depends on what they are doing, and what they’ve been doing for the last hour or so. My suggestion is, *don’t think in terms of a thermostat setting*. Rather than fixing the thermostat to a single value, try just leaving it at a really low value most of the time (say 13 or 15 °C), and turn it up temporarily whenever you feel cold. It’s like the lights in a library. If you allow yourself to ask the question “what is the right light level in the bookshelves?” then you’ll no doubt answer “bright enough to read the
 
-<span class="figurenumber">Figure 21.4</span>. My domestic gas consumption, each year from 1993 to 2007. Each line shows the cumulative consumption during one year in kWh. The number at the end of each year is the average rate of consumption for that year, in kWh per day. Meter-readings are indicated by the blue points. Evidently, the more frequently I read my meter, the less gas I use!
+<div class='caption'><span class="figurenumber">Figure 21.4</span>. My domestic gas consumption, each year from 1993 to 2007. Each line shows the cumulative consumption during one year in kWh. The number at the end of each year is the average rate of consumption for that year, in kWh per day. Meter-readings are indicated by the blue points. Evidently, the more frequently I read my meter, the less gas I use!</div>
 
 <img src="figure178.png" width="219" height="252" />
-<span class="figurenumber">Figure 21.5</span>. Cavity-wall insulation going in.
+<div class='caption'><span class="figurenumber">Figure 21.5</span>. Cavity-wall insulation going in.</div>
 
 <img src="figure179.png" width="109" height="182" />
-<span class="figurenumber">Figure 21.6</span>. A new front door.
+<div class='caption'><span class="figurenumber">Figure 21.6</span>. A new front door.</div>
 
 book titles,” and you’ll have bright lights on all the time. But that question presumes that we have to fix the light level; and we don’t have to. We can fit light switches that the reader can turn on, and that switch themselves off again after an appropriate time. Similarly, thermostats don’t need to be left up at 20 °C all the time.
 
@@ -99,7 +99,7 @@ How efficiently can heat be produced? Can we obtain heat on the cheap? Today, bu
 One technology that is held up as an answer to Britain’s heating problem is called “combined heat and power” (CHP), or its cousin, “microCHP.” I will explain combined heat and power now, but I’ve come to the conclusion that it’s a bad idea, because there’s a better technology for heating, called heat pumps, which I’ll describe in a few pages.
 
 <img src="figure184.png" width="216" height="405" />
-<span class="figurenumber">Figure 21.7</span>. Eggborough. Not a power station participating in smart heating.
+<div class='caption'><span class="figurenumber">Figure 21.7</span>. Eggborough. Not a power station participating in smart heating.</div>
 
 <img src="figure180.png" width="379" height="264" />
 ### Combined heat and power
@@ -109,9 +109,9 @@ The standard view of conventional big centralised power stations is that they ar
 <img src="figure181.png" width="372" height="90" />
 There’s certainly some truth in the view that Britain is rather backward when it comes to district heating and combined heat and power, but discussion is hampered by a general lack of numbers, and by two particular errors. First, when comparing different ways of using fuel, the wrong measure of “efficiency” is used, namely one that weights electricity as having equal value to heat. The truth is, electricity is more valuable than heat. Second, it’s widely assumed that the “waste” heat in a traditional power
 
-<span class="figurenumber">Figure 21.8</span>. How a power station works. There has to be a cold place to condense the steam to make the turbine go round. The cold place is usually a cooling tower or river.
+<div class='caption'><span class="figurenumber">Figure 21.8</span>. How a power station works. There has to be a cold place to condense the steam to make the turbine go round. The cold place is usually a cooling tower or river.</div>
 
-<span class="figurenumber">Figure 21.9</span>. Combined heat and power. District heating absorbs heat that would have been chucked up a cooling tower.
+<div class='caption'><span class="figurenumber">Figure 21.9</span>. Combined heat and power. District heating absorbs heat that would have been chucked up a cooling tower.</div>
 
 <img src="figure182.png" width="628" height="244" />
 station could be captured for a useful purpose *without impairing the power station’s electricity production*. This sadly is not true, as the numbers will show. Delivering useful heat to a customer always reduces the electricity produced to some degree. The true net gains from combined heat and power are often much smaller than the hype would lead you to believe.
@@ -124,7 +124,7 @@ The government has a target for growth of combined heat and power to 10 GW of el
 
 Like district heating and combined heat and power, heat pumps are already widely used in continental Europe, but strangely rare in Britain. Heat pumps are back-to-front refrigerators. Feel the back of your refrigerator: it’s *warm*. A refrigerator moves heat from one place (its inside) to
 
-<span class="figurenumber">Figure 21.10</span>. Heat pumps.
+<div class='caption'><span class="figurenumber">Figure 21.10</span>. Heat pumps.</div>
 
 another (its back panel). So one way to heat a building is to turn a refrigerator inside-out – put the *inside* of the refrigerator in the garden, thus cooling the garden down; and leave the back panel of the refrigerator in your kitchen, thus warming the house up. What isn’t obvious about this whacky idea is that it is a really efficient way to warm your house. For every kilowatt of power drawn from the electricity grid, the back-to-front refrigerator can pump three kilowatts of heat from the garden, so that a total of four kilowatts of heat gets into your house. So heat pumps are roughly four times as efficient as a standard electrical bar-fire. Whereas the bar-fire’s efficiency is 100%, the heat pump’s is 400%. The efficiency of a heat pump is usually called its *coefficient of performance* or CoP. If the efficiency is 400%, the coefficient of performance is 4.
 
@@ -141,7 +141,7 @@ There’s two things left to do in this chapter. We need to compare heat pumps w
 I used to think that combined heat and power was a no-brainer. “Obviously, we should use the discarded heat from power stations to heat buildings rather than just chucking it up a cooling tower!” However, looking carefully at the numbers describing the performance of real CHP systems, I’ve come to the conclusion that there are better ways of providing electric
 
 <img src="figure185.png" width="221" height="268" />
-<span class="figurenumber">Figure 21.11</span>. The inner and outer bits of an air-source heat pump that has a coefficient of performance of 4. The inner bit is accompanied by a ball-point pen, for scale. One of these Fujitsu units can deliver 3.6 kW of heating when using just 0.845 kW of electricity. It can also run in reverse, delivering 2.6 kW of cooling when using 0.655 kW of electricity.
+<div class='caption'><span class="figurenumber">Figure 21.11</span>. The inner and outer bits of an air-source heat pump that has a coefficient of performance of 4. The inner bit is accompanied by a ball-point pen, for scale. One of these Fujitsu units can deliver 3.6 kW of heating when using just 0.845 kW of electricity. It can also run in reverse, delivering 2.6 kW of cooling when using 0.655 kW of electricity.</div>
 
 ity and building-heating.
 
@@ -197,7 +197,7 @@ In Britain, the main purpose of heat pumps would be to get heat into buildings i
 
 Let’s put some numbers into this discussion. How big a piece of ground does a ground-source heat pump need? Assume that we have a neighbourhood with quite a high population density – say 6200 people per km<sup>2</sup> (160 m<sup>2</sup> per person), the density of a typical British suburb. Can *everyone* use ground-source heat pumps, without using active summer replenishment? A calculation in Chapter E (p303) gives a tentative answer of *no*: if we wanted everyone in the neighbourhood to be able to pull from the ground a heat flow of about 48 kWh/d per person (my estimate of our typical winter heat demand), we’d end up freezing the ground in the winter. Avoiding unreasonable cooling of the ground requires that the sucking rate be less than 12 kWh/d per person. So if we switch to ground-source heat pumps, we should plan to include substantial summer heat-dumping in the design, so as to refill the ground with heat for use in the winter. This summer heat-dumping could use heat from air-conditioning, or heat from
 
-<span class="figurenumber">Figure 21.12</span>. How close together can ground-source heat pumps be packed?
+<div class='caption'><span class="figurenumber">Figure 21.12</span>. How close together can ground-source heat pumps be packed?</div>
 
 area per person (m<sup>2</sup>)
 Bangalore
@@ -226,7 +226,7 @@ Sydney
 174
 Portsmouth
 213
-<span class="figurenumber">Table 21.13</span>. Some urban areas per person.
+<div class='caption'><span class="figurenumber">Table 21.13</span>. Some urban areas per person.</div>
 
 roof-mounted solar water-heating panels. (Summer solar heat is stored in the ground for subsequent use in winter by Drake Landing Solar Community in Canada \[<span class="websitetitle">www.dlsc.ca</span>\].) Alternatively, we should expect to need to use some air-source heat pumps too, and then we’ll be able to get all the heat we want – as long as we have the electricity to pump it. In the UK, air temperatures don’t go very far below freezing, so concerns about poor winter-time performance of air-source pumps, which might apply in North America and Scandanavia, probably do not apply in Britain.
 
@@ -259,4 +259,4 @@ Further reading on heat pumps: European Heat Pump Network
 <span class="websitetitle">ehpn.fiz-karlsruhe.de/en/</span>, <span class="websitetitle">www.kensaengineering.com</span>, <span class="websitetitle">www.heatking.co.uk</span>, <span class="websitetitle">www.iceenergy.co.uk</span>.
 
 <img src="figure186.png" width="219" height="308" />
-<span class="figurenumber">Figure 21.14</span>. Advertisement from the Mayor of London’s “DIY planet repairs” campaign of 2007. The text reads “**Turn down**. If every London household turned down their thermostat by one degree, we could save 837 000 tons of CO<sub>2</sub> and £110m per year.” \[<span class="websitetitle">london.gov.uk/diy</span>\] Expressed in savings per person, that’s 0.12 t CO<sub>2</sub> per year per person. That’s about 1% of one person’s total (11 t), so this is good advice. Well done, Ken!
+<div class='caption'><span class="figurenumber">Figure 21.14</span>. Advertisement from the Mayor of London’s “DIY planet repairs” campaign of 2007. The text reads “**Turn down**. If every London household turned down their thermostat by one degree, we could save 837 000 tons of CO<sub>2</sub> and £110m per year.” \[<span class="websitetitle">london.gov.uk/diy</span>\] Expressed in savings per person, that’s 0.12 t CO<sub>2</sub> per year per person. That’s about 1% of one person’s total (11 t), so this is good advice. Well done, Ken!</div>

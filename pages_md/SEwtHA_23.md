@@ -17,10 +17,10 @@ We can compare this “sustainable” coal-burning rate – 1.6 Gt per year – 
 What about the UK alone? Britain is estimated to have 7 Gt of coal left. OK, if we share 7 Gt between 60 million people, we get 100 tons per person. If we want a 1000-year solution, this corresponds to <span class="green">2.5 kWh per</span>
 
 <img src="figure190.png" width="208" height="309" />
-<span class="figurenumber">Figure 23.1</span>. Coal being delivered to Kingsnorth power station (capacity 1940 MW) in 2005. Photos by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>.
+<div class='caption'><span class="figurenumber">Figure 23.1</span>. Coal being delivered to Kingsnorth power station (capacity 1940 MW) in 2005. Photos by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>.</div>
 
 <img src="figure191.png" width="101" height="33" />
-<span class="figurenumber">Figure 23.2</span>. “Sustainable fossil fuels.”
+<div class='caption'><span class="figurenumber">Figure 23.2</span>. “Sustainable fossil fuels.”</div>
 
 day per person. In a power station performing carbon capture and storage, this sustainable approach to UK coal would yield 0.7 kWh(e) per day per person.
 
@@ -41,7 +41,7 @@ The economist Jevons did a simple calculation in 1865. People were discussing ho
 Instead, Jevons extrapolated the exponentially-growing consumption, calculating the time by which the total amount consumed would exceed the estimated reserves. This was a much shorter time. Jevons was not assuming that consumption would actually continue to grow at the same rate; rather he was making the point that growth was not sustainable. His calculation estimated for his British readership the inevitable limits
 
 <img src="figure425.png" width="219" height="150" />
-<span class="figurenumber">Figure 23.3</span>. A caterpillar grazing on old leaves. Photo by Peter Gunn.
+<div class='caption'><span class="figurenumber">Figure 23.3</span>. A caterpillar grazing on old leaves. Photo by Peter Gunn.</div>
 
 to their growth, and the short time remaining before those limits would become evident. Jevons made the bold prediction that the end of British “progress” would come within 100 years of 1865. Jevons was right. British coal production peaked in 1910, and by 1965 Britain was no longer a world superpower.
 

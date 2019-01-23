@@ -17,7 +17,7 @@ We’ll start this chapter by discussing how to reduce the energy consumption of
 <img src="figure135.png" width="221" height="261" />
 
 <img src="figure134.png" width="219" height="225" />
-<span class="figurenumber">Figure 20.1.</span> This chapter’s starting point: an urban luxury tractor. The average UK car has a fuel consumption of 33 miles per gallon, which corresponds to an energy consumption of <span class="mauve">80 kWh per 100 km</span>. Can we do better?
+<div class='caption'><span class="figurenumber">Figure 20.1.</span> This chapter’s starting point: an urban luxury tractor. The average UK car has a fuel consumption of 33 miles per gallon, which corresponds to an energy consumption of <span class="mauve">80 kWh per 100 km</span>. Can we do better?</div>
 
 1.  forwards. Inevitably this energy chain has inefficiencies. In a standard fossil-fuel car, for example, only 25% is used for pushing, and roughly 75% of the energy is lost in making the engine and radiator hot. So a final strategy for consuming less energy is to make the energy-conversion chain more efficient.
 
@@ -36,13 +36,13 @@ Figure 20.3 shows a multi-passenger vehicle that is at least 25 times more energ
 Figure 20.4 shows another possible replacement for the petrol car: a train, with an energy-cost, if full, of <span class="mauve">1.6 kWh per 100 passenger-km</span>. In contrast to the eco-car and the bicycle, trains manage to achieve outstanding efficiency without travelling slowly, and without having a low weight per person. Trains make up for their high speed and heavy frame by exploiting the principle of small frontal area per person. Whereas a cyclist
 
 <img src="figure137.png" width="221" height="94" />
-<span class="figurenumber">Figure 20.2.</span> Team Crocodile’s eco-car uses <span class="mauve">1.3 kWh per 100 km</span>. Photo kindly provided by Team Crocodile. <span class="websitetitle">www.teamcrocodile.com</span>
+<div class='caption'><span class="figurenumber">Figure 20.2.</span> Team Crocodile’s eco-car uses <span class="mauve">1.3 kWh per 100 km</span>. Photo kindly provided by Team Crocodile. <span class="websitetitle">www.teamcrocodile.com</span></div>
 
 <img src="figure138.png" width="219" height="147" />
-<span class="figurenumber">Figure 20.3.</span> “Babies on board.” This mode of transportation has an energy cost of <span class="mauve">1 kWh per 100 person-km</span>.
+<div class='caption'><span class="figurenumber">Figure 20.3.</span> “Babies on board.” This mode of transportation has an energy cost of <span class="mauve">1 kWh per 100 person-km</span>.</div>
 
 <img src="figure139.png" width="207" height="172" />
-<span class="figurenumber">Figure 20.4.</span> This 8-carriage train, at its maximum speed of 100mph (161 km/h), consumes <span class="mauve">1.6 kWh per 100 passenger-km</span>, if full.
+<div class='caption'><span class="figurenumber">Figure 20.4.</span> This 8-carriage train, at its maximum speed of 100mph (161 km/h), consumes <span class="mauve">1.6 kWh per 100 passenger-km</span>, if full.</div>
 
 and a regular car have effective frontal areas of about 0.8 m<sup>2</sup> and 0.5 m<sup>2</sup> respectively, a full commuter train from Cambridge to London has a frontal area per passenger of 0.02 m<sup>2</sup>.
 
@@ -53,7 +53,7 @@ But whoops, now we’ve broached an ugly topic – the prospect of sharing a veh
 
 At its best, shared public transport is far more energy-efficient than individual car-driving. A diesel-powered **coach**, carrying 49 passengers and doing 10 miles per gallon at 65 miles per hour, uses <span class="mauve">6 kWh per 100 p-km</span> – 13 times better than the single-person car. Vancouver’s **trolleybuses** consume 270 kWh per[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#120) vehicle-km, and have an average speed of 15 km/h. If the trolleybus has 40 passengers on board, then its passenger transport cost is <span class="mauve">7 kWh per 100 p-km</span>. The Vancouver **SeaBus** has a transport cost of 83 kWh per vehicle-km at a speed of 13.5 km/h. It can seat 400 people, so its passenger transport cost when full is <span class="mauve">21 kWh per 100 p-km</span>. London **underground trains**, at peak times, use <span class="mauve">4.4 kWh per 100 p-km</span> – 18 times better than individual cars. Even **high-speed trains**, which violate two of our energy-saving principles by going twice as fast as the car and weighing a lot, are much more energy efficient: if the electric high-speed train
 
-<span class="figurenumber">Figure 20.5.</span> Some public transports, and their energy-efficiencies, when on best behaviour. Tubes, outer and inner. Two high-speed trains. The electric one uses 3 kWh per 100 seat-km; the diesel, 9 kWh. Trolleybuses in San Francisco. Vancouver SeaBus. Photo by Larry.
+<div class='caption'><span class="figurenumber">Figure 20.5.</span> Some public transports, and their energy-efficiencies, when on best behaviour. Tubes, outer and inner. Two high-speed trains. The electric one uses 3 kWh per 100 seat-km; the diesel, 9 kWh. Trolleybuses in San Francisco. Vancouver SeaBus. Photo by Larry.</div>
 
 is full, its energy cost is <span class="mauve">3 kWh per 100 p-km</span> – that’s 27 times smaller than the car’s!
 
@@ -69,9 +69,9 @@ How good could public transport be? Perhaps we can get a rough indication by loo
 To summarise, public transport (especially electric trains, trams, and buses) seems a promising way to deliver passenger transportation – better in terms of energy per passenger-km, perhaps five or ten times better than cars. However, if people demand the flexibility of a private vehicle, what are our other options?
 
 <img src="figure142.png" width="219" height="166" />
-<span class="figurenumber">Figure 20.6.</span> Some trains aren’t full. Three men and a cello – the sole occupants of this carriage of the 10.30 high-speed train from Edinburgh to Kings Cross.
+<div class='caption'><span class="figurenumber">Figure 20.6.</span> Some trains aren’t full. Three men and a cello – the sole occupants of this carriage of the 10.30 high-speed train from Edinburgh to Kings Cross.</div>
 
-<span class="figurenumber">Figure 20.7.</span> Some public transports, and their *average* energy consumptions. Left: Some red buses. Right: Croydon Tramlink. Photo by Stephen Parascandolo.
+<div class='caption'><span class="figurenumber">Figure 20.7.</span> Some public transports, and their *average* energy consumptions. Left: Some red buses. Right: Croydon Tramlink. Photo by Stephen Parascandolo.</div>
 
 Energy consumption (kWh per 100 p-km)
 Car
@@ -84,20 +84,20 @@ Air
 51
 Sea
 57
-<span class="figurenumber">Table 20.8.</span> Overall transport efficiencies of transport modes in Japan (1999).
+<div class='caption'><span class="figurenumber">Table 20.8.</span> Overall transport efficiencies of transport modes in Japan (1999).</div>
 
 <img src="figure141.png" width="433" height="271" />
 ## Private vehicles: technology, legislation, and incentives
 
 The energy consumption of individual cars can be reduced. The wide range of energy efficiencies of cars for sale proves this. In a single showroom in 2006 you could buy a Honda Civic 1.4 that uses roughly <span class="mauve">44 kWh per 100 km</span>, or a Honda NSX 3.2 that uses <span class="mauve">116 kWh per 100 km</span> (figure 20.9). The fact that people merrily *buy* from this wide range is also proof that we need extra incentives and legislation to encourage the blithe consumer to *choose* more energy-efficient cars. There are various ways to help consumers prefer the Honda Civic over the Honda NSX 3.2 gas-guzzler: raising the price of fuel; cranking up the showroom tax (the tax on new cars) in proportion to the predicted lifetime consumption of the vehicle; cranking up the road-tax on gas guzzlers; parking privileges for economical cars (figure 20.10); or fuel rationing. All such measures are unpopular with at least some voters. Perhaps a better legislative tactic would be to *enforce* reasonable energy-efficiency, rather than continuing to allow unconstrained choice; for example, we could simply *ban*, from a certain date, the sale of *any* car whose energy consumption is more than 80 kWh per 100 km; and then, over time, reduce this ceiling to 60 kWh per 100 km, then 40 kWh per 100 km, and beyond. Alternatively, to give the consumer more choice, regulations could force car manufacturers to reduce the *average* energy consumption of all the cars they sell. Additional legislation limiting the weight and frontal area of vehicles would simultaneously reduce fuel consumption and improve safety for other road-users (figure 20.11). People today choose their cars to make fashion statements. With strong efficiency legislation, there could still be a wide choice of fashions; they’d all just happen to be energy-efficient. You could choose any colour, as long as it was green.
 
-<span class="figurenumber">Figure 20.9</span>. Carbon pollution, in grams CO<sub>2</sub> per km, of a selection of cars for sale in the UK. The horizontal axis shows the emission rate, and the height of the blue histogram indicates the number of models on sale with those emissions in 2006. Source: <span class="websitetitle">www.newcarnet.co.uk</span>. The second horizontal scale indicates approximate energy consumptions, assuming that 240 g CO<sub>2</sub> is associated with 1 kWh of chemical energy.
+<div class='caption'><span class="figurenumber">Figure 20.9</span>. Carbon pollution, in grams CO<sub>2</sub> per km, of a selection of cars for sale in the UK. The horizontal axis shows the emission rate, and the height of the blue histogram indicates the number of models on sale with those emissions in 2006. Source: <span class="websitetitle">www.newcarnet.co.uk</span>. The second horizontal scale indicates approximate energy consumptions, assuming that 240 g CO<sub>2</sub> is associated with 1 kWh of chemical energy.</div>
 
 <img src="figure145.png" width="109" height="157" />
-<span class="figurenumber">Figure 20.10</span>. Special parking privileges for electric cars in Ann Arbor, Michigan.
+<div class='caption'><span class="figurenumber">Figure 20.10</span>. Special parking privileges for electric cars in Ann Arbor, Michigan.</div>
 
 <img src="figure146.png" width="219" height="137" />
-<span class="figurenumber">Figure 20.11</span>. Monstercars are just tall enough to completely obscure the view and the visibility of pedestrians.
+<div class='caption'><span class="figurenumber">Figure 20.11</span>. Monstercars are just tall enough to completely obscure the view and the visibility of pedestrians.</div>
 
 While we wait for the voters and politicians to agree to legislate for efficient cars, what other options are available?
 
@@ -109,12 +109,12 @@ My favourite suggestion is the provision of excellent cycle facilities, along wi
 Somehow, British cycle provision (figure 20.14) doesn’t live up to the Dutch standard.
 
 <img src="figure144.png" width="411" height="219" />
-<span class="figurenumber">Figure 20.12</span>. A roundabout in Enschede, Netherlands.
+<div class='caption'><span class="figurenumber">Figure 20.12</span>. A roundabout in Enschede, Netherlands.</div>
 
 <img src="figure147.png" width="140" height="214" />
-<span class="figurenumber">Figure 20.13</span>. A few Dutch bikes.
+<div class='caption'><span class="figurenumber">Figure 20.13</span>. A few Dutch bikes.</div>
 
-<span class="figurenumber">Figure 20.14</span>. Meanwhile, back in Britain... Photo on right by Mike Armstrong.
+<div class='caption'><span class="figurenumber">Figure 20.14</span>. Meanwhile, back in Britain... Photo on right by Mike Armstrong.</div>
 
 In the French city of Lyon, a privately-run public bicycle network, V´elo’v, was introduced in 2005 and has proved popular. Lyon’s population of 470 000 inhabitants is served by 2000 bikes distributed around 175 cycle-stations in an area of 50 km<sup>2</sup> (figure 20.15). In the city centre, you’re usually within 400 metres of a cycle-station. Users join the scheme by paying a subscription fee of €10 per year and may then hire bicycles free for all trips lasting less than 30 minutes. For longer hire periods, users pay up to €1 per hour. Short-term visitors to Lyon can buy one-week subscriptions for €1.
 
@@ -133,10 +133,10 @@ Congestion can be reduced by providing good alternatives (cycle lanes, public tr
 Assuming that the developed world’s love-affair with the car is not about to be broken off, what are the technologies that can deliver significant energy savings? Savings of 10% or 20% are easy – we’ve already discussed some ways to achieve them, such as making cars smaller and lighter. Another option is to switch from petrol to diesel. Diesel engines are more expensive to make, but they tend to be more fuel-efficient. But are there technologies that can radically increase the efficiency of the energy-conversion chain? (Recall that in a standard petrol car, 75% of the energy is turned
 
 <img src="figure148.png" width="219" height="194" />
-<span class="figurenumber">Figure 20.15</span>. A V´elo’v station in Lyon.
+<div class='caption'><span class="figurenumber">Figure 20.15</span>. A V´elo’v station in Lyon.</div>
 
 <img src="figure149.png" width="207" height="289" />
-<span class="figurenumber">Figure 20.16</span>. With congestion like this, it’s faster to walk.
+<div class='caption'><span class="figurenumber">Figure 20.16</span>. With congestion like this, it’s faster to walk.</div>
 
 <img src="figure150.png" width="439" height="257" />
 into heat and blown out of the radiator!) And what about the goal of getting off fossil fuels?
@@ -154,7 +154,7 @@ There are four ways to capture energy as a vehicle slows down.
 
 Electric regenerative braking (using a battery to store the energy) salvages roughly 50% of the car’s energy in a braking event, leading to perhaps a 20% reduction in the energy cost of city driving.
 
-<span class="figurenumber">Figure 20.17</span>. A BMW 530i modified by Artemis Intelligent Power to use digital hydraulics. Lower left: A 6-litre accumulator (the red canister), capable of storing about 0.05 kWh of energy in compressed nitrogen. Lower right: Two 200 kW hydraulic motors, one for each rear wheel, which both accelerate and decelerate the car. The car is still powered by its standard 190 kW petrol engine, but thanks to the digital hydraulic transmission and regenerative braking, it uses 30% less fuel.
+<div class='caption'><span class="figurenumber">Figure 20.17</span>. A BMW 530i modified by Artemis Intelligent Power to use digital hydraulics. Lower left: A 6-litre accumulator (the red canister), capable of storing about 0.05 kWh of energy in compressed nitrogen. Lower right: Two 200 kW hydraulic motors, one for each rear wheel, which both accelerate and decelerate the car. The car is still powered by its standard 190 kW petrol engine, but thanks to the digital hydraulic transmission and regenerative braking, it uses 30% less fuel.</div>
 
 Regenerative systems using flywheels and hydraulics seem to work a little better than battery-based systems, salvaging at least 70% of the braking energy. Figure 20.17 describes a hybrid car with a petrol engine powering digitally-controlled hydraulics. On a standard driving cycle, this car uses 30% less fuel than the original petrol car. In urban driving, its energy consumption is halved, from <span class="mauve">131 kWh per 100 km</span> to <span class="mauve">62 kWh per 100 km</span> (20 mpg to 43 mpg). (Credit for this performance improvement must be shared between regenerative braking and the use of hybrid technology.) Hydraulics and flywheels are both promising ways to handle regenerative braking because small systems can handle large powers. A flywheel system weighing just 24 kg (figure 20.18), designed for energy storage in a racing car, can store 400 kJ (0.1 kWh) of energy – enough energy to accelerate an ordinary car up to 60 miles per hour (97 km/h); and it can accept or deliver 60 kW of power. Electric batteries capable of delivering that much power would weigh about 200 kg. So, unless you’re already carrying that much battery on board, an electrical regenerative-braking system should probably use capacitors to store braking energy. Super-capacitors have similar energy-storage and power-delivery parameters to the flywheel’s.
 
@@ -169,10 +169,10 @@ The Lexus RX 400h is the second hybrid, advertised with the slogan “LOW POLLUT
 In practice, hybrid technologies seem to give fuel savings of 20 or 30%. So neither these petrol/electric hybrids, nor the petrol/hydraulic hybrid featured in figure 20.17 seems to me to have really cracked the transport challenge. A 30% reduction in fossil-fuel consumption is impressive, but it’s not enough by this book’s standards. Our opening assumption was that we want to get off fossil fuels, or at least to reduce fossil fuel use by 90%. Can this goal be achieved without reverting to bicycles?
 
 <img src="figure152.png" width="216" height="248" />
-<span class="figurenumber">Figure 20.18</span>. A flywheel regenerative-braking system. Photos courtesy of Flybrid Systems.
+<div class='caption'><span class="figurenumber">Figure 20.18</span>. A flywheel regenerative-braking system. Photos courtesy of Flybrid Systems.</div>
 
 <img src="figure153.png" width="221" height="148" />
-<span class="figurenumber">Figure 20.19</span>. Toyota Prius – according to Jeremy Clarkson, “a very expensive, very complex, not terribly green, slow, cheaply made, and pointless way of moving around.”
+<div class='caption'><span class="figurenumber">Figure 20.19</span>. Toyota Prius – according to Jeremy Clarkson, “a very expensive, very complex, not terribly green, slow, cheaply made, and pointless way of moving around.”</div>
 
 <img src="figure421.png" width="695" height="155" />
 ### Electric vehicles
@@ -185,16 +185,16 @@ Now, the G-Wiz sits at one end of the performance spectrum. What if we demand mo
 
 I’ve looked up the performance figures for lots of electric vehicles – they’re listed in this chapter’s end-notes – and they seem to be consistent with this summary: electric vehicles can deliver transport at an energy cost of roughly <span class="mauve">15 kWh per 100 km</span>. That’s five times better than our baseline fossil-car, and significantly better than any hybrid cars. Hurray! To achieve economical transport, we don’t have to huddle together in public transport – we can still hurtle around, enjoying all the pleasures and freedoms of solo travel, thanks to electric vehicles.
 
-<span class="figurenumber">Figure 20.20</span>. Electric vehicles. From left to right: the G-Wiz; the rotting corpse of a Sinclair C5; a Citroën Berlingo; and an Elettrica.
+<div class='caption'><span class="figurenumber">Figure 20.20</span>. Electric vehicles. From left to right: the G-Wiz; the rotting corpse of a Sinclair C5; a Citroën Berlingo; and an Elettrica.</div>
 
 <img src="figure422.png" width="214" height="264" />
-<span class="figurenumber">Figure 20.21</span>. Electricity required to recharge a G-Wiz versus distance driven. Measurements were made at the socket.
+<div class='caption'><span class="figurenumber">Figure 20.21</span>. Electricity required to recharge a G-Wiz versus distance driven. Measurements were made at the socket.</div>
 
 <img src="figure423.png" width="219" height="151" />
-<span class="figurenumber">Figure 20.22</span>. Tesla Roadster: <span class="mauve">15 kWh per 100 km</span>. <span class="websitetitle">www.teslamotors.com</span>.
+<div class='caption'><span class="figurenumber">Figure 20.22</span>. Tesla Roadster: <span class="mauve">15 kWh per 100 km</span>. <span class="websitetitle">www.teslamotors.com</span>.</div>
 
 <img src="figure151.png" width="567" height="822" />
-<span class="figurenumber">Figure 20.23</span>. Energy requirements of different forms of passenger transport. The vertical coordinate shows the energy consumption in kWh per 100 passenger-km. The horizontal coordinate indicates the speed of the transport. The “Car (1)” is an average UK car doing 33 miles per gallon with a single occupant. The “Bus” is the average performance of all London buses. The “Underground system” shows the performance of the whole London Underground system. The catamaran is a diesel-powered vessel. I’ve indicated on the left-hand side equivalent fuel efficiencies in passenger-miles per imperial gallon (p-mpg). Hollow point-styles show best-practice performance, assuming all seats of a vehicle are in use. Filled point-styles indicate actual performance of a vehicle in typical use. See also figure 15.8 (energy requirements of freight transport).
+<div class='caption'><span class="figurenumber">Figure 20.23</span>. Energy requirements of different forms of passenger transport. The vertical coordinate shows the energy consumption in kWh per 100 passenger-km. The horizontal coordinate indicates the speed of the transport. The “Car (1)” is an average UK car doing 33 miles per gallon with a single occupant. The “Bus” is the average performance of all London buses. The “Underground system” shows the performance of the whole London Underground system. The catamaran is a diesel-powered vessel. I’ve indicated on the left-hand side equivalent fuel efficiencies in passenger-miles per imperial gallon (p-mpg). Hollow point-styles show best-practice performance, assuming all seats of a vehicle are in use. Filled point-styles indicate actual performance of a vehicle in typical use. See also figure 15.8 (energy requirements of freight transport).</div>
 
 This moment of celebration feels like a good time to unveil this chapter’s big summary diagram, figure 20.23, which shows the energy requirements of all the forms of passenger-transport we have discussed and a couple that are still to come.
 
@@ -213,10 +213,10 @@ I think hydrogen is a hyped-up bandwagon. I’ll be delighted to be proved wrong
 The “hydrogen economy” received support from *Nature* magazine in
 
 <img src="figure154.png" width="219" height="308" />
-<span class="figurenumber">Figure 20.24</span>. Top: A compressed-air tram taking on air and steam in Nantes. Powering the trams of Nantes used 4.4 kg of coal (36 kWh) per vehicle-km, or <span class="mauve">115 kWh per 100 p-km</span>, if the trams were full. \[<span class="tinylink">5qhvcb</span>\] Bottom: A compressed-air locomotive; weight 9.2 t, pressure 175 bar, power 26 kW; photo courtesy of Rüdiger Fach, Rolf-Dieter Reichert, and Frankfurter Feldbahnmuseum.
+<div class='caption'><span class="figurenumber">Figure 20.24</span>. Top: A compressed-air tram taking on air and steam in Nantes. Powering the trams of Nantes used 4.4 kg of coal (36 kWh) per vehicle-km, or <span class="mauve">115 kWh per 100 p-km</span>, if the trams were full. \[<span class="tinylink">5qhvcb</span>\] Bottom: A compressed-air locomotive; weight 9.2 t, pressure 175 bar, power 26 kW; photo courtesy of Rüdiger Fach, Rolf-Dieter Reichert, and Frankfurter Feldbahnmuseum.</div>
 
 <img src="figure155.png" width="221" height="166" />
-<span class="figurenumber">Figure 20.25</span>. The Hummer H2H: embracing the green revolution, the American way. Photo courtesy of General Motors.
+<div class='caption'><span class="figurenumber">Figure 20.25</span>. The Hummer H2H: embracing the green revolution, the American way. Photo courtesy of General Motors.</div>
 
 a column praising California Governor Arnold Schwarzenegger for filling up a hydrogen-powered Hummer (figure 20.25). Nature’s article lauded Arnold’s vision of hydrogen-powered cars replacing “polluting models” with the quote “the governor is a real-life climate action hero.” But the critical question that needs to be asked when such hydrogen heroism is on display is “where is the *energy* to come from to *make* the hydrogen?” Moreover, converting energy to and from hydrogen can only be done inefficiently – at least, with today’s technology.
 
@@ -232,13 +232,13 @@ Hydrogen advocates may say “the BMW Hydrogen 7 is just an early prototype, and
 Yes, the Honda fuel-cell car, the FCX Clarity, does better – it rolls in at 69 kWh per 100 km – but my prediction is that after all the “zeroemissions” trumpeting is over, we’ll find that hydrogen cars use just as much energy as the average fossil car of today.
 
 <img src="figure156.png" width="219" height="158" />
-<span class="figurenumber">Figure 20.26</span>. BMW Hydrogen 7. Energy consumption: <span class="mauve">254 kWh per 100 km</span>. Photo from BMW.
+<div class='caption'><span class="figurenumber">Figure 20.26</span>. BMW Hydrogen 7. Energy consumption: <span class="mauve">254 kWh per 100 km</span>. Photo from BMW.</div>
 
 <img src="figure157.png" width="221" height="150" />
-<span class="figurenumber">Figure 20.27</span>. The Earthrace “eco-boat.” Photo by David Castor.
+<div class='caption'><span class="figurenumber">Figure 20.27</span>. The Earthrace “eco-boat.” Photo by David Castor.</div>
 
 <img src="figure158.png" width="219" height="141" />
-<span class="figurenumber">Figure 20.28</span>. The Honda FCX Clarity hydrogen-powered fuel-cell sedan, with a Jamie Lee Curtis for scale. Photo courtesy of <span class="websitetitle">automobiles.honda.com</span>.
+<div class='caption'><span class="figurenumber">Figure 20.28</span>. The Honda FCX Clarity hydrogen-powered fuel-cell sedan, with a Jamie Lee Curtis for scale. Photo courtesy of <span class="websitetitle">automobiles.honda.com</span>.</div>
 
 Here are some other problems with hydrogen. Hydrogen is a less convenient energy storage medium than most liquid fuels, because of its bulk, whether stored as a high pressure gas or as a liquid (which requires a temperature of -253 °C). Even at a pressure of 700 bar (which requires a hefty pressure vessel) its energy density (energy per unit volume) is 22% of gasoline’s. The cryogenic tank of the BMW Hydrogen 7 weighs 120 kg and stores 8 kg of hydrogen. Furthermore, hydrogen gradually leaks out of any practical container.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#131) If you park your hydrogen car at the railway station with a full tank and come back a week later, you should expect to find most of the hydrogen has gone.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#131)
 
@@ -277,7 +277,7 @@ Boeing has announced similar breakthroughs: their new 747–8 Intercontinental, 
 This slender rate of progress (contrasted with cars, where changes in technology deliver two-fold or even ten-fold improvements in efficiency) is explained in Technical Chapter C. Planes are up against a fundamental limit imposed by the laws of physics. Any plane, whatever its size, *has to* expend an energy of about 0.4 kWh per ton-km on keeping up and keeping
 
 <img src="figure159.png" width="221" height="246" />
-<span class="figurenumber">Figure 20.29</span>. Airbus A380.
+<div class='caption'><span class="figurenumber">Figure 20.29</span>. Airbus A380.</div>
 
 moving. Planes have already been fantastically optimized, and there is no prospect of significant improvements in plane efficiency.
 
@@ -290,13 +290,13 @@ So, sadly, I don’t think boats are going to beat planes in energy consumption.
 International shipping is a surprisingly efficient user of fossil fuels; so getting road transport off fossil fuels is a higher priority than getting ships off fossil fuels. But fossil fuels are a finite resource, and eventually ships must be powered by something else. Biofuels *may* work out. Another option will be nuclear power. The first nuclear-powered ship for carrying cargo and passengers was the NS Savannah, launched in 1962 as part of President Dwight D. Eisenhower’s *Atoms for Peace* initiative (figure 20.31). Powered by one 74-MW nuclear reactor driving a 15-MW motor, the Savannah had a service speed of 21 knots (39 km/h) and could carry 60 passengers and 14000 t of cargo. That’s a cargo transport cost of 0.14 kWh per ton-km. She could travel 500 000 km without refuelling. There are already many nuclear-powered ships, both military and civilian. Russia has ten nuclear-powered ice-breakers, for example, of which seven are still active. Figure 20.32 shows the nuclear ice-breaker Yamal, which has two 171-MW reactors, and motors that can deliver 55 MW.
 
 <img src="figure160.png" width="219" height="172" />
-<span class="figurenumber">Figure 20.30</span>. TSS Rijndam.
+<div class='caption'><span class="figurenumber">Figure 20.30</span>. TSS Rijndam.</div>
 
 <img src="figure161.png" width="221" height="182" />
-<span class="figurenumber">Figure 20.31</span>. NS Savannah, the first commercial nuclear-powered cargo vessel, passing under the Golden Gate Bridge in 1962.
+<div class='caption'><span class="figurenumber">Figure 20.31</span>. NS Savannah, the first commercial nuclear-powered cargo vessel, passing under the Golden Gate Bridge in 1962.</div>
 
 <img src="figure162.png" width="219" height="209" />
-<span class="figurenumber">Figure 20.32</span>. The nuclear ice-breaker Yamal, carrying 100 tourists to the North Pole in 2001. Photo by Wofratz.
+<div class='caption'><span class="figurenumber">Figure 20.32</span>. The nuclear ice-breaker Yamal, carrying 100 tourists to the North Pole in 2001. Photo by Wofratz.</div>
 
 ## “Hang on! You haven’t mentioned magnetic levitation”
 
@@ -324,13 +324,13 @@ page no.
 <span class="mark">–</span> *The 8-carriage stopping train from Cambridge to London* (figure 20.4) weighs 275 tonnes, and can carry 584 passengers seated. Its maximum speed is 100mph (161 km/h), and the power output is 1.5 MW. If all the seats are occupied, this train at top speed consumes at most *1.6 kWh per 100 passenger-km*.
 
 <img src="figure163.png" width="221" height="123" />
-<span class="figurenumber">Figure 20.33</span>. A maglev train at Pudong International Airport, Shanghai.
+<div class='caption'><span class="figurenumber">Figure 20.33</span>. A maglev train at Pudong International Airport, Shanghai.</div>
 “driving without wheels; flying without wings.”
 
 Photo by Alex Needham.
 
 <img src="figure164.png" width="219" height="298" />
-<span class="figurenumber">Figure 20.34</span>. Nine out of ten vehicles in London are G-Wizes. (And 95% of statistics are made up.)
+<div class='caption'><span class="figurenumber">Figure 20.34</span>. Nine out of ten vehicles in London are G-Wizes. (And 95% of statistics are made up.)</div>
 
 <span class="mark">120</span> *London Underground*. A Victoria-line train consists of four 30.5-ton and four 20.5-ton cars (the former carrying the motors). Laden, an average train weighs 228 tons. The maximum speed is 45 mile/h. The average speed is 31 mph. A train with most seats occupied carries about 350 passengers; crush-loaded, the train takes about 620. The energy consumption at peak times is about *4.4 kWh per 100 passenger-km* (Catling, 1966).
 
@@ -345,10 +345,10 @@ Photo by Alex Needham.
 <span class="mark">124</span>*A fair and simple method for handling congestion-charging*. I learnt a brilliant way to automate congestion-charging from Stephen Salter. A simple daily congestion charge, as levied in London, sends only a crude signal to drivers; once a car-owner has decided to pay the day’s charge and drive into a congestion zone, he has no incentive to drive *little* in the zone. Nor is he rewarded with any rebate if he carefully chooses routes in the zone that are not congested. Instead of having a centralized authority that decides in advance when and where the congestion-charge zones are, with expensive and intrusive monitoring and recording of vehicle movements into and within all those zones, Salter has a simpler, decentralized, anonymous method of charging drivers for driving in heavy, slow traffic, wherever and whenever it actually exists. The system would operate nationwide. Here’s how it works. We want a device that answers the question “how congested is the traffic I am driving in?” A good measure of congestion is “how many other active vehicles are close to mine?” In fast-moving traffic, the spacing between vehicles is larger than slow-moving traffic. Traffic that’s trundling in tedious queues is the
 
 <img src="figure165.png" width="204" height="307" />
-<span class="figurenumber">Figure 20.35</span>. 100 km in a single-person car, compared with 100 km on a fully-occupied electric high-speed train.
+<div class='caption'><span class="figurenumber">Figure 20.35</span>. 100 km in a single-person car, compared with 100 km on a fully-occupied electric high-speed train.</div>
 
 <img src="figure424.png" width="211" height="375" />
-<span class="figurenumber">Figure 20.36</span>. Trams work nicely in Istanbul and Prague too.
+<div class='caption'><span class="figurenumber">Figure 20.36</span>. Trams work nicely in Istanbul and Prague too.</div>
 
 most densely packed. The number of nearby vehicles that are active can be sensed anonymously by fitting in every vehicle a radio transmitter/receiver (like a very cheap mobile phone) that transmits little radio-bleeps at a steady rate whenever the engine is running, and that counts the number of bleeps it hears from other vehicles. The congestion charge would be proportional to the number of bleeps received; this charge could be paid at refuelling stations whenever the vehicle is refuelled. The radio transmitter/receiver would replace the current UK road tax disc.
 
@@ -371,7 +371,7 @@ most densely packed. The number of nearby vehicles that are active can be sensed
 <span class="rpad">Electric Smart Car</span> “The electric version is powered by a 40 bhp motor, can goup to 70 miles, and has a top speed of 70 mph. Recharging is done through a standard electrical power point and costs about £1.20, producing the equivalent of 60 g/km of carbon dioxide emissions at the power station. \[cf. the equivalent petrol-powered Smart: 116 g/km.\] A full recharge takes
 
 <img src="figure166.png" width="219" height="158" />
-<span class="figurenumber">Figure 20.37</span>. Th!nk Ox. Photo from <span class="websitetitle">www.think.no</span>.
+<div class='caption'><span class="figurenumber">Figure 20.37</span>. Th!nk Ox. Photo from <span class="websitetitle">www.think.no</span>.</div>
 
 about eight hours, but the battery can be topped up from 80%-drained to 80%-charged in about three-and-a-half hours.” \[<span class="websitetitle">www.whatcar.com/newsarticle.aspx?NA=226488</span>\]
 
@@ -400,16 +400,16 @@ about eight hours, but the battery can be topped up from 80%-drained to 80%-char
 <span class="rpad">Xebra</span> Is claimed to have a 40 km range from a 4.75 kWh charge. <span class="mauve">12 kWh per 100 km</span>. Maximum speed 65 km/h. Lead-acid batteries.
 
 <img src="figure167.png" width="221" height="141" />
-<span class="figurenumber">Figure 20.38</span>. The i MiEV from Mitsubishi Motors Corporation. It has a 47 kW motor, weighs 1080 kg, and has a top speed of 130 km/h.
+<div class='caption'><span class="figurenumber">Figure 20.38</span>. The i MiEV from Mitsubishi Motors Corporation. It has a 47 kW motor, weighs 1080 kg, and has a top speed of 130 km/h.</div>
 
 <img src="figure168.png" width="219" height="175" />
-<span class="figurenumber">Figure 20.39</span>. Lightning: <span class="mauve">11 kWh per 100 km</span>. Photo from <span class="websitetitle">www.lightningcarcompany.co.uk</span>.
+<div class='caption'><span class="figurenumber">Figure 20.39</span>. Lightning: <span class="mauve">11 kWh per 100 km</span>. Photo from <span class="websitetitle">www.lightningcarcompany.co.uk</span>.</div>
 
 <img src="figure169.png" width="221" height="95" />
-<span class="figurenumber">Figure 20.40</span>. The Aptera. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">www.aptera.com</span>.
+<div class='caption'><span class="figurenumber">Figure 20.40</span>. The Aptera. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">www.aptera.com</span>.</div>
 
 <img src="figure170.png" width="219" height="76" />
-<span class="figurenumber">Figure 20.41</span>. The Loremo. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">evolution.loremo.com</span>.
+<div class='caption'><span class="figurenumber">Figure 20.41</span>. The Loremo. <span class="mauve">6 kWh per 100 km</span>. Photo from <span class="websitetitle">evolution.loremo.com</span>.</div>
 
 <span class="rpad">TREV</span> The Two-Seater Renewable Energy Vehicle (TREV) is a prototype developed by the University of South Australia (figure 20.42). This three-wheeler has a range of 150 km, a top speed of 120 km/h, a mass of 300 kg, and lithium-ion polymer batteries weighing 45 kg. During a real 3000 km trip, the energy consumption was <span class="mauve">6.2 kWh per 100 km</span>.
 

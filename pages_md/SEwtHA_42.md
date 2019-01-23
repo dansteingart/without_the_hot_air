@@ -7,7 +7,7 @@ Figure J.1 shows the areas of various regions versus their populations. Diagonal
 Of these large, area-rich countries, some that are close to Britain, and with whom Britain might therefore wish to be friendly, are Kazakhstan, Libya, Saudi Arabia, Algeria, and Sudan.
 
 <img src="figure313.png" width="415" height="353" />
-<span class="figurenumber">Figure J.1.</span> Populations and areas of countries and regions of the world. Both scales are logarithmic. Each sloping line identifies a population density; countries with highest population density are towards the lower right, and lower population densities are towards the upper left. These data are provided in tabular form on p341.
+<div class='caption'><span class="figurenumber">Figure J.1.</span> Populations and areas of countries and regions of the world. Both scales are logarithmic. Each sloping line identifies a population density; countries with highest population density are towards the lower right, and lower population densities are towards the upper left. These data are provided in tabular form on p341.</div>
 
 <img src="figure314.png" width="461" height="343" />
 | Region        | Population    | Land area        
@@ -24,12 +24,12 @@ Of these large, area-rich countries, some that are close to Britain, and with wh
 | Oceania       | 31 000 000    | 7 680 000        | 4                  | 247 000         |
 | Antarctica    | 4 000         | 13 200 000       |                    |                 |
 
-<span class="figurenumber">Figure J.2.</span> Populations and areas of countries and regions of the world. Both scales are logarithmic. Sloping lines are lines of constant population density. This figure shows detail from figure J.1 (p338). These data are provided in tabular form on p341.
+<div class='caption'><span class="figurenumber">Figure J.2.</span> Populations and areas of countries and regions of the world. Both scales are logarithmic. Sloping lines are lines of constant population density. This figure shows detail from figure J.1 (p338). These data are provided in tabular form on p341.</div>
 
-<span class="figurenumber">Table J.3.</span> Population densities of the continents. These data are displayed graphically in figures J.1 and J.2. Data are from 2005.
+<div class='caption'><span class="figurenumber">Table J.3.</span> Population densities of the continents. These data are displayed graphically in figures J.1 and J.2. Data are from 2005.</div>
 
 <img src="figure315.png" width="678" height="351" />
-<span class="figurenumber">Figure J.4.</span> Populations and areas of the States of America and regions around Europe.
+<div class='caption'><span class="figurenumber">Figure J.4.</span> Populations and areas of the States of America and regions around Europe.</div>
 
 Region
 Population
@@ -643,4 +643,4 @@ Zambia
 752 000
 15
 66 800
-<span class="figurenumber">Table J.5.</span> Regions and their population densities. Populations above 50 million and areas greater than 5 million km<sup>2</sup> are highlighted. These data are displayed graphically in figure J.1 (p338). Data are from 2005.
+<div class='caption'><span class="figurenumber">Table J.5.</span> Regions and their population densities. Populations above 50 million and areas greater than 5 million km<sup>2</sup> are highlighted. These data are displayed graphically in figure J.1 (p338). Data are from 2005.</div>

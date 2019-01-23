@@ -17,13 +17,13 @@ The vegan has the smallest inevitable footprint: <span class="red">3 kWh per day
 I love milk. If I drinka-pinta-milka-day, what energy does that require? A typical dairy cow produces 16 litres of milk per day. So my one pint per day (half a litre per day) requires that I employ <span class="above">1</span>⁄<span class="below">32</span> of a cow. Oh, hang on – I love cheese too. And to make 1 kg of Irish Cheddar takes about 9 kg of milk. So consuming 50 g of cheese per day requires the production of an extra 450 g of milk. OK: my milk and cheese habit requires that I employ <span class="above">1</span>⁄<span class="below">16</span> of a cow. And how much power does it take to run a cow? Well, if a cow weighing 450 kg has similar energy requirements per kilogram to a human (whose 65 kg burns 3 kWh per day) then the cow must be using about 21 kWh/d. Does this extrapolation from human to cow make you uneasy? Let’s check these numbers: <span class="websitetitle">www.dairyaustralia.com.au</span> says that a suckling cow of weight 450 kg needs 85 MJ/d, which is 24 kWh/d. Great, our guess wasn’t far off! So my <span class="above">1</span>⁄<span class="below">16</span> share of a cow has an energy consumption of about <span class="red">1.5 kWh per day</span>. This figure ignores other energy costs involved in persuading the cow to make milk and the milk to turn to cheese, and of getting the milk and cheese to travel from her to me. We’ll cover some of these costs when we discuss freight and supermarkets in Chapter 15.
 
 <img src="figure89.png" width="221" height="170" />
-<span class="figurenumber">Figure 13.1</span>. A salad Niçoise.
+<div class='caption'><span class="figurenumber">Figure 13.1</span>. A salad Niçoise.</div>
 
 <img src="figure412.png" width="120" height="40" />
-<span class="figurenumber">Figure 13.2</span>. Minimum energy requirement of one person.
+<div class='caption'><span class="figurenumber">Figure 13.2</span>. Minimum energy requirement of one person.</div>
 
 <img src="figure90.png" width="143" height="34" />
-<span class="figurenumber">Figure 13.3</span>. Milk and cheese.
+<div class='caption'><span class="figurenumber">Figure 13.3</span>. Milk and cheese.</div>
 
 ### Eggs
 
@@ -48,10 +48,10 @@ To condense all these ideas down to a single number, let’s assume you eat half
 I’ve again taken the physiological liberty of assuming “animals are like humans;” a more accurate estimate of the energy to make chicken is in this chapter’s endnotes. No matter, I only want a ballpark estimate, and here it is. The power required to make the food for a typical consumer of vegetables, dairy, eggs, and meat is 1.5 + 1.5 + 1 + 8 = <span class="red">12 kWh per day</span>. (The daily calorific balance of this rough diet is 1.5 kWh from vegetables;
 
 <img src="figure91.png" width="101" height="33" />
-<span class="figurenumber">Figure 13.4</span>. Two eggs per day.
+<div class='caption'><span class="figurenumber">Figure 13.4</span>. Two eggs per day.</div>
 
 <img src="figure92.png" width="122" height="56" />
-<span class="figurenumber">Figure 13.5</span>. Eating meat requires extra power because we have to feed the queue of animals lining up to be eaten by the human.
+<div class='caption'><span class="figurenumber">Figure 13.5</span>. Eating meat requires extra power because we have to feed the queue of animals lining up to be eaten by the human.</div>
 
 0.7 kWh from dairy; 0.2 kWh from eggs; and 0.5 kWh from meat – a total of 2.9 kWh per day.)
 
@@ -74,10 +74,10 @@ There are perhaps 8 million cats in Britain. Let’s assume you look after one o
 Similarly if your dog Fido eats 200 g of meat per day, and carbohydrates
 
 <img src="figure93.png" width="221" height="229" />
-<span class="figurenumber">Figure 13.6</span>. Will harvest energy crops for food.
+<div class='caption'><span class="figurenumber">Figure 13.6</span>. Will harvest energy crops for food.</div>
 
 <img src="figure94.png" width="183" height="201" />
-<span class="figurenumber">Figure 13.7</span>. The power required for animal companions’ food.
+<div class='caption'><span class="figurenumber">Figure 13.7</span>. The power required for animal companions’ food.</div>
 
 amounting to 1 kWh per day, then the power required to make his food is about <span class="red">9 kWh per day</span>.
 
@@ -100,7 +100,7 @@ page no.
 <span class="mark">–</span>*Chicken*. A full-grown (20-week old) layer weighs 1.5 or 1.6 kg. Its feed has an energy content of 2850 kcal per kg, which is 3.3 kWh per kg, and its feed consumption rises to 340 g per week when 6 weeks old, and to 500 g per week when aged 20 weeks. Once laying, the typical feed required is 110 g per day. Meat chickens’ feed has an energy content of 3.7 kWh per kg. Energy consumption is 400–450 kcal per day per hen (0.5 kWh/d per hen), with 2 kg being a typical body weight. A meat chicken weighing 2.95 kg consumes a total of 5.32 kg of feed \[<span class="tinylink">5h69fm</span>\]. So the embodied energy of a meat chicken is about 6.7 kWh per kg of animal, or 10 kWh per kg of eaten meat.
 
 <img src="figure95.png" width="212" height="639" />
-<span class="figurenumber">Figure 13.8</span>. Food and farming.
+<div class='caption'><span class="figurenumber">Figure 13.8</span>. Food and farming.</div>
 
 If I’d used this number instead of my rough guess, the energy contribution of the chicken would have been bumped up a little. But given that the mixed-meat diet’s energy footprint is dominated by the beef, it really doesn’t matter that I underestimated the chickens. Sources: Subcommittee on Poultry Nutrition, National Research Council (1994), <span class="websitetitle">www.nap.edu/ openbook.php?isbn=0309048923</span>, MacDonald (2008), and <span class="websitetitle">www.statistics. gov.uk/statbase/datasets2.asp</span>.
 

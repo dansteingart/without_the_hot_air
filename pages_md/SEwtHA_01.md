@@ -1,9 +1,12 @@
-# 1   Motivations
+#1 Motivations
 
-> We live at a time when emotions and feelings count more than
-> truth, and there is a vast ignorance of science. James Lovelock
+> We live at a time when emotions and feelings count more than  
+> truth, and there is a vast ignorance of science.   
+>  
+> _James Lovelock_
 
-I recently read two books, one by a physicist, and one by an economist. In *Out of Gas*, Caltech physicist David Goodstein describes an impending energy crisis brought on by The End of the Age of Oil. This crisis is coming soon, he predicts: the crisis will bite, not when the last drop of oil is extracted, but when oil extraction can’t meet demand – perhaps as soon as 2015 or 2025. Moreover, even if we magically switched all our energyguzzling to nuclear power right away, Goodstein says, the oil crisis would simply be replaced by a *nuclear* crisis in just twenty years or so, as uranium reserves also became depleted.
+
+I [recently](#foo) read two books, one by a physicist, and one by an economist. In *Out of Gas*, Caltech physicist David Goodstein describes an impending energy crisis brought on by *The End of the Age of Oil*. This crisis is coming soon, he predicts: the crisis will bite, not when the last drop of oil is extracted, but when oil extraction can’t meet demand – perhaps as soon as 2015 or 2025. Moreover, even if we magically switched all our energyguzzling to nuclear power right away, Goodstein says, the oil crisis would simply be replaced by a *nuclear* crisis in just twenty years or so, as uranium reserves also became depleted.
 
 In *The Skeptical Environmentalist*, Bjørn Lomborg paints a completely different picture. “Everything is ﬁne.” Indeed, “everything is getting better.” Furthermore, “we are not headed for a major energy crisis,” and “there is plenty of energy.”
 
@@ -13,20 +16,9 @@ Energy made it into the British news in 2006. Kindled by tidings of great climat
 
 “Wind or nuclear?”, for example. Greater polarization of views among smart people is hard to imagine. During a discussion of the proposed expansion of nuclear power, Michael Meacher, former environment minister, said “if we’re going to cut greenhouse gases by 60% ... by 2050 there is no other possible way of doing that except through renewables;” Sir Bernard Ingham, former civil servant, speaking in favour of nuclear expansion, said “anybody who is relying upon renewables to ﬁll the \[energy\] gap is living in an utter dream world and is, in my view, an enemy of the people.”
 
-Similar disagreement can be heard within the ecological movement. All agree that *something* must be done urgently, but *what?* Jonathon Porritt, chair of the Sustainable Development Commission, writes: “there is no justiﬁcation for bringing forward plans for a new nuclear power programme at this time, and ... any such proposal would be incompatible with \[the Government’s\] sustainable development strategy;” and “a nonnuclear strategy could and should be sufﬁcient to deliver all the carbon savings we shall need up to 2050 and beyond, and to ensure secure access to reliable sources of energy.” In contrast, environmentalist James Lovelock writes in his book, *The Revenge of Gaia*: “Now is much too late to establish sustainable development.” In his view, power from nuclear ﬁssion, while
+Similar disagreement can be heard within the ecological movement. All agree that *something* must be done urgently, but *what?* Jonathon Porritt, chair of the Sustainable Development Commission, writes: “there is no justiﬁcation for bringing forward plans for a new nuclear power programme at this time, and ... any such proposal would be incompatible with \[the Government’s\] sustainable development strategy;” and “a nonnuclear strategy could and should be sufﬁcient to deliver all the carbon savings we shall need up to 2050 and beyond, and to ensure secure access to reliable sources of energy.” In contrast, environmentalist James Lovelock writes in his book, *The Revenge of Gaia*: “Now is much too late to establish sustainable development.” In his view, power from nuclear ﬁssion, while not recommended as the long-term panacea for our ailing planet, is “the only effective medicine we have now.” Onshore wind turbines are “merely ... a gesture to prove \[our leaders’\] environmental credentials.”
 
-<img src="OutOfGasS.jpg" alt="OutOfGas" width="140" height="224" />
-David Goodstein’s *Out of Gas* (2004).
-
-<img src="lomborgSES.jpg" alt="SkepticalEnvironmentalist" width="140" height="199" />
-Bjørn Lomborg’s *The Skeptical Environmentalist* (2001).
-
-<img src="revengeOfGaiaS.jpg" alt="RevengeOfGaia" width="132" height="200" />
-*The Revenge of Gaia: Why the earth is ﬁghting back – and how we can still save humanity.* James Lovelock (2006). © Allen Lane.
-
-not recommended as the long-term panacea for our ailing planet, is “the only effective medicine we have now.” Onshore wind turbines are “merely ... a gesture to prove \[our leaders’\] environmental credentials.”
-
-This heated debate is fundamentally about numbers. How much energy could each source deliver, at what economic and social cost, and with what risks? But actual numbers are rarely mentioned. In public debates, people just say “Nuclear is a money pit” or “We have a *huge* amount of wave and wind.” The trouble with this sort of language is that it’s not sufﬁcient to know that something is huge: we need to know how the one “huge” compares with another “huge,” namely *our huge energy consump-* *tion*. To make this comparison, we need numbers, not adjectives.
+This heated debate is fundamentally about numbers. How much energy could each source deliver, at what economic and social cost, and with what risks? But actual numbers are rarely mentioned. In public debates, people just say “Nuclear is a money pit” or “We have a *huge* amount of wave and wind.” The trouble with this sort of language is that it’s not sufﬁcient to know that something is huge: we need to know how the one “huge” compares with another “huge,” namely *our huge energy consumption*. To make this comparison, we need numbers, not adjectives.
 
 Where numbers are used, their meaning is often obfuscated by enormousness. Numbers are chosen to impress, to score points in arguments, rather than to inform. “Los Angeles residents drive 142 million miles – the distance from Earth to Mars – every single day.” “Each year, 27 million acres of tropical rainforest are destroyed.” “14 billion pounds of trash are dumped into the sea every year.” “British people throw away 2.6 billion slices of bread per year.” “The waste paper buried each year in the UK could ﬁll 103448 double-decker buses.”
 
@@ -35,18 +27,16 @@ If all the ineffective ideas for solving the energy crisis were laid end to end,
 The result of this lack of meaningful numbers and facts? We are inundated with a ﬂood of crazy innumerate codswallop. The BBC doles out advice on how we can do our bit to save the planet – for example “switch off your mobile phone charger when it’s not in use;” if anyone objects that mobile phone chargers are not *actually* our number one form of energy consumption, the mantra “every little helps” is wheeled out. Every little helps? A more realistic mantra is:
 
 > if everyone does a little, we’ll achieve only a little.
+>
+> (For the beneﬁt of readers who speak American, rather than English, the translation of “every little helps” into American is “every little bit helps.”)
 
-Companies also contribute to the daily codswallop as they tell us how wonderful they are, or how they can help us “do our bit.” BP’s website, for example, celebrates the reductions in carbon dioxide (CO<sub>2</sub>) pollution they hope to achieve by changing the paint used for painting BP’s ships. Does anyone fall for this? Surely everyone will guess that it’s not the exterior paint job, it’s the stuff *inside* the tanker that deserves attention, if society’s CO<sub>2</sub> emissions are to be signiﬁcantly cut? BP also created a web-based carbon absolution service, “<span class="websitetitle">targetneutral.com</span>,” which claims that they can “neutralize” all your carbon emissions, and that it “doesn’t cost the earth” – indeed, that your CO<sub>2</sub> pollution can be cleaned up for just £40 per year. How can this add up? – if the true cost of ﬁxing climate change were £40 per person then the government could ﬁx it with the loose change in the Chancellor’s pocket!
+Companies also contribute to the daily codswallop as they tell us how wonderful they are, or how they can help us “do our bit.” BP’s website, for example, celebrates the reductions in carbon dioxide (CO<sub>2</sub>) pollution they hope to achieve by changing the paint used for painting BP’s ships. Does anyone fall for this? Surely everyone will guess that it’s not the exterior paint job, it’s the stuff *inside* the tanker that deserves attention, if society’s CO<sub>2</sub> emissions are to be signiﬁcantly cut? BP also created a web-based carbon absolution service,[targetneutral.com](targetneutral.com), which claims that they can “neutralize” all your carbon emissions, and that it “doesn’t cost the earth” – indeed, that your CO<sub>2</sub> pollution can be cleaned up for just £40 per year. How can this add up? – if the true cost of ﬁxing climate change were £40 per person then the government could ﬁx it with the loose change in the Chancellor’s pocket!
 
-Even more reprehensible are companies that exploit the current concern for the environment by offering “water-powered batteries,” “biodegrad
-
-For the beneﬁt of readers who speak American, rather than English, the translation of “every little helps” into American is “every little bit helps.”
-
-able mobile phones,” “portable arm-mounted wind-turbines,” and other pointless tat.
+Even more reprehensible are companies that exploit the current concern for the environment by offering “water-powered batteries,” “biodegradable mobile phones,” “portable arm-mounted wind-turbines,” and other pointless [tat](#foo2).
 
 Campaigners also mislead. People who want to promote renewables over nuclear, for example, say “offshore wind power could power all UK homes;” then they say “new nuclear power stations will do little to tackle climate change” because 10 new nuclear stations would “reduce emissions only by about 4%.” This argument is misleading because the playing ﬁeld is switched half-way through, from the “number of homes powered” to “reduction of emissions.” The truth is that the amount of electrical power generated by the wonderful windmills that “could power all UK homes” is *exactly the same* as the amount that would be generated by the 10 nuclear power stations! “Powering all UK homes” accounts for just 4% of UK emissions.
 
-Perhaps the worst offenders in the kingdom of codswallop are the people who really should know better – the media publishers who promote the codswallop – for example, New Scientist with their article about the “water-powered car.” <span class="red">\*</span>
+Perhaps the worst offenders in the kingdom of codswallop are the people who really should know better – the media publishers who promote the codswallop – for example, [New Scientist with their article about the “water-powered car.”](https://www.newscientist.com/article/mg19125621-200-a-fuel-tank-full-of-water/)<span class="red">\*</span>
 
 In a climate where people don’t understand the numbers, newspapers, campaigners, companies, and politicians can get away with murder.
 
@@ -66,13 +56,13 @@ With numbers in place, we will be better placed to answer questions such as thes
 <span class="red">\*</span> See this chapter’s notes (p19) for the awful details. (Every chapter has endnotes giving references, sources, and details of arguments. To avoid distracting the reader, I won’t include any more footnote marks in the text.)
 
 <img src="figure3.png" alt="Greenpeace leaflet" width="215" height="168" />
-<span class="figurenumber">Figure 1.1.</span> This Greenpeace leaﬂet arrived with my junk mail in May 2006. Do beloved windmills have the capacity to displace hated cooling towers?
+<div class="capt"><span class="figurenumber">Figure 1.1 | </span> This Greenpeace leaﬂet arrived with my junk mail in May 2006. Do beloved windmills have the capacity to displace hated cooling towers?</div>
 
 ## Why are we discussing energy policy?
 
 Three different motivations drive today’s energy discussions.
 
-First, fossil fuels are a ﬁnite resource. It seems possible that cheap oil (on which our cars and lorries run) and cheap gas (with which we heat many of our buildings) will run out in our lifetime. So we seek alternative energy sources. Indeed given that fossil fuels are a valuable resource, useful for manufacture of plastics and all sorts of other creative stuff, perhaps we should save them for better uses than simply setting ﬁre to them.
+First, fossil fuels are a finite resource. It seems possible that cheap oil (on which our cars and lorries run) and cheap gas (with which we heat many of our buildings) will run out in our lifetime. So we seek alternative energy sources. Indeed given that fossil fuels are a valuable resource, useful for manufacture of plastics and all sorts of other creative stuff, perhaps we should save them for better uses than simply setting ﬁre to them.
 
 Second, we’re interested in security of energy supply. Even if fossil fuels are still available somewhere in the world, perhaps we don’t want to depend on them if that would make our economy vulnerable to the whims of untrustworthy foreigners. (I hope you can hear my tongue in my cheek.) Going by ﬁgure 1.2, it certainly looks as if “our” fossil fuels have peaked. The UK has a particular security-of-supply problem looming, known as the “energy gap.” A substantial number of old coal power stations and nuclear power stations will be closing down during the next decade (ﬁgure 1.3), so there is a risk that electricity demand will sometimes exceed electricity supply, if adequate plans are not implemented.
 
@@ -87,35 +77,36 @@ The ﬁrst two concerns are straightforward selﬁsh motivations for drastically
 The climate-change motivation is argued in three steps: one: human fossilfuel burning causes carbon dioxide concentrations to rise; two: carbon dioxide is a greenhouse gas; three: increasing the greenhouse effect increases average global temperatures (and has many other effects).
 
 <img src="figure4.png" alt="North Sea Oil production" width="218" height="204" />
-<span class="figurenumber">Figure 1.2</span> Are“our” fossil fuels running out? Total crude oil production from the North Sea, and oil price in 2006 dollars per barrel.
+<div class="capt"><span class="figurenumber">Figure 1.2 | </span> Are “our” fossil fuels running out? Total crude oil production from the North Sea, and oil price in 2006 dollars per barrel.</div>
 
 <img src="figure5.png" alt="UK energy gap" width="218" height="222" />
-<span class="figurenumber">Figure 1.3</span> The energy gap created by UK power station closures, as projected by energy company EdF. This graph shows the predicted capacity of nuclear, coal, and oil power stations, in kilowatt-hours per day per person. The capacity is the maximum deliverable power of a source.
+<div class="capt"><span class="figurenumber">Figure 1.3 | </span> The energy gap created by UK power station closures, as projected by energy company EdF. This graph shows the predicted capacity of nuclear, coal, and oil power stations, in kilowatt-hours per day per person. The capacity is the maximum deliverable power of a source.</div>
 
-<img src="figure6.png" alt="CO2 concentrations" width="468" height="315" />
+
 We start with the fact that carbon dioxide concentrations are rising. Figure 1.4 shows measurements of the CO<sub>2</sub> concentration in the air from the year 1000AD to the present. Some “sceptics” have asserted that the recent increase in CO<sub>2</sub> concentration is a natural phenomenon. Does “sceptic” mean “a person who has not even glanced at the data”? Don’t you think, just possibly, *something* may have happened between 1800AD and 2000AD? Something that was not part of the natural processes present in the preceding thousand years?
 
 Something did happen, and it was called the Industrial Revolution. I’ve marked on the graph the year 1769, in which James Watt patented his steam engine. While the ﬁrst practical steam engine was invented in 1698, Watt’s more efﬁcient steam engine really got the Industrial Revolution going. One of the steam engine’s main applications was the pumping of water out of coal mines. Figure 1.5 shows what happened to British coal production from 1769 onwards. The ﬁgure displays coal production in units of billions of tons of CO<sub>2</sub> released when the coal was burned. In 1800, coal was used to make iron, to make ships, to heat buildings, to power locomotives and other machinery, and of course to power the pumps that enabled still more coal to be scraped up from inside the hills of England and Wales. Britain was terribly well endowed with coal: when the Revolution started, the amount of carbon sitting in coal under Britain was roughly the same as the amount sitting in oil under Saudi Arabia.
 
 In the 30 years from 1769 to 1800, Britain’s annual coal production doubled. After another 30 years (1830), it had doubled again. The next doubling of production-rate happened within *20* years (1850), and another
 
-<span class="figurenumber">Figure 1.4.</span> Carbon dioxide (CO<sub>2</sub>) concentrations (in parts per million) for the last 1100 years, measured from air trapped in ice cores (up to 1977) and directly in Hawaii (from 1958 onwards).
+<img src="figure6.png" alt="CO2 concentrations" width="468" height="315" /> 
+<div class="capt"><span class="figurenumber">Figure 1.4 | </span> Carbon dioxide (CO<sub>2</sub>) concentrations (in parts per million) for the last 1100 years, measured from air trapped in ice cores (up to 1977) and directly in Hawaii (from 1958 onwards).</div>
 
 I think something new may have happened between 1800 AD and 2000 AD. I’ve marked the year 1769, in which James Watt patented his steam engine. (The ﬁrst practical steam engine was invented 70 years earlier in 1698, but Watt’s was much more efﬁcient.)
 
 <img src="figure13.png" alt=" " width="218" height="212" />
-<span class="figurenumber">Figure 1.5.</span> The history of UK coal production and world coal production from 1600 to 1910. Production rates are shown in billions of tons of CO<sub>2</sub> – an incomprehensible unit, yes, but don’t worry: we’ll personalize it shortly.
+<div class='capt'><span class="figurenumber">Figure 1.5.</span> The history of UK coal production and world coal production from 1600 to 1910. Production rates are shown in billions of tons of CO<sub>2</sub> – an incomprehensible unit, yes, but don’t worry: we’ll personalize it shortly.</div>
 
 doubling within 20 years of that (1870). This coal allowed Britain to turn the globe pink. The prosperity that came to England and Wales was reﬂected in a century of unprecedented population growth:
 
 <img src="figure14.png" alt="population England" width="455" height="186" />
-Eventually other countries got in on the act too as the Revolution spread. Figure 1.6 shows British coal production and world coal production on the same scale as ﬁgure 1.5, sliding the window of history 50 years later. British coal production peaked in 1910, but meanwhile world coal production continued to double every 20 years. It’s difﬁcult to show the history of coal production on a single graph. To show what happened in the *next* 50 years on the same scale, the book would need to be one metre tall! To cope with this difﬁculty, we can either scale down the vertical axis:
+Eventually other countries got in on the act too as the Revolution spread. Figure 1.6 shows British coal production and world coal production on the same scale as ﬁgure 1.5, sliding the window of history 50 years later. British coal production peaked in 1910, but meanwhile world coal production continued to double every 20 years. It’s difficult to show the history of coal production on a single graph. To show what happened in the *next* 50 years on the same scale, the book would need to be one metre tall! To cope with this difﬁculty, we can either scale down the vertical axis:
 
 <img src="figure15.png" alt="population world" width="464" height="232" />
 or we can squish the vertical axis in a non-uniform way, so that small quantities and large quantities can be seen at the same time on a single graph. A good way to squish the axis is called a logarithmic scale, and that’s what I’ve used in the bottom two graphs of ﬁgure 1.7 (p9). On a logarithmic scale, all ten-fold increases (from 1 to 10, from 10 to 100, from 100 to 1000) are represented by equal distances on the page. On a logarithmic scale, a quantity that grows at a constant percentage per year (which is called “exponential growth”) looks like a straight line. Logarithmic graphs are great
 
 <img src="figure16.png" alt="UK and world coal production" width="212" height="656" />
-<span class="figurenumber">Figure 1.6.</span> What happened next. The history of UK coal production and world coal production from 1650 to 1960, on the same scale as ﬁgure 1.5.
+<div class='capt'><span class="figurenumber">Figure 1.6.</span> What happened next. The history of UK coal production and world coal production from 1650 to 1960, on the same scale as ﬁgure 1.5.</div>
 
 for understanding growth. Whereas the ordinary graphs in the ﬁgures on pages 6 and 7 convey the messages that British and world coal production grew remarkably, and that British and world population grew remarkably, the relative growth rates are not evident in these ordinary graphs. The logarithmic graphs allow us to compare growth rates. Looking at the slopes of the population curves, for example, we can see that the world population’s growth rate in the last 50 years was a little bigger than the growth rate of England and Wales in 1800.
 
@@ -132,7 +123,7 @@ The ﬁrst problem with Lawson’s offering is that *all three numbers* that he 
 Yes, natural ﬂows of CO<sub>2</sub> *are* larger than the additional ﬂow we switched on 200 years ago when we started burning fossil fuels in earnest. But it is terribly misleading to quantify only the large natural ﬂows *into* the atmosphere, failing to mention the almost exactly equal ﬂows *out* of the atmosphere back into the biosphere and the oceans. The point is that these *natural* ﬂows in and out of the atmosphere have been almost exactly in balance for millenia. So it’s not relevant at all that these natural ﬂows are larger than human emissions. The natural ﬂows *cancelled themselves out*. So the natural ﬂows, large though they were, left the concentration of CO<sub>2</sub> in the atmosphere and ocean *constant*, over the last few thousand years. Burning fossil fuels, in contrast, creates a *new* ﬂow of carbon that, though small, is *not cancelled*. Here’s a simple analogy, set in the passport-control arrivals area of an airport. One thousand passengers arrive per hour, and
 
 <img src="figure7.png" alt="CO2 concentrations, consequences of Industrial Revolution" width="435" height="751" />
-<span class="figurenumber">Figure 1.7.</span> The upper graph shows carbon dioxide CO<sub>2</sub> concentrations (in parts per million) for the last 1100 years – the same data that was shown in ﬁgure 1.4.
+<div class='capt'><span class="figurenumber">Figure 1.7.</span> The upper graph shows carbon dioxide CO<sub>2</sub> concentrations (in parts per million) for the last 1100 years – the same data that was shown in ﬁgure 1.4.</div>
 
 Here’s a portrait of James Watt and his 1769 steam engine.
 
@@ -184,15 +175,17 @@ OK, that’s enough ethics. What do scientists reckon needs to be done, to avoid
 
 entists reckon it’s more likely than not that global temperatures will rise by more than 2°C. The sort of cuts we need to aim for are shown in ﬁgure 1.8. This ﬁgure shows two possibly-safe emissions scenarios presented by Baer and Mastrandrea (2006) in a report from the Institute for Public Policy Research. The lower curve assumes that a decline in emissions started in 2007, with total global emissions falling at roughly 5% per year. The upper curve assumes a brief delay in the start of the decline, and a 4% drop per year in global emissions. Both scenarios are believed to offer a modest chance of avoiding a 2°C temperature rise above the pre-industrial level. In the lower scenario, the chance that the temperature rise will *ex-* *ceed* 2°C is estimated to be 9–26%. In the upper scenario, the chance of exceeding 2°C is estimated to be 16–43%. These possibly-safe emissions trajectories, by the way, involve signiﬁcantly sharper reductions in emissions than any of the scenarios presented by the Intergovernmental Panel on Climate Change (IPCC), or by the Stern Review (2007).
 
-These possibly-safe trajectories require global emissions to fall by 70% or 85% by 2050. What would this mean for a country like Britain? If we subscribe to the idea of “contraction and convergence,” which means that all countries aim eventually to have equal per-capita emissions, then Britain needs to aim for cuts greater than 85%: it should get down from its current 11 tons of CO<sub>2</sub>e per year per person to roughly <span class="red">1 ton per year per</span>
+These possibly-safe trajectories require global emissions to fall by 70% or 85% by 2050. What would this mean for a country like Britain? If we subscribe to the idea of “contraction and convergence,” which means that all countries aim eventually to have equal per-capita emissions, then Britain needs to aim for cuts greater than 85%: it should get down from its current 11 tons of CO<sub>2</sub>e per year per person to roughly <span class="red">1 ton per year per</span> <span class="red">person</span> by 2050. This is such a deep cut, I suggest the best way to think about it is *no more fossil fuels.*
+
+
+
+
+<img src="figure17.png" alt="Global emissions scenarios" width="218" height="148" />
+<div class='capt'><span class="figurenumber">Figure 1.8.</span> Global emissions for two scenarios considered by Baer and Mastrandrea, expressed in tons of CO<sub>2</sub> per year per person, using a world population of six billion. Both scenarios are believed to offer a modest chance of avoiding a 2°C temperature rise above the pre-industrial level.</div>
 
 <img src="figure8.png" alt="World greenhouse gas emissions" width="585" height="403" />
-<img src="figure17.png" alt="Global emissions scenarios" width="218" height="148" />
-<span class="figurenumber">Figure 1.8.</span> Global emissions for two scenarios considered by Baer and Mastrandrea, expressed in tons of CO<sub>2</sub> per year per person, using a world population of six billion. Both scenarios are believed to offer a modest chance of avoiding a 2°C temperature rise above the pre-industrial level.
 
-<span class="figurenumber">Figure 1.9.</span> Breakdown of world greenhouse-gas emissions (2000) by cause and by gas. “Energy” includes power stations, industrial processes, transport, fossil fuel processing, and energy-use in buildings. “Land use, biomass burning” means changes in land use, deforestation, and the burning of un-renewed biomass such as peat. “Waste” includes waste disposal and treatment. The sizes indicate the 100-year global warming potential of each source. Source: Emission Database for Global Atmospheric Research.
-
-<span class="red">person</span> by 2050. This is such a deep cut, I suggest the best way to think about it is *no more fossil fuels.*
+<div class='capt'><span class="figurenumber">Figure 1.9.</span> Breakdown of world greenhouse-gas emissions (2000) by cause and by gas. “Energy” includes power stations, industrial processes, transport, fossil fuel processing, and energy-use in buildings. “Land use, biomass burning” means changes in land use, deforestation, and the burning of un-renewed biomass such as peat. “Waste” includes waste disposal and treatment. The sizes indicate the 100-year global warming potential of each source. Source: Emission Database for Global Atmospheric Research.</div>
 
 One last thing about the climate-change motivation: while a range of human activities cause greenhouse-gas emissions, the biggest cause by far is **energy use**. Some people justify not doing anything about their energy use by excuses such as “methane from burping cows causes more warming than jet travel.” Yes, agricultural by-products contributed one eighth of greenhouse-gas emissions in the year 2000. But energy-use contributed three quarters (ﬁgure 1.9). The climate change problem is principally an energy problem.
 
@@ -202,14 +195,14 @@ OK, enough about climate change. I’m going to assume we are motivated to get o
 
 What I’m aiming to do in this book is to make these numbers simple and memorable; to show you how you can ﬁgure out the numbers for yourself; and to make the situation so clear that any thinking reader will be able to draw striking conclusions. I don’t want to feed you my own conclusions. Convictions are stronger if they are self-generated, rather than taught. Understanding is a creative process. When you’ve read this book I hope you’ll have reinforced the conﬁdence that you can ﬁgure anything out.
 
-I’d like to emphasize that the calculations we will do are deliberately imprecise. Simpliﬁcation is a key to understanding. First, by rounding the numbers, we can make them easier to remember. Second, rounded numbers allow quick calculations. For example, in this book, the population of the United Kingdom is 60 million, and the population of the world is 6 billion. I’m perfectly capable of looking up more accurate ﬁgures, but accuracy would get in the way of ﬂuent thought. For example, if we learn that the world’s greenhouse gas emissions in 2000 were 34 billion tons of CO<sub>2</sub>-equivalent per year, then we can instantly note, without a calculator, that the average emissions per person are 5 or 6 tons of CO<sub>2</sub>-equivalent per person per year. This rough answer is not exact, but it’s accurate enough to inform interesting conversations. For instance, if you learn that a roundtrip intercontinental ﬂight emits nearly two tons of CO<sub>2</sub> per passenger, then knowing the average emissions yardstick (5-and-a-bit tons per year per person) helps you realize that just one such plane-trip per year corre
+I’d like to emphasize that the calculations we will do are deliberately imprecise. Simpliﬁcation is a key to understanding. First, by rounding the numbers, we can make them easier to remember. Second, rounded numbers allow quick calculations. For example, in this book, the population of the United Kingdom is 60 million, and the population of the world is 6 billion. I’m perfectly capable of looking up more accurate ﬁgures, but accuracy would get in the way of ﬂuent thought. For example, if we learn that the world’s greenhouse gas emissions in 2000 were 34 billion tons of CO<sub>2</sub>-equivalent per year, then we can instantly note, without a calculator, that the average emissions per person are 5 or 6 tons of CO<sub>2</sub>-equivalent per person per year. This rough answer is not exact, but it’s accurate enough to inform interesting conversations. For instance, if you learn that a roundtrip intercontinental ﬂight emits nearly two tons of CO<sub>2</sub> per passenger, then knowing the average emissions yardstick (5-and-a-bit tons per year per person) helps you realize that just one such plane-trip per year corresponds to over a third of the average person’s carbon emissions.
+
 
 <img src="LowEManS.jpg" alt="Low carbon emission man - cartoon" width="184" height="200" />
-*“Look – it’s Low Carbon Emission Man”*
+<center>“Look – it’s Low Carbon Emission Man”</center>
 
-<span class="figurenumber">Figure 1.10.</span> Reproduced by kind permission of PRIVATE EYE / Peter Dredge <span class="websitetitle">www.private-eye.co.uk</span>.
+<div class='capt'><span class="figurenumber">Figure 1.10.</span> Reproduced by kind permission of PRIVATE EYE / Peter Dredge <span class="websitetitle">www.private-eye.co.uk</span>.</div>
 
-sponds to over a third of the average person’s carbon emissions.
 
 I like to base my calculations on everyday knowledge rather than on trawling through impersonal national statistics. For example, if I want to estimate the typical wind speeds in Cambridge, I ask “is my cycling speed usually faster than the wind?” The answer is yes. So I can deduce that the wind speed in Cambridge is only rarely faster than my typical cycling speed of 20km/h. I back up these everyday estimates with other peoples’ calculations and with ofﬁcial statistics. (Please look for these in each chapter’s end-notes.) This book isn’t intended to be a deﬁnitive store of super-accurate numbers. Rather, it’s intended to illustrate how to use approximate numbers as a part of constructive consensual conversations.
 
@@ -223,9 +216,7 @@ Examples of **factual assertions** are “global fossil-fuel burning emits 34 bi
 
 A factual assertion is either true or false; ﬁguring out *which* may be difﬁcult; it is a scientiﬁc question. For example, the assertions I just gave are either true or false. But we don’t know whether they are all true. Some of them are currently judged “very likely.” The difﬁculty of deciding which factual assertions are true leads to debates in the scientiﬁc community. But given sufﬁcient scientiﬁc experiment and discussion, the truth or falsity of most factual assertions can eventually be resolved, at least “beyond reasonable doubt.”
 
-Examples of **ethical assertions** are “it’s wrong to exploit global resources in a way that imposes signiﬁcant costs on future generations;” and “polluting should not be free;” and “we should take steps to ensure that it’s unlikely that CO<sub>2</sub> concentrations will double;” and “politicians should agree a cap on CO<sub>2</sub> emissions;” and “countries with the biggest CO<sub>2</sub> emis
-
-sions over the last century have a duty to lead action on climate change;” and “it is fair to share CO<sub>2</sub> emission rights equally across the world’s population.” Such assertions are not “either true or false.” Whether we agree with them depends on our ethical judgment, on our values. Ethical assertions may be incompatible with each other; for example, Tony Blair’s government declared a radical policy on CO<sub>2</sub> emissions: “the United Kingdom should reduce its CO<sub>2</sub> emissions by 60% by 2050;” at the same time Gordon Brown, while Chancellor in that government, repeatedly urged oil-producing countries to *increase* oil production.
+Examples of **ethical assertions** are “it’s wrong to exploit global resources in a way that imposes signiﬁcant costs on future generations;” and “polluting should not be free;” and “we should take steps to ensure that it’s unlikely that CO<sub>2</sub> concentrations will double;” and “politicians should agree a cap on CO<sub>2</sub> emissions;” and “countries with the biggest CO<sub>2</sub> emissions over the last century have a duty to lead action on climate change;” and “it is fair to share CO<sub>2</sub> emission rights equally across the world’s population.” Such assertions are not “either true or false.” Whether we agree with them depends on our ethical judgment, on our values. Ethical assertions may be incompatible with each other; for example, Tony Blair’s government declared a radical policy on CO<sub>2</sub> emissions: “the United Kingdom should reduce its CO<sub>2</sub> emissions by 60% by 2050;” at the same time Gordon Brown, while Chancellor in that government, repeatedly urged oil-producing countries to *increase* oil production.
 
 This book is emphatically intended to be about facts, not ethics. I want the facts to be clear, so that people can have a meaningful debate about ethical decisions. I want everyone to understand how the facts constrain the options that are open to us. Like a good scientist, I’ll try to keep my views on ethical questions out of the way, though occasionally I’ll blurt something out – please forgive me.
 
@@ -254,7 +245,7 @@ page no.
 <img src="DoNothing5M.jpg" alt="Do nothing - cartoon " width="200" height="247" />
 *“Okay – it’s agreed; we announce – ‘to do nothing is not an option!’ then we wait and see how things pan out...”*
 
-<span class="figurenumber">Figure 1.11</span>. Reproduced by kind permission of PRIVATE EYE / Paul Lowe <span class="websitetitle">www.private-eye.co.uk</span>.
+<div class='capt'><span class="figurenumber">Figure 1.11</span>. Reproduced by kind permission of PRIVATE EYE / Paul Lowe <span class="websitetitle">www.private-eye.co.uk</span>.</div>
 
 turbines “enough to power all UK homes.” Friends of the Earth’s renewable energy campaigner, Nick Rau, said the group welcomed the government’s announcement. “The potential power that could be generated by this industry is enormous,” he said. \[<span class="tinylink">25e59w</span>\]. From the Guardian \[<span class="tinylink">5o7mxk</span>\]: John Sauven, the executive director of Greenpeace, said that the plans amounted to a “wind energy revolution.” “And Labour needs to drop its obsession with nuclear power, which could only ever reduce emissions by about 4% at some time in the distant future.” Nick Rau said: “We are delighted the government is getting serious about the potential for offshore wind, which could generate 25% of the UK’s electricity by 2020.” A few weeks later, the government announced that it would permit new nuclear stations to be built. “Today’s decision to give the go-ahead to a new generation of nuclear power stations ... will do little to tackle climate change,” Friends of the Earth warned \[<span class="tinylink">5c4olc</span>\]. In fact, the two proposed expansions – of offshore wind and of nuclear – would both deliver just the same amount of electricity per year. The total permitted offshore wind power of 33 GW would on average deliver 10 GW, which is 4 kWh per day per person; and the replacement of all the retiring nuclear power stations would deliver 10 GW, which is 4 kWh per day per person. Yet in the same breath, anti-nuclear campaigners say that the nuclear option would “do little,” while the wind option would “power all UK homes.” The fact is, “powering all UK homes” and “only reducing emissions by about 4%” are the same thing.
 
@@ -298,3 +289,10 @@ would be difﬁcult to detect in the coming decades. Nevertheless “warming wil
 <span class="mark">17</span>*factual assertions and ethical assertions*... Ethical assertions are also known as “normative claims” or “value judgments,” and factual assertions are known as “positive claims.” Ethical assertions usually contain verbs like “should” and “must,” or adjectives like “fair,” “right,” and “wrong.” For helpful further reading see Dessler and Parson (2006).
 
 <span class="mark">18</span>*Gordon Brown*. On 10th September, 2005, Gordon Brown said the high price of fuel posed a signiﬁcant risk to the European economy and to global growth, and urged OPEC to raise oil production. Again, six months later, he said “we need ... more production, more drilling, more investment, more petrochemical investment” (22nd April, 2006) \[<span class="tinylink">y98ys5</span>\]. Let me temper this criticism of Gordon Brown by praising one of his more recent initiatives, namely the promotion of electric vehicles and plug-in hybrids. As you’ll see later, one of this book’s conclusions is that electriﬁcation of most transport is a good part of a plan for getting off fossil fuels.
+
+---
+
+## Dan's Notes
+
+<a name="foo">Recent</a>: Recent here is circa 2007. This matters.  
+<a name="foo2">Tat</a>: tasteless or shoddy clothes, jewelry, or ornaments.  

@@ -46,7 +46,7 @@ People use the two terms energy and power interchangeably in ordinary speech, bu
 Maybe a good way to explain <span class="darkblue">energy</span> and <span class="mauve">power</span> is by an analogy with <span class="darkblue">water</span> and <span class="mauve">water-ﬂow</span> from taps. If you want a drink of water, you want a *volume* of water – one litre, perhaps (if you’re thirsty). When you turn on a tap, you create a *<span class="mauve">ﬂow</span>* of water – <span class="mauve">one litre per minute</span>, say, if the tap yields only a trickle; or 10 litres per minute, from a more generous tap. You can get the same <span class="darkblue">volume</span> (one litre) either by running the trickling tap for one minute, or by running the generous tap for one tenth of a minute. The *<span class="darkblue">volume</span>* delivered in a particular time is equal to the *<span class="mauve">ﬂow</span>* multiplied by the
 
 <img src="figure18.png" width="218" height="112" />
-<span class="figurenumber">Figure 2.1</span>. Distinguishing energy and power. Each of these 60W light bulbs has a <span class="italic">power</span> of 60W when switched on; it doesn’t have an “energy” of 60W. The bulb uses 60W of electrical <span class="italic">power</span> when it’s on; it emits 60 W of <span class="italic">power</span> in the form of light and heat (mainly the latter).
+<div class='caption'><span class="figurenumber">Figure 2.1</span>. Distinguishing energy and power. Each of these 60W light bulbs has a <span class="italic">power</span> of 60W when switched on; it doesn’t have an “energy” of 60W. The bulb uses 60W of electrical <span class="italic">power</span> when it’s on; it emits 60 W of <span class="italic">power</span> in the form of light and heat (mainly the latter).</div>
 
 <span class="darkblue">volume</span> is measured in <span class="darkblue">litres</span>
 
@@ -62,7 +62,7 @@ Maybe a good way to explain <span class="darkblue">energy</span> and <span class
 
 We say that a *ﬂow* is a *rate* at which *volume* is delivered. If you know the volume delivered in a particular time, you get the ﬂow by dividing the volume by the time:
 
-<img src="figure7.png" width="109" height="40" />
+flow = volume/time
 
 Here’s the connection to energy and power. *<span class="darkblue"> Energy</span>* is like water *<span class="darkblue"> volume</span>*: *<span class="mauve">power</span>* is like water *<span class="mauve">ﬂow</span>*. For example, whenever a toaster is switched on, it starts to consume *<span class="mauve"> power</span>* at a rate of one kilowatt. It continues to consume one kilowatt until it is switched off. To put it another way, the toaster (if it’s left on permanently) consumes one kilowatt-hour (kWh) of energy per hour; it also consumes 24 kilowatt-hours per day.
 

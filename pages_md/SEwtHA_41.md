@@ -103,7 +103,7 @@ force per mass
 kilowatt-hour per ton-kilometre
 1 kWh/t-km
 3.6 m/s<sup>2</sup> (<span class="cong">≅</span>  0.37 *g*)
-<span class="figurenumber">Table 1.1.</span> SI units and prefixes
+<div class='caption'><span class="figurenumber">Table 1.1.</span> SI units and prefixes</div>
 
 <table>
 <colgroup>
@@ -235,7 +235,7 @@ The calorie is annoying because the diet community call a kilocalorie a Calorie.
 2500 kcal = 3 kWh = 10 000 kJ = 10 MJ.
 
 <img src="figure309-0-0.png" width="215" height="309" />
-<span class="figurenumber">Figure I.2.</span> Powers of Britain’s coal power stations. I’ve highlighted in blue 8 GW of generating capacity that will close by 2015. 2500 MW, shared across Britain, is the same as 1 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure I.2.</span> Powers of Britain’s coal power stations. I’ve highlighted in blue 8 GW of generating capacity that will close by 2015. 2500 MW, shared across Britain, is the same as 1 kWh per day per person.</div>
 
 #### Barrels
 
@@ -314,10 +314,10 @@ If we add the suffix “e” to a power, this means that we’re explicitly talk
 | 44 g CO<sub>2</sub>    | ↔   | 2 litres        |
 | 2 g CO<sub>2</sub>     | ↔   | 1 litre         |
 
-<span class="figurenumber">Table I.3.</span> Volume-to-mass conversion.
+<div class='caption'><span class="figurenumber">Table I.3.</span> Volume-to-mass conversion.</div>
 
 <img src="figure310.png" width="219" height="191" />
-<span class="figurenumber">Figure I.4.</span> A twenty-foot container (1 TEU).
+<div class='caption'><span class="figurenumber">Figure I.4.</span> A twenty-foot container (1 TEU).</div>
 
 |             |     |                              |
 |-------------|-----|------------------------------|
@@ -327,7 +327,7 @@ If we add the suffix “e” to a power, this means that we’re explicitly talk
 | square foot | =   | 0.093 m<sup>2</sup>          |
 | square yard | =   | 0.84 m<sup>2</sup>           |
 
-<span class="figurenumber">Table I.5.</span> Areas.
+<div class='caption'><span class="figurenumber">Table I.5.</span> Areas.</div>
 
 | Land use             | area per person (m<sup>2</sup>) | percentage |
 |----------------------|---------------------------------|------------|
@@ -378,9 +378,9 @@ UK electricity consumption is 17 kWh per day per person, or 42.5 GW per UK.
 
 “One ton” of air-conditioning = 3.5 kW.
 
-<span class="figurenumber">Table I.6.</span> Land areas, in England, devoted to different uses. Source: Generalized Land Use Database Statistics for England 2005. \[<span class="tinylink">3b7zdf</span>\]
+<div class='caption'><span class="figurenumber">Table I.6.</span> Land areas, in England, devoted to different uses. Source: Generalized Land Use Database Statistics for England 2005. \[<span class="tinylink">3b7zdf</span>\]</div>
 
-<span class="figurenumber">Box I.7.</span> How other energy and power units relate to the kilowatt-hour and the kilowatt-hour per day.
+<div class='caption'><span class="figurenumber">Box I.7.</span> How other energy and power units relate to the kilowatt-hour and the kilowatt-hour per day.</div>
 
 ### World power consumption
 
@@ -440,7 +440,7 @@ int’l water bulk
 0.056
 int’l water tanker
 0.028
-<span class="figurenumber">Table I.8.</span> Energy intensity of transport modes in the USA. Source: Weber and Matthews (2008).
+<div class='caption'><span class="figurenumber">Table I.8.</span> Energy intensity of transport modes in the USA. Source: Weber and Matthews (2008).</div>
 
 ## Money
 
@@ -470,7 +470,7 @@ I assumed the following exchange rates when discussing money: €1 = $1.26; £1 
 | Greece         | 864 |
 | Denmark        | 881 |
 
-<span class="figurenumber">Figure I.9.</span> Carbon intensity of electricity production (g CO<sub>2</sub> per kWh of electricity).
+<div class='caption'><span class="figurenumber">Figure I.9.</span> Carbon intensity of electricity production (g CO<sub>2</sub> per kWh of electricity).</div>
 
 | Fuel type      | emissions (g CO<sub>2</sub> per kWh of chemical energy) |
 |----------------|---------------------------------------------------------|
@@ -487,10 +487,10 @@ I assumed the following exchange rates when discussing money: €1 = $1.26; £1 
 | coal           | 300                                                     |
 | petroleum coke | 340                                                     |
 
-<span class="figurenumber">Figure I.10.</span> Emissions associated with fuel combustion. Source: DEFRA’s Environmental Reporting Guidelines for Company Reporting on Greenhouse Gas Emissions.
+<div class='caption'><span class="figurenumber">Figure I.10.</span> Emissions associated with fuel combustion. Source: DEFRA’s Environmental Reporting Guidelines for Company Reporting on Greenhouse Gas Emissions.</div>
 
 <img src="figure311.png" width="500" height="567" />
-<span class="figurenumber">Figure I.11.</span> Greenhouse-gas emissions per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having “high human development;” circles, “medium” or “low.” See also figures 30.1 (p231) and 18.4 (p105). Source: UNDP Human Development Report, 2007. \[<span class="tinylink">3av4s9</span>\]
+<div class='caption'><span class="figurenumber">Figure I.11.</span> Greenhouse-gas emissions per capita, versus GDP per capita, in purchasing-power-parity US dollars. Squares show countries having “high human development;” circles, “medium” or “low.” See also figures 30.1 (p231) and 18.4 (p105). Source: UNDP Human Development Report, 2007. \[<span class="tinylink">3av4s9</span>\]</div>
 
 <img src="figure312.png" width="643" height="521" />
-<span class="figurenumber">Figure I.12.</span> Greenhouse-gas emissions per capita, versus power consumption per capita. The lines show the emission-intensities of coal and natural gas. Squares show countries having “high human development;” circles, “medium” or “low.” See also figures 30.1 (p231) and 18.4 (p105). Source: UNDP Human Development Report, 2007.
+<div class='caption'><span class="figurenumber">Figure I.12.</span> Greenhouse-gas emissions per capita, versus power consumption per capita. The lines show the emission-intensities of coal and natural gas. Squares show countries having “high human development;” circles, “medium” or “low.” See also figures 30.1 (p231) and 18.4 (p105). Source: UNDP Human Development Report, 2007.</div>

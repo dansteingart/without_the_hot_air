@@ -11,10 +11,10 @@ The difficulty with making *sustainable* geothermal power is that the speed at w
 If you stick a straw down a 15-km hole in the earth, you’ll find it’s nice and hot there, easily hot enough to boil water. So, you could stick two straws down, and pump cold water down one straw and suck from the other. You’ll be sucking up steam, and you can run a power station. Limitless power? No. After a while, your sucking of heat out of the rock will have reduced the temperature of the rock. You weren’t sucking sustainably. You now have a long wait before the rock at the tip of your straws warms up again. A possible attitude to this problem is to treat geothermal heat the same way we currently treat fossil fuels: as a resource to be mined rather than collected sustainably. Living off geothermal heat in this way might be better for the planet than living unsustainably off fossil fuels; but perhaps it would only be another stop-gap giving us another 100 years of unsustainable living? In this book I’m most interested in *sustainable* energy, as the title hinted. Let’s do the sums.
 
 <img src="figure116.png" width="180" height="143" />
-<span class="figurenumber">Figure 16.1</span>. An earth in section.
+<div class='caption'><span class="figurenumber">Figure 16.1</span>. An earth in section.</div>
 
 <img src="figure117.png" width="207" height="204" />
-<span class="figurenumber">Figure 16.2</span>. Some granite.
+<div class='caption'><span class="figurenumber">Figure 16.2</span>. Some granite.</div>
 
 <img src="figure115.png" width="475" height="318" />
 ## Geothermal power that would be sustainable forever
@@ -25,12 +25,12 @@ As I said before, geothermal energy comes from two sources: from radioactive dec
 
 So at a typical location, the maximum power we can get per unit area is 50 mW/m<sup>2</sup>. But that power is not high-grade power, it’s low-grade heat that’s trickling through at the ambient temperature up here. We presumably want to make electricity, and that’s why we must drill down. Heat is useful only if it comes from a source at a higher temperature than the ambient temperature. The temperature increases with depth as shown in figure 16.4, reaching a temperature of about 500 °C at a depth of 40 km. Between depths of 0 km where the heat flow is biggest but the rock temperature is too low, and 40 km, where the rocks are hottest but the heat flow is 5 times smaller (because we’re missing out on all the heat generated from radioactive decay) there is an optimal depth at which we should suck. The exact optimal depth depends on what sort of sucking and powerstation machinery we use. We can bound the maximum sustainable power
 
-<span class="figurenumber">Figure 16.3</span>. Geothermal power in Iceland. Average geothermal electricity generation in Iceland (population, 300 000) in 2006 was 300 MW (24 kWh/d per person). More than half of Iceland’s electricity is used for aluminium production. Photo by Gretar Ívarsson.
+<div class='caption'><span class="figurenumber">Figure 16.3</span>. Geothermal power in Iceland. Average geothermal electricity generation in Iceland (population, 300 000) in 2006 was 300 MW (24 kWh/d per person). More than half of Iceland’s electricity is used for aluminium production. Photo by Gretar Ívarsson.</div>
 
 one milliwatt (1 mW) is 0.001 W.
 
 <img src="figure118.png" width="214" height="219" />
-<span class="figurenumber">Figure 16.4</span>. Temperature profile in a typical continent.
+<div class='caption'><span class="figurenumber">Figure 16.4</span>. Temperature profile in a typical continent.</div>
 
 by finding the optimal depth assuming that we have an ideal engine for turning heat into electricity, and that drilling to any depth is free.
 
@@ -49,7 +49,7 @@ Other places in the world have more promising hot dry rocks, so if you want to k
 Yes, Southampton Geothermal District Heating Scheme was, in 2004 at least, the only geothermal heating scheme in the UK. It provides the city with a supply of hot water. The geothermal well is part of a combined heat, power, and cooling system that delivers hot and chilled water to customers, and sells electricity to the grid. Geothermal energy contributes about 15% of the 70 GWh of heat per year delivered by this system. The population
 
 <img src="figure119.png" width="184" height="312" />
-<span class="figurenumber">Figure 16.5</span>. Enhanced geothermal extraction from hot dry rock. One well is drilled and pressurized to create fractures. A second well is drilled into the far side of the fracture zone. Then cold water is pumped down one well and heated water (indeed, steam) is sucked up the other.
+<div class='caption'><span class="figurenumber">Figure 16.5</span>. Enhanced geothermal extraction from hot dry rock. One well is drilled and pressurized to create fractures. A second well is drilled into the far side of the fracture zone. Then cold water is pumped down one well and heated water (indeed, steam) is sucked up the other.</div>
 
 <img src="figure343.png" width="130" height="177" />
 
@@ -70,4 +70,4 @@ page no.
 <span class="mark">–</span>*Southampton Geothermal District Heating Scheme*. <span class="websitetitle">www.southampton.gov.uk</span>.
 
 <img src="figure120.png" width="218" height="728" />
-<span class="figurenumber">Figure 16.6</span>. Geothermal.
+<div class='caption'><span class="figurenumber">Figure 16.6</span>. Geothermal.</div>

@@ -22,7 +22,7 @@ The tides around Britain are genuine tidal waves. (Tsunamis, which are called �
 The energy we can extract from tides, using tidal pools or tide farms, can never be more than the energy of these tidal waves from the Atlantic. We can estimate the total power of these great Atlantic tidal waves in the same way that we estimate the power of ordinary wind-generated waves. The next section describes a standard model for the power arriving in
 
 <img src="figure299.png" width="214" height="132" />
-<span class="figurenumber">Figure G.1.</span> A tide-pool in cross section. The pool was filled at high tide, and now it’s low tide. We let the water out through the electricity generator to turn the water’s potential energy into electricity.
+<div class='caption'><span class="figurenumber">Figure G.1.</span> A tide-pool in cross section. The pool was filled at high tide, and now it’s low tide. We let the water out through the electricity generator to turn the water’s potential energy into electricity.</div>
 
 <img src="figure300.png" width="693" height="179" />
 travelling waves in water of depth *d* that is shallow compared to the wavelength of the waves (figure G.2). The power per unit length of wavecrest of shallow-water tidal waves is
@@ -39,7 +39,7 @@ Taylor (1920) worked out a more detailed model of tidal power that includes impo
 
 This section, which can safely be skipped, provides more details behind the formula for tidal power used in the previous section. I’m going to
 
-<span class="figurenumber">Figure G.2.</span> A shallow-water wave. Just like a deep-water wave, the wave has energy in two forms: potential energy associated with raising water out of the light-shaded troughs into the heavy-shaded crests; and kinetic energy of all the water moving around as indicated by the small arrows. The speed of the wave, travelling from left to right, is indicated by the much bigger arrow at the top. For tidal waves, a typical depth might be 100 m, the crest velocity 30 m/s, the vertical amplitude at the surface 1 or 2 m, and the water velocity amplitude 0.3 or 0.6 m/s.
+<div class='caption'><span class="figurenumber">Figure G.2.</span> A shallow-water wave. Just like a deep-water wave, the wave has energy in two forms: potential energy associated with raising water out of the light-shaded troughs into the heavy-shaded crests; and kinetic energy of all the water moving around as indicated by the small arrows. The speed of the wave, travelling from left to right, is indicated by the much bigger arrow at the top. For tidal waves, a typical depth might be 100 m, the crest velocity 30 m/s, the vertical amplitude at the surface 1 or 2 m, and the water velocity amplitude 0.3 or 0.6 m/s.</div>
 
 | *h* (m) | *ρg*<sup>3/2</sup>√<span style="text-decoration:overline">*d*</span>*h*<sup>2</sup>/2 (kW/m) |
 |---------|----------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ This section, which can safely be skipped, provides more details behind the form
 | 2.0     | 600                                                                                          |
 | 2.25    | 780                                                                                          |
 
-<span class="figurenumber">Table G.3.</span> Power fluxes (power per unit length of wave crest) for depth d = 100 m.
+<div class='caption'><span class="figurenumber">Table G.3.</span> Power fluxes (power per unit length of wave crest) for depth d = 100 m.</div>
 
 go into this model of tidal power in some detail because most of the official estimates of the UK tidal resource have been based on a model that I believe is incorrect.
 
@@ -84,7 +84,7 @@ where *A* is the cross-sectional area. (This is the formula for kinetic energy f
 The true total incident power is not equal to this kinetic-energy flux. The true total incident power in a shallow-water wave is a standard textbook calculation; one way to get it is to find the total energy present in one wavelength and divide by the period. The total energy per wavelength is the sum of the potential energy and the kinetic energy. The kinetic energy happens to be identical to the potential energy. (This is a standard feature of almost all things that wobble, be they masses on springs or children
 
 <img src="figure301.png" width="207" height="255" />
-<span class="figurenumber">Figure G.4.</span> Average tidal powers measured by Cartwright et al. (1980).
+<div class='caption'><span class="figurenumber">Figure G.4.</span> Average tidal powers measured by Cartwright et al. (1980).</div>
 
 on swings.) So to compute the total energy all we need to do is compute one of the two – the potential energy per wavelength, or the kinetic energy per wavelength – then double it. The potential energy of a wave (per wavelength and per unit width of wavefront) is found by integration to be
 
@@ -147,7 +147,7 @@ Does the same go for tide farms? Or do underwater windmills interfere with each 
 
 The “you can have only one row” assumption, in contrast, asserts that the maximum power extractable in a region is the power that would be delivered by a *single* row of turbines facing the flow. A situation where this assumption is correct is the special case of a hydroelectric dam: if the water from the dam passes through a single well-designed turbine, there’s no point putting any more turbines behind that one. You can’t get 100
 
-<span class="figurenumber">Figure G.5.</span> (a) Tidal current over a 21-day period at a location where the maximum current at spring tide is 2.9 knots (1.5 m/s) and the maximum current at neap tide is 1.8 knots (0.9 m/s). (b) The power per unit sea-floor area over a nine-day period extending from spring tides to neap tides. The power peaks four times per day, and has a maximum of about 27 W/m<sup>2</sup>. The average power of the tide farm is 6.4 W/m<sup>2</sup>.
+<div class='caption'><span class="figurenumber">Figure G.5.</span> (a) Tidal current over a 21-day period at a location where the maximum current at spring tide is 2.9 knots (1.5 m/s) and the maximum current at neap tide is 1.8 knots (0.9 m/s). (b) The power per unit sea-floor area over a nine-day period extending from spring tides to neap tides. The power peaks four times per day, and has a maximum of about 27 W/m<sup>2</sup>. The average power of the tide farm is 6.4 W/m<sup>2</sup>.</div>
 
 times more power by putting 99 more turbines downstream from the first. The oomph gets extracted by the first one, and there isn’t any more oomph left for the others. The “you can have only one row” assumption is the right assumption for estimating the extractable power in a place where water flows through a narrow channel from approximately stationary water at one height into another body of water at a lower height. (This case is analysed by Garrett and Cummins (2005, 2007).)
 
@@ -198,7 +198,7 @@ power
 5
 10
 1000
-<span class="figurenumber">Table G.6.</span> Tide farm power density (in watts per square metre of sea-floor) as a function of flow speed *U*. (1 knot = 1 nautical mile per hour = 0.514 m/s.) The power density is computed using (*π*/200)<sup>1</sup>⁄<sub>2</sub>*ρU*<sup>3</sup> (equation (G.10)).
+<div class='caption'><span class="figurenumber">Table G.6.</span> Tide farm power density (in watts per square metre of sea-floor) as a function of flow speed *U*. (1 knot = 1 nautical mile per hour = 0.514 m/s.) The power density is computed using (*π*/200)<sup>1</sup>⁄<sub>2</sub>*ρU*<sup>3</sup> (equation (G.10)).</div>
 
 <img src="figure303.png" width="279" height="393" />
 tricky to build on.
@@ -293,7 +293,7 @@ Total
 9
 <span style="margin:0em 0 0em 9em">(a)</span><span style="margin:0em 0 0em 17em">(b)</span>
 
-<span class="figurenumber">Figure G.7.</span> Regions around the British Isles where peak tidal flows exceed 1 m/s. The six darkly-coloured regions are included in table G.8:
+<div class='caption'><span class="figurenumber">Figure G.7.</span> Regions around the British Isles where peak tidal flows exceed 1 m/s. The six darkly-coloured regions are included in table G.8:</div>
 1.  the English channel (south of the Isle of Wight);
 2.  the Bristol channel;
 3.  to the north of Anglesey;
@@ -303,7 +303,7 @@ Total
 
 There are also enormous currents around the Channel Islands, but they are not governed by the UK. Runner-up regions include the North Sea, from the Thames (London) to the Wash (Kings Lynn). The contours show water depths greater than 100 m. Tidal data are from Reed’s Nautical Almanac and DTI Atlas of UK Marine Renewable Energy Resources (2004).
 
-<span class="figurenumber">Table G.8.</span> (a) Tidal power estimates assuming that stream farms are like wind farms. The power density is the average power per unit area of sea floor. The six regions are indicated in figure G.7. N = Neaps. S = Springs. (b) For comparison, this table shows the raw incoming power estimated using equation (G.1) (p312).
+<div class='caption'><span class="figurenumber">Table G.8.</span> (a) Tidal power estimates assuming that stream farms are like wind farms. The power density is the average power per unit area of sea floor. The six regions are indicated in figure G.7. N = Neaps. S = Springs. (b) For comparison, this table shows the raw incoming power estimated using equation (G.1) (p312).</div>
 
 *v* (m/s)
 *v* (knots)
@@ -352,7 +352,7 @@ So, what’s the power dissipated by “bottom friction”? Unfortunately, there
 
 “The pumping trick” artificially increases the amplitude of the tides in a tidal pool so as to amplify the power obtained. The energy cost of pumping *in* extra water at high tide is repaid with interest when the same water is let out at low tide; similarly, extra water can be pumped *out* at low tide, then let back in at high tide. The pumping trick is sometimes used at La Rance, boosting its net power generation by about 10% (Wilson and Balls, 1990). Let’s work out the theoretical limit for this technology. I’ll assume
 
-<span class="figurenumber">Table G.9.</span> Friction power density *R*<span class="smallsub"><sub>1</sub></span>*ρU*<sup>3</sup> (in watts per square metre of sea-floor) as a function of flow speed, assuming *R*<span class="smallsub"><sub>1</sub></span> = 0.01 or 0.003. Flather (1976) uses *R*<span class="smallsub"><sub>1</sub></span> = 0.0025–0.003; Taylor (1920) uses 0.002. (1 knot = 1 nautical mile per hour = 0.514 m/s.) The final column shows the tide farm power estimated in table G.6. For further reading see Kowalik (2004), Sleath (1984).
+<div class='caption'><span class="figurenumber">Table G.9.</span> Friction power density *R*<span class="smallsub"><sub>1</sub></span>*ρU*<sup>3</sup> (in watts per square metre of sea-floor) as a function of flow speed, assuming *R*<span class="smallsub"><sub>1</sub></span> = 0.01 or 0.003. Flather (1976) uses *R*<span class="smallsub"><sub>1</sub></span> = 0.0025–0.003; Taylor (1920) uses 0.002. (1 knot = 1 nautical mile per hour = 0.514 m/s.) The final column shows the tide farm power estimated in table G.6. For further reading see Kowalik (2004), Sleath (1984).</div>
 
 | tidal amplitude (half-range) *h* (m) | optimal boost height *b* (m) | power with pumping (W/m<sup>2</sup>) | power without pumping (W/m<sup>2</sup>) |
 |--------------------------------------|------------------------------|--------------------------------------|-----------------------------------------|
@@ -379,7 +379,7 @@ which is roughly a factor of 4. Table G.10 shows the theoretical power density t
 
 The pumping trick can nevertheless be used for free on any day when the range of natural tides is smaller than the maximum range: the water
 
-<span class="figurenumber">Table G.10.</span> Theoretical power density from tidal power using the pumping trick, assuming no constraint on the height of the basin’s walls.
+<div class='caption'><span class="figurenumber">Table G.10.</span> Theoretical power density from tidal power using the pumping trick, assuming no constraint on the height of the basin’s walls.</div>
 
 | tidal amplitude (half-range) *h* (m) | boost height *b* (m) | power with pumping (W/m<sup>2</sup>) | power without pumping (W/m<sup>2</sup>) |
 |--------------------------------------|----------------------|--------------------------------------|-----------------------------------------|
@@ -396,7 +396,7 @@ Here’s a neat idea: have two basins, one of which is the “full” basin and 
 
 We can use power generated from the empty basin to pump extra water into the full basin at high tide, and similarly use power from the full basin to pump down the empty basin at low tide. This self-pumping would boost the total power delivered by the facility without ever needing to buy energy from the grid. It’s a delightful feature of a two-pool solution that the optimal time to *pump* water into the high pool is high tide, which is also the optimal time to *generate* power from the low pool. Similarly, low tide is the perfect time to pump down the low pool, and it’s the perfect time to generate power from the high pool. In a simple simulation, I’ve found that a two-lagoon system in a location with a natural tidal range of 4 m can, with an appropriate pumping schedule, deliver a *steady* power of 4.5 W/m<sup>2</sup> (MacKay, 2007a). One lagoon’s water level is always kept above mean sea-level; the other lagoon’s level is always kept below mean sealevel. This power density of 4.5 W/m<sup>2</sup> is 50% bigger than the maximum possible average power density of an ordinary tide-pool in the same lo-
 
-<span class="figurenumber">Table G.11.</span> Power density offered by the pumping trick, assuming the boost height is constrained to be the same as the tidal amplitude. This assumption applies, for example, at neap tides, if the pumping pushes the tidal range up to the springs range.
+<div class='caption'><span class="figurenumber">Table G.11.</span> Power density offered by the pumping trick, assuming the boost height is constrained to be the same as the tidal amplitude. This assumption applies, for example, at neap tides, if the pumping pushes the tidal range up to the springs range.</div>
 
 <img src="figure304.png" width="432" height="113" />
 cation (3 W/m<sup>2</sup>). The steady power of the lagoon system would be more valuable than the intermittent and less-flexible power from the ordinary tide-pool.
@@ -413,4 +413,4 @@ page no.
 
 Further reading: Shaw and Watson (2003b); Blunden and Bahaj (2007); Charlier (2003a,b). For further reading on bottom friction and variation of flow with depth, see Sleath (1984). For more on the estimation of the UK tidal resource, see MacKay (2007b). For more on tidal lagoons, see MacKay (2007a).
 
-<span class="figurenumber">Figure G.12.</span> Different ways to use the tidal pumping trick. Two lagoons are located at sea-level. (a) One simple way of using two lagoons is to label one the high pool and the other the low pool; when the surrounding sea level is near to high tide, let water into the high pool, or actively pump it in (using electricity from other sources); and similarly, when the sea level is near to low tide, empty the low pool, either passively or by active pumping; then whenever power is sufficiently valuable, generate power on demand by letting water from the high pool to the low pool. (b) Another arrangement that might deliver more power per unit area has no flow of water between the two lagoons. While one lagoon is being pumped full or pumped empty, the other lagoon can deliver steady, demand-following power to the grid. Pumping may be powered by bursty sources such as wind, by spare power from the grid (say, nuclear power stations), or by the other half of the facility, using one lagoon’s power to pump the other lagoon up or down.
+<div class='caption'><span class="figurenumber">Figure G.12.</span> Different ways to use the tidal pumping trick. Two lagoons are located at sea-level. (a) One simple way of using two lagoons is to label one the high pool and the other the low pool; when the surrounding sea level is near to high tide, let water into the high pool, or actively pump it in (using electricity from other sources); and similarly, when the sea level is near to low tide, empty the low pool, either passively or by active pumping; then whenever power is sufficiently valuable, generate power on demand by letting water from the high pool to the low pool. (b) Another arrangement that might deliver more power per unit area has no flow of water between the two lagoons. While one lagoon is being pumped full or pumped empty, the other lagoon can deliver steady, demand-following power to the grid. Pumping may be powered by bursty sources such as wind, by spare power from the grid (say, nuclear power stations), or by the other half of the facility, using one lagoon’s power to pump the other lagoon up or down.</div>

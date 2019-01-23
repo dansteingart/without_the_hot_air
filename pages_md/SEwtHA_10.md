@@ -23,7 +23,7 @@ The average power available from shallow offshore wind farms occupying the whole
 Before moving on, I want to emphasize the large area – two thirds of a Wales – that would be required to deliver this 16 kWh/d per person. If
 
 <img src="figure71.png" width="207" height="611" />
-<span class="figurenumber">Figure 10.1</span>. Kentish Flats – a shallow offshore wind farm. Each rotor has a diameter of 90 m centred on a hub height of 70 m. Each “3 MW” turbine weighs 500 tons, half of which is its foundation. Photos © Elsam (<span class="websitetitle">elsam.com</span>). Used with permission.
+<div class='caption'><span class="figurenumber">Figure 10.1</span>. Kentish Flats – a shallow offshore wind farm. Each rotor has a diameter of 90 m centred on a hub height of 70 m. Each “3 MW” turbine weighs 500 tons, half of which is its foundation. Photos © Elsam (<span class="websitetitle">elsam.com</span>). Used with permission.</div>
 
 <img src="figure70.png" width="291" height="405" />
 we take the total coastline of Britain (length: 3000 km), and put a strip of turbines 4 km wide all the way round, that strip would have an area of 13 000 km<sup>2</sup>. That is the area we must fill with turbines to deliver 16 kWh/d per person. To put it another way, consider the number of turbines required. 16 kWh/d per person would be delivered by 44 000 “3 MW” turbines, which works out to 15 per kilometre of coastline, if they were evenly spaced around 3000 km of coast.
@@ -34,7 +34,7 @@ Offshore wind is tough to pull off because of the corrosive effects of sea water
 
 The area with depths between 25 m and 50 m is about 80 000 km<sup>2</sup> – the size of Scotland. Assuming again a power per unit area of 3 W/m<sup>2</sup>, “deep” offshore wind farms could deliver another 240 GW, or 96 kWh/d per person, if turbines completely filled this area. Again, we must make corridors for shipping. I suggest as before that we assume we can use one third of the area for wind farms; this area would then be about 30% bigger than Wales,
 
-<span class="figurenumber">Figure 10.2</span>. UK territorial waters with depth less than 25 m (yellow) and depth between 25 m and 50 m (purple). Data from DTI Atlas of Renewable Marine Resources. © Crown copyright.
+<div class='caption'><span class="figurenumber">Figure 10.2</span>. UK territorial waters with depth less than 25 m (yellow) and depth between 25 m and 50 m (purple). Data from DTI Atlas of Renewable Marine Resources. © Crown copyright.</div>
 
 <img src="figure408.png" width="205" height="289" />
 
@@ -53,7 +53,7 @@ For comparison, to make 48 kWh per day of nuclear power per person in the UK wou
 The UK government announced on 10th December 2007 that it would permit the creation of 33 GW of offshore wind capacity (which would deliver on average 10 GW to the UK, or 4.4 kWh per day per person), a plan branded “pie in the sky” by some in the wind industry. Let’s run with a round figure of 4 kWh per day per person. This is one quarter of my
 
 <img src="figure72.png" width="212" height="624" />
-<span class="figurenumber">Figure 10.3</span>. Offshore wind.
+<div class='caption'><span class="figurenumber">Figure 10.3</span>. Offshore wind.</div>
 
 shallow 16 kWh per day per person. To obtain this average power requires roughly 10 000 “3 MW” wind turbines like those in figure 10.1. (They have a capacity of “3 MW” but on average they deliver 1 MW. I pop quotes round “3 MW” to indicate that this is a capacity, a peak power.)
 
@@ -68,10 +68,10 @@ Do windmills kill “huge numbers” of birds? Wind farms recently got adverse p
 Going on emotions alone, I would like to live in a country with virtually no cars, virtually no windmills, and with plenty of cats and birds (with the cats that prey on birds perhaps being preyed upon by Norwegian whitetailed eagles, to even things up). But what I really hope is that decisions about cars and windmills are made by careful rational thought, not by emotions alone. Maybe we do need the windmills!
 
 <img src="figure74.png" width="208" height="439" />
-<span class="figurenumber">Figure 10.4</span>. The Magnus platform in the northern UK sector of the North Sea contains 71 000 tons of steel. In the year 2000 this platform delivered 3.8 million tons of oil and gas – a power of 5 GW. The platform cost £1.1 billion. Photos by Terry Cavner.
+<div class='caption'><span class="figurenumber">Figure 10.4</span>. The Magnus platform in the northern UK sector of the North Sea contains 71 000 tons of steel. In the year 2000 this platform delivered 3.8 million tons of oil and gas – a power of 5 GW. The platform cost £1.1 billion. Photos by Terry Cavner.</div>
 
 <img src="figure75.png" width="207" height="66" />
-<span class="figurenumber">Figure 10.5</span>. Pipes for Langeled. From Bredero–Shaw \[<span class="websitetitle">brederoshaw.com</span>\].
+<div class='caption'><span class="figurenumber">Figure 10.5</span>. Pipes for Langeled. From Bredero–Shaw \[<span class="websitetitle">brederoshaw.com</span>\].</div>
 
 <img src="figure73.png" width="676" height="326" />
 ## Notes and further reading
@@ -84,7 +84,7 @@ page no.
 
 <span class="mark">–</span>*...deep offshore wind is at present not economically feasible.* Source: BritishWind Energy Association briefing document, September 2005, <span class="websitetitle">www.bwea.com</span>. Nevertheless, a deep offshore demonstration project in 2007 put two turbines adjacent to the Beatrice oil field, 22 km off the east coast of Scotland (figure 10.8). Each turbine has a “capacity” of 5 MW and sits in a water depth of 45 m. Hub height: 107 m; diameter 126 m. All the electricity generated will be used by the oil platforms. Isn’t that special! The 10 MW project cost £30 million – this price-tag of £3 per watt (peak) can be
 
-<span class="figurenumber">Figure 10.6</span>. Birds lost in action. Annual bird deaths in Denmark caused by wind turbines and cars, and annual bird deaths in Britain caused by cats. Numbers from Lomborg (2001). Collisions with windows kill a similar number to cats.
+<div class='caption'><span class="figurenumber">Figure 10.6</span>. Birds lost in action. Annual bird deaths in Denmark caused by wind turbines and cars, and annual bird deaths in Britain caused by cats. Numbers from Lomborg (2001). Collisions with windows kill a similar number to cats.</div>
 
 Region
 depth 5 to 30 metres
@@ -128,7 +128,7 @@ It’s possible that *floating* wind turbines may change the economics of deep o
 
 <span class="mark">–</span>*Horns Reef* (Horns Rev). The difficulties with this “160 MW” Danish wind farm off Jutland \[<span class="websitetitle">www.hornsrev.dk</span>\] are described by Halkema (2006).
 
-<span class="figurenumber">Table 10.7</span>. Potential offshore wind generation resource in proposed strategic regions, if these regions were *entirely filled* with wind turbines. From Dept. of Trade and Industry (2002b).
+<div class='caption'><span class="figurenumber">Table 10.7</span>. Potential offshore wind generation resource in proposed strategic regions, if these regions were *entirely filled* with wind turbines. From Dept. of Trade and Industry (2002b).</div>
 
 When it is in working order, Horns Reef’s load factor is 0.43 and its average power per unit area is 2.6 W/m<sup>2</sup>.
 
@@ -145,10 +145,10 @@ When it is in working order, Horns Reef’s load factor is 0.43 and its average 
 <span class="mark">–</span>*In a typical urban location in England, microturbines deliver 0.2 kWh per day*. Source: *Third Interim Report*, <span class="websitetitle">www.warwickwindtrials.org.uk/2.html</span>. Among the best results in the Warwick Wind Trials study is a Windsave WS1000 (a 1-kW machine) in Daventry mounted at a height of 15 m above the ground, generating 0.6 kWh/d on average. But some microturbines deliver only 0.05 kWh per day – Source: Donnachadh McCarthy: “My carbonfree year,” *The Independent*, December 2007 \[6oc3ja\]. The Windsave WS1000 wind turbine, sold across England in B&Q’s shops, won an Eco-Bollocks award from *Housebuilder’s Bible* author Mark Brinkley: “Come on, it’s time to admit that the roof-mounted wind turbine industry is a complete fiasco. Good money is being thrown at an invention that doesn’t work. This is the Sinclair C5 of the Noughties.” \[<span class="tinylink">5soql2</span>\]. The Met Office and Carbon Trust published a report in July 2008 \[<span class="tinylink">6g2jm5</span>\], which estimates that, if small-scale
 
 <img src="figure77.png" width="208" height="617" />
-<span class="figurenumber">Figure 10.8</span>. Construction of the Beatrice demonstrator deep offshore windfarm. Photos kindly provided by Talisman Energy (UK) Limited.
+<div class='caption'><span class="figurenumber">Figure 10.8</span>. Construction of the Beatrice demonstrator deep offshore windfarm. Photos kindly provided by Talisman Energy (UK) Limited.</div>
 
 <img src="figure76.png" width="708" height="326" />
-<span class="figurenumber">Figure 10.9</span>. Kentish Flats. Photos © Elsam (<span class="websitetitle">elsam.com</span>). Used with permission.
+<div class='caption'><span class="figurenumber">Figure 10.9</span>. Kentish Flats. Photos © Elsam (<span class="websitetitle">elsam.com</span>). Used with permission.</div>
 
 turbines were installed at all houses where economical in the UK, they would generate in total roughly <span class="green">0.7 kWh/d/p</span>. They advise that roof-mounted turbines in towns are usually worse than useless: “in many urban situations, roof-mounted turbines may not pay back the carbon emitted during their production, installation and operation.”
 

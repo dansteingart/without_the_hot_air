@@ -17,10 +17,10 @@ Perhaps you think that this plan (like each of the five plans in the previous ch
 Every wind farm costs a few million pounds to build and delivers a few megawatts. As a very rough ballpark figure in 2008, installing one watt of capacity costs one pound; one kilowatt costs 1000 pounds; a megawatt of wind costs a million; a gigawatt of nuclear costs a billion or perhaps two. Other renewables are more expensive. We (the UK) currently consume a total power of roughly 300 GW, most of which is fossil fuel. So we can anticipate that a major switching from fossil fuel to renewables and/or nuclear is going to require roughly 300 GW of renewables and/or nuclear and
 
 <img src="figure236.png" width="102" height="382" />
-<span class="figurenumber">Figure 28.1.</span> Plan M
+<div class='caption'><span class="figurenumber">Figure 28.1.</span> Plan M</div>
 
 <img src="figure235.png" width="432" height="618" />
-<span class="figurenumber">Figure 28.2.</span> A plan that adds up, for Scotland, England, and Wales. The grey-green squares are wind farms. Each is 100 km<sup>2</sup> in size and is shown to scale. The red lines in the sea are wave farms, shown to scale. Light-blue lightning-shaped polygons: solar photovoltaic farms – 20 km<sup>2</sup> each, shown to scale. Blue sharp-cornered polygons in the sea: tide farms. Blue blobs in the sea (Blackpool and the Wash): tidal lagoons. Light-green land areas: woods and short-rotation coppices (to scale). Yellow-green areas: biofuel (to scale). Small blue triangles: waste incineration plants (not to scale). Big brown diamonds: clean coal power stations, with cofiring of biomass, and carbon capture and storage (not to scale). Purple dots: nuclear power stations (not to scale) – 3.3 GW average production at each of 12 sites. Yellow hexagons across the channel: concentrating solar power facilities in remote deserts (to scale, 335 km<sup>2</sup> each). The pink wiggly line in France represents new HVDC lines, 2000 km long, conveying 40 GW from remote deserts to the UK. Yellow stars in Scotland: new pumped storage facilities. Red stars: existing pumped storage facilities. Blue dots: solar panels for hot water on all roofs.
+<div class='caption'><span class="figurenumber">Figure 28.2.</span> A plan that adds up, for Scotland, England, and Wales. The grey-green squares are wind farms. Each is 100 km<sup>2</sup> in size and is shown to scale. The red lines in the sea are wave farms, shown to scale. Light-blue lightning-shaped polygons: solar photovoltaic farms – 20 km<sup>2</sup> each, shown to scale. Blue sharp-cornered polygons in the sea: tide farms. Blue blobs in the sea (Blackpool and the Wash): tidal lagoons. Light-green land areas: woods and short-rotation coppices (to scale). Yellow-green areas: biofuel (to scale). Small blue triangles: waste incineration plants (not to scale). Big brown diamonds: clean coal power stations, with cofiring of biomass, and carbon capture and storage (not to scale). Purple dots: nuclear power stations (not to scale) – 3.3 GW average production at each of 12 sites. Yellow hexagons across the channel: concentrating solar power facilities in remote deserts (to scale, 335 km<sup>2</sup> each). The pink wiggly line in France represents new HVDC lines, 2000 km long, conveying 40 GW from remote deserts to the UK. Yellow stars in Scotland: new pumped storage facilities. Red stars: existing pumped storage facilities. Blue dots: solar panels for hot water on all roofs.</div>
 
 Capacity
 Rough cost <span class="mauve">total</span>
@@ -117,7 +117,7 @@ Biofuels: <span class="darkblue">30 000 km<sup>2</sup></span>
 Wood/Miscanthus: <span class="darkblue">31 000 km<sup>2</sup></span>
 (cost not estimated)
 <span class="green">5 kWh/d/p</span>
-<span class="figurenumber">Table 28.3.</span> Areas of land and sea required by plan M, and rough costs. Costs with a question mark are for technologies where no accurate cost is yet available from prototypes. “1 GW(th)” denotes one GW of thermal power.
+<div class='caption'><span class="figurenumber">Table 28.3.</span> Areas of land and sea required by plan M, and rough costs. Costs with a question mark are for technologies where no accurate cost is yet available from prototypes. “1 GW(th)” denotes one GW of thermal power.</div>
 
 thus have a cost in the ballpark of £300 billion. The rough costs in table 28.3 add up to £870 bn, with the solar power facilities dominating the total – the photovoltaics cost £190 bn and the concentrating solar stations cost £340 bn. Both these costs might well come down dramatically as we learn by doing. A government report leaked by the Guardian in August 2007 estimates that achieving “20% by 2020” (that is, 20% of all energy from renewables, which would require an increase in renewable power of 80 GW) could cost “up to £22 billion” (which would average out to £1.7 billion per year). Even though this estimate is smaller than the £80 billion that the rule of thumb I just mentioned would have suggested, the authors of the leaked report seem to view £22 billion as an “unreasonable” cost, preferring a target of just 9% renewables. (Another reason they give for disliking the “20% by 2020” target is that the resulting greenhouse gas savings “risk making the EU emissions trading scheme redundant.” Terrifying thought!)
 
@@ -138,10 +138,10 @@ Another good comparison to make is with our annual expenditure on insurance: som
 £4.3 billion: the cost of London Heathrow Airport’s Terminal 5. (£72 per person in the UK.) £1.9 billion: the cost of widening 91 km of the M1 (from junction 21 to 30, figure 28.4). \[<span class="tinylink">yu8em5</span>\]. (£32 per person in the UK.)
 
 <img src="figure239.png" width="207" height="289" />
-<span class="figurenumber">Figure 28.4.</span> The M1, from junction 21 to 30.
+<div class='caption'><span class="figurenumber">Figure 28.4.</span> The M1, from junction 21 to 30.</div>
 
 <img src="figure237.png" width="473" height="683" />
-<span class="figurenumber">Figure 28.5.</span> Things that run into billions. The scale down the centre has large ticks at $10 billion intervals and small ticks at $1 billion intervals.
+<div class='caption'><span class="figurenumber">Figure 28.5.</span> Things that run into billions. The scale down the centre has large ticks at $10 billion intervals and small ticks at $1 billion intervals.</div>
 
 ### Special occasions
 
@@ -178,7 +178,7 @@ $700 billion: in October 2008, the US government committed $700 billion to baili
 
 £5 billion per year: UK’s arms exports (£83 per year per person in the UK), of which £2.5 billion go to the Middle East, and £1 billion go to Saudi Arabia. Source: Observer, 3 December 2006. £8.5 billion: cost of redevelopment of army barracks in Aldershot and Salisbury Plain. (£140 per person in the UK.) £3.8 billion: the cost of two new aircraft carriers (£63 per person in the UK). <span class="websitetitle">news.bbc.co.uk/1/low/scotland/6914788.stm</span> $4.5 billion per year: the cost of not making nuclear weapons – the US Department of Energy’s budget allocates at least $4.5 billion per year to “stockpile stewardship” activities to maintain the nuclear stockpile *without* nuclear testing and *without* large-scale production of new weapons. ($15 per year per person in America.)
 
-<span class="figurenumber">Figure 28.6.</span> A few more things that run into billions. The vertical scale is squished 20-fold compared with the previous figure, figure 28.5, which is shown to scale inside the magenta box.
+<div class='caption'><span class="figurenumber">Figure 28.6.</span> A few more things that run into billions. The vertical scale is squished 20-fold compared with the previous figure, figure 28.5, which is shown to scale inside the magenta box.</div>
 
 £10–25 billion: the cost of replacing Trident, the British nuclear weapon system. (£170–420 per person in the UK.) \[<span class="tinylink">ysncks</span>\]. $63 billion: American donation of “military aid” (i.e. weapons) to the Middle East over 10 years – roughly half to Israel, and half to Arab states. \[<span class="tinylink">2vq59t</span>\] ($210 per person in the USA.) $1200 billion per year: world expenditure on arms \[<span class="tinylink">ym46a9</span>\]. ($200 per year per person in the world.) $2000 billion or more: the cost, to the USA, of the \[<span class="tinylink">99bpt</span>\] Iraq war according to Nobel prize-winning economist Joseph Stiglitz. ($7000 per person in America.)
 

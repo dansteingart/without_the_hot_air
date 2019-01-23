@@ -1,0 +1,17 @@
+
+.lightblue{ color: #006491; }
+/*text*/
+.darkblue{color:#392e90;}
+/*heading, text*/
+.green {	color: #357e36;}
+/*heading, text*/
+.red { color: #ec2b26; } 
+/*text*/
+.mauve{ color: #a35388; } 
+/*endnote*/
+.darkred {color:#a73a23;}
+
+/*line-height:0 removes uneven line spacing*/
+sup { vertical-align: 0.8ex; font-size:85%; line-height:0}
+sub { vertical-align: -0.6ex; font-size:95%; line-height:0}
+

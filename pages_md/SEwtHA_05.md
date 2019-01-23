@@ -27,10 +27,10 @@ No. The “comfortably greener” Bombardier Q400 NextGen, “the most technolog
 <img src="figure334.png" width="219" height="264" />
 
 <img src="figure29.png" width="212" height="273" />
-<span class="figurenumber">Figure 5.1.</span> Taking one intercontinental trip per year uses about 30 kWh per day.
+<div class='caption'><span class="figurenumber">Figure 5.1.</span> Taking one intercontinental trip per year uses about 30 kWh per day.</div>
 
 <img src="figure30.png" width="219" height="165" />
-<span class="figurenumber">Figure 5.2.</span> Bombardier Q400 NextGen <span class="websitetitle">www.q400.com</span>
+<div class='caption'><span class="figurenumber">Figure 5.2.</span> Bombardier Q400 NextGen <span class="websitetitle">www.q400.com</span></div>
 
 facturers \[<span class="websitetitle">www.q400.com</span>\], uses 3.81 litres per 100 passenger-km (at a cruise speed of 667 km/h), which is an energy cost of <span class="mauve">38 kWh per 100 p-km</span>. The full 747 has an energy cost of <span class="mauve">42 kWh per 100 p-km</span>. So both planes are twice as fuel-efficient as a single-occupancy car. (The car I’m assuming here is the average European car that we discussed in Chapter 3.)
 
@@ -47,7 +47,7 @@ page no.
 <span class="mark">35</span>*Boeing 747-400* – data are from \[<span class="tinylink">9ehws</span>\]. Planes today are not completely full. Airlines are proud if their average fullness is 80%. Easyjet planes are 85% full on average. (Source: <span class="websitetitle">thelondonpaper</span> Tuesday 16th January, 2007.) An 80%-full 747 uses about 53 kWh per 100 passenger-km. What about short-haul flights? In 2007, Ryanair, “Europe’s greenest airline,” delivered transportation at a cost of <span class="darkred">37 kWh per 100 p-km</span> \[<span class="tinylink">3exmgv</span>\]. This means that flying across Europe with Ryanair has much the same energy cost as having all the passengers drive to their destination in cars, two to a car. (For an indication of what other airlines might be delivering, Ryanair’s fuel burn rate in 2000, before their environment-friendly investments, was above <span class="darkred">73 kWh per 100 p-km</span>.) London to Rome is 1430 km; London to Malaga is 1735 km. So a round-trip to Rome with the greenest airline has an energy cost of 1050 kWh, and a round-trip to Malaga costs 1270 kWh. If you pop over to Rome and to Malaga once per year, your average power consumption is 6.3 kWh/d with the greenest airline, and perhaps 12 kWh/d with a less green one. What about frequent flyers? To get a silver frequent flyer card from an intercontinental airline, it seems one must fly around 25 000 miles per year in economy class. That’s about 60 kWh per day, if we scale up the opening numbers from this chapter and assume planes are 80% full. Here are some additional figures from the Intergovernmental Panel on Climate Change \[<span class="tinylink">yrnmum</span>\]: a full 747-400 travelling 10 000 km with low-density seating (262 seats) has an energy consumption of <span class="darkred">50 kWh per 100 p-km</span>. In a high-density seating configuration (568 seats) and travelling 4000 km, the
 
 <img src="figure31.png" width="221" height="158" />
-<span class="figurenumber">Figure 5.4.</span> Ryanair Boeing 737-800. Photograph by Adrian Pingstone.
+<div class='caption'><span class="figurenumber">Figure 5.4.</span> Ryanair Boeing 737-800. Photograph by Adrian Pingstone.</div>
 
 energy per distance (kWh per 100 p-km)
 Car (4 occupants)
@@ -64,11 +64,11 @@ Ryanair's planes, year 2000
 73
 Car (1 occupant)
 80
-<span class="figurenumber">Table 5.3.</span> Passenger transport efficiencies, expressed as energy required per 100 passenger-km.
+<div class='caption'><span class="figurenumber">Table 5.3.</span> Passenger transport efficiencies, expressed as energy required per 100 passenger-km.</div>
 
 same plane has an energy consumption of <span class="darkred">22 kWh per 100 p-km</span>. A shorthaul Tupolev-154 travelling 2235 km with 70% of its 164 seats occupied consumes <span class="darkred">80 kWh per 100 p-km</span>.
 
 <span class="mark">35</span>*No redesign of a plane is going to radically improve its efficiency.* Actually, the Advisory Council for Aerospace Research in Europe (ACARE) target is for an overall 50% reduction in fuel burned per passenger-km by 2020 (relative to a 2000 baseline), with 15–20% improvement expected in engine efficiency. As of 2006, Rolls Royce is half way to this engine target \[<span class="tinylink">36w5gz</span>\]. Dennis Bushnell, chief scientist at NASA’s Langley Research Center, seems to agree with my overall assessment of prospects for efficiency improvements in aviation. The aviation industry is mature. “There is not much left to gain except by the glacial accretion of a per cent here and there over long time periods.” (New Scientist, 24 February 2007, page 33.) The radically reshaped “Silent Aircraft” \[<span class="websitetitle">silentaircraft.org/sax40</span>\], if it were built, is predicted to be 16% more efficient than a conventional-shaped plane (Nickol, 2008). If the ACARE target is reached, it’s presumably going to be thanks mostly to having fuller planes and better air-traffic management.
 
 <img src="figure32.png" width="127" height="280" />
-<span class="figurenumber">Figure 5.5.</span> Two short-haul trips on the greenest short-haul airline: 6.3 kWh/d. Flying enough to qualify for silver frequent flyer status: 60 kWh/d.
+<div class='caption'><span class="figurenumber">Figure 5.5.</span> Two short-haul trips on the greenest short-haul airline: 6.3 kWh/d. Flying enough to qualify for silver frequent flyer status: 60 kWh/d.</div>

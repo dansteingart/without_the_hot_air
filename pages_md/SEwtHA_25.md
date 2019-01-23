@@ -47,9 +47,9 @@ Solar chimney
 0.1 W/m<sup>2</sup>
 **Concentrating solar    power (desert)**
 15 W/m<sup>2</sup>
-<span class="figurenumber">Table 25.1</span>. Renewable facilities have to be country-sized because all renewables are so diffuse.
+<div class='caption'><span class="figurenumber">Table 25.1</span>. Renewable facilities have to be country-sized because all renewables are so diffuse.</div>
 
-<span class="figurenumber">Table 25.2</span>. Some regions, ordered from small to large population density. See p338 for more population densities.
+<div class='caption'><span class="figurenumber">Table 25.2</span>. Some regions, ordered from small to large population density. See p338 for more population densities.</div>
 
 In all these countries, I think the most promising renewable is solar power, *concentrating solar power* in particular, which uses mirrors or lenses to focus sunlight. Concentrating solar power stations come in several flavours, arranging their moving mirrors in various geometries, and putting various power conversion technologies at the focus – Stirling engines, pressurized water, or molten salt, for example – but they all deliver fairly similar average powers per unit area, in the ballpark of <span class="green">15 W/m<sup>2</sup></span>.
 
@@ -66,10 +66,10 @@ The UK’s share of this 16-Wales area would be one Wales: a 145 km by 145 km sq
 An organization called DESERTEC \[<span class="websitetitle">www.desertec.org</span>\] is promoting a plan to use concentrating solar power in sunny Mediterranean countries, and high-voltage direct-current (HVDC) transmission lines (figure 25.7) to deliver the power to cloudier northern parts. HVDC technology has been in use since 1954 to transmit power both through overhead lines and through
 
 <img src="figure205.png" width="221" height="148" />
-<span class="figurenumber">Figure 25.3</span>. Stirling dish engine. These beautiful concentrators deliver a power per unit land area of <span class="green">14 W/m<sup>2</sup></span>. Photo courtesy of Stirling Energy Systems. <span class="websitetitle">www.stirlingenergy.com</span>
+<div class='caption'><span class="figurenumber">Figure 25.3</span>. Stirling dish engine. These beautiful concentrators deliver a power per unit land area of <span class="green">14 W/m<sup>2</sup></span>. Photo courtesy of Stirling Energy Systems. <span class="websitetitle">www.stirlingenergy.com</span></div>
 
 <img src="figure208.png" width="219" height="279" />
-<span class="figurenumber">Figure 25.4</span>. Andasol – a “100MW” solar power station under construction in Spain. Excess thermal energy produced during the day will be stored in liquid salt tanks for up to seven hours, allowing a continuous and stable supply of electric power to the grid. The power station is predicted to produce 350 GWh per year (40 MW). The parabolic troughs occupy 400 hectares, so the power per unit land area will be <span class="green">10 W/m<sup>2</sup></span>. Upper photo: ABB. Lower photo: IEA SolarPACES.
+<div class='caption'><span class="figurenumber">Figure 25.4</span>. Andasol – a “100MW” solar power station under construction in Spain. Excess thermal energy produced during the day will be stored in liquid salt tanks for up to seven hours, allowing a continuous and stable supply of electric power to the grid. The power station is predicted to produce 350 GWh per year (40 MW). The parabolic troughs occupy 400 hectares, so the power per unit land area will be <span class="green">10 W/m<sup>2</sup></span>. Upper photo: ABB. Lower photo: IEA SolarPACES.</div>
 
 <img src="figure427.png" width="681" height="494" />
 submarine cables (such as the interconnector between France and England). It is already used to transmit electricity over 1000-km distances in South Africa, China, America, Canada, Brazil, and Congo. A typical 500 kV line can transmit a power of 2 GW. A pair of HVDC lines in Brazil transmits 6.3 GW.
@@ -80,7 +80,7 @@ In the DESERTEC plans, the prime areas to exploit are coastal areas, because con
 
 Table 25.6 shows DESERTEC’s estimates of the potential power that
 
-<span class="figurenumber">Figure 25.5</span>. The celebrated little square. This map shows a square of size 600 km by 600 km in Africa, and another in Saudi Arabia, Jordan, and Iraq. Concentrating solar power facilities completely filling one such square would provide enough power to give 1 billion people the average European’s consumption of 125 kWh/d. The area of one square is the same as the area of Germany, and 16 times the area of Wales. Within each big square is a smaller 145 km by 145 km square showing the area required in the Sahara – one Wales – to supply all British power consumption.
+<div class='caption'><span class="figurenumber">Figure 25.5</span>. The celebrated little square. This map shows a square of size 600 km by 600 km in Africa, and another in Saudi Arabia, Jordan, and Iraq. Concentrating solar power facilities completely filling one such square would provide enough power to give 1 billion people the average European’s consumption of 125 kWh/d. The area of one square is the same as the area of Germany, and 16 times the area of Wales. Within each big square is a smaller 145 km by 145 km square showing the area required in the Sahara – one Wales – to supply all British power consumption.</div>
 
 | Country      | Economic potential (TWh/y) | Coastal potential (TWh/y) |
 |--------------|----------------------------|---------------------------|
@@ -108,13 +108,13 @@ could be produced in countries in Europe and North Africa. The “economic poten
 
 Let’s try to convey on a map what a realistic plan could look like. Imagine making solar facilities each having an area of 1500 km<sup>2</sup> – that’s roughly the size of London. (Greater London has an area of 1580 km<sup>2</sup>; the M25 orbital motorway around London encloses an area of 2300 km<sup>2</sup>.) Let’s call each facility a *blob*. Imagine that in each of these blobs, half the area is devoted to concentrating power stations with an average power density of 15 W/m<sup>2</sup>, leaving space around for agriculture, buildings, railways, roads, pipelines, and cables. Allowing for 10% transmission loss between the blob and the consumer, each of these blobs generates an average power of 10 GW. Figure 25.8 shows some blobs to scale on a map. To give a sense of the scale of these blobs I’ve dropped a few in Britain too. *Four* of these blobs would have an output roughly equal to Britain’s total electricity consumption (16 kWh/d per person for 60 million people). *Sixty-five* blobs would provide all one billion people in Europe and North Africa with 16 kWh/d per person. Figure 25.8 shows 68 blobs in the desert.
 
-<span class="figurenumber">Table 25.6</span>. Solar power potential in countries around and near to Europe. The “economic potential” is the power that could be generated in suitable places where the direct normal irradiance is more than 2000 kWh/m<sup>2</sup>/y. The “coastal potential” is the power that could be generated within 20 m (vertical) of sea level; such power is especially promising because of the potential combination with desalination. For comparison, the total power required to give 125 kWh per day to 1 billion people is 46 000 TWh/y (5 200 GW). 6000 TWh/y (650 GW) is 16 kWh per day per person for 1 billion people.
+<div class='caption'><span class="figurenumber">Table 25.6</span>. Solar power potential in countries around and near to Europe. The “economic potential” is the power that could be generated in suitable places where the direct normal irradiance is more than 2000 kWh/m<sup>2</sup>/y. The “coastal potential” is the power that could be generated within 20 m (vertical) of sea level; such power is especially promising because of the potential combination with desalination. For comparison, the total power required to give 125 kWh per day to 1 billion people is 46 000 TWh/y (5 200 GW). 6000 TWh/y (650 GW) is 16 kWh per day per person for 1 billion people.</div>
 
 <img src="figure206.png" width="219" height="325" />
-<span class="figurenumber">Figure 25.7</span>. Laying a high-voltage DC link between Finland and Estonia. A pair of these cables transmit a power of 350 MW. Photo: ABB.
+<div class='caption'><span class="figurenumber">Figure 25.7</span>. Laying a high-voltage DC link between Finland and Estonia. A pair of these cables transmit a power of 350 MW. Photo: ABB.</div>
 
 <img src="figure207.png" width="674" height="661" />
-<span class="figurenumber">Figure 25.8</span>. Each circular blob represents an area of 1500 km<sup>2</sup>, which, if one-third-filled[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#181) with solar power facilities, would generate 10 GW on average. 65 such blobs would provide 1 billion people with 16 kWh/d per person.
+<div class='caption'><span class="figurenumber">Figure 25.8</span>. Each circular blob represents an area of 1500 km<sup>2</sup>, which, if one-third-filled[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#181) with solar power facilities, would generate 10 GW on average. 65 such blobs would provide 1 billion people with 16 kWh/d per person.</div>
 
 ### Concentrating photovoltaics
 
@@ -139,7 +139,7 @@ Because I am trying to discuss practical options for large-scale sustainable pow
 A solar chimney or solar updraft tower uses solar power in a very simple way. A huge chimney is built at the centre of an area covered by a transparent roof made of glass or plastic; because hot air rises, hot air created
 
 <img src="figure209.png" width="221" height="265" />
-<span class="figurenumber">Figure 25.9</span>. A 25 kW (peak) concentrator photovoltaic collector produced by Californian company Amonix. Its 225 m<sup>2</sup> aperture contains 5760 Fresnel lenses with optical concentration ×260, each of which illuminates a 25%-efficient silicon cell. One such collector, in an appropriate desert location, generates 138 kWh per day – enough to cover the energy consumption of half an American. Note the human providing a scale. Photo by David Faiman.
+<div class='caption'><span class="figurenumber">Figure 25.9</span>. A 25 kW (peak) concentrator photovoltaic collector produced by Californian company Amonix. Its 225 m<sup>2</sup> aperture contains 5760 Fresnel lenses with optical concentration ×260, each of which illuminates a 25%-efficient silicon cell. One such collector, in an appropriate desert location, generates 138 kWh per day – enough to cover the energy consumption of half an American. Note the human providing a scale. Photo by David Faiman.</div>
 
 in this greenhouse-like heat-collector whooshes up the chimney, drawing in cooler air from the perimeter of the heat-collector. Power is extracted from the air-flow by turbines at the base of the chimney. Solar chimneys are fairly simple to build, but they don’t deliver a very impressive power per unit area. A pilot plant in Manzanares, Spain operated for seven years between 1982 and 1989. The chimney had a height of 195 m and a diameter of 10 m; the collector had a diameter of 240 m, and its roof had 6000 m<sup>2</sup> of glass and 40 000 m<sup>2</sup> of transparent plastic. It generated 44 MWh per year, which corresponds to a power per unit area of <span class="green">0.1 W/m<sup>2</sup></span>. Theoretically, the bigger the collector and the taller the chimney, the bigger the power density of a solar chimney becomes. The engineers behind Manzanares reckon that, at a site with a solar radiation of 2300 kWh/m<sup>2</sup> per year (262 W/m<sup>2</sup>), a 1000 m-high tower surrounded by a 7 km-diameter collector could generate 680 GWh per year, an average power of 78 MW. That’s a power per unit area of about <span class="green">1.6 W/m<sup>2</sup></span>, which is similar to the power per unit area of windfarms in Britain, and one tenth of the power per unit area I said concentrating solar power stations would deliver. It’s claimed that solar chimneys could generate electricity at a price similar to that of conventional power stations. I suggest that countries that have enough land and sunshine to spare should host a big bake-off contest between solar chimneys and concentrating solar power, to be funded by oil-producing and oil-consuming countries.
 
@@ -148,10 +148,10 @@ in this greenhouse-like heat-collector whooshes up the chimney, drawing in coole
 Indeed, Iceland already effectively exports energy by powering industries that make energy-intensive products. Iceland produces nearly one ton of aluminium per citizen per year, for example! So from Iceland’s point of view, there are great profits to be made. But can Iceland save Europe? I would be surprised if Iceland’s power production could be scaled up enough to make sizeable electricity exports even to Britain alone. As a benchmark, let’s compare with the England–France Interconnector, which can deliver up to 2 GW across the English Channel. That maximum power is equivalent to 0.8 kWh per day per person in the UK, roughly 5% of British average electricity consumption. Iceland’s average geothermal electricity generation is just 0.3 GW, which is less than 1% of Britain’s average electricity consumption. Iceland’s average electricity production is 1.1 GW. So to create a link sending power equal to the capacity of the French interconnector, Iceland would have to *triple* its electricity production. To provide us with 4 kWh per day per person (roughly what Britain gets from its own nuclear power stations), Iceland’s electricity production would have to increase *ten-fold*. It is probably a good idea to build interconnectors to Iceland, but don’t expect them to deliver more than a small contribution.
 
 <img src="figure210.png" width="219" height="360" />
-<span class="figurenumber">Figure 25.10</span>. The Manzanares prototype solar chimney. Photos from <span class="websitetitle">solarmillennium.de</span>.
+<div class='caption'><span class="figurenumber">Figure 25.10</span>. The Manzanares prototype solar chimney. Photos from <span class="websitetitle">solarmillennium.de</span>.</div>
 
 <img src="figure211.png" width="221" height="166" />
-<span class="figurenumber">Figure 25.11</span>. More geothermal power in Iceland. Photo by Rosie Ward.
+<div class='caption'><span class="figurenumber">Figure 25.11</span>. More geothermal power in Iceland. Photo by Rosie Ward.</div>
 
 ## Notes and further reading
 
@@ -162,10 +162,10 @@ page no.
 <span class="mark">179</span>*HVDC is already used to transmit electricity over 1000-km distances in South Africa, China, America, Canada, Brazil, and Congo.* Sources: Asplund (2004), Bahrman and Johnson (2007). Further reading on HVDC: Carlsson (2002).
 
 <img src="figure212.png" width="219" height="148" />
-<span class="figurenumber">Figure 25.12</span>. Two engineers assembling an eSolar concentrating power station using heliostats (mirrors that rotate and tip to follow the sun). esolar.com make medium-scale power stations: a 33 MW (peak) power unit on a 64 hectare site. That’s 51 W/m<sup>2</sup> peak, so I’d guess that in a typical desert location they would deliver about one quarter of that: <span class="green">13 W/m<sup>2</sup></span>.
+<div class='caption'><span class="figurenumber">Figure 25.12</span>. Two engineers assembling an eSolar concentrating power station using heliostats (mirrors that rotate and tip to follow the sun). esolar.com make medium-scale power stations: a 33 MW (peak) power unit on a 64 hectare site. That’s 51 W/m<sup>2</sup> peak, so I’d guess that in a typical desert location they would deliver about one quarter of that: <span class="green">13 W/m<sup>2</sup></span>.</div>
 
 <img src="figure428.png" width="219" height="166" />
-<span class="figurenumber">Figure 25.13</span>. A high-voltage DC power system in China. Photo: ABB.
+<div class='caption'><span class="figurenumber">Figure 25.13</span>. A high-voltage DC power system in China. Photo: ABB.</div>
 
 <span class="mark">179</span>*Losses on a 3500 km-long HVDC line, including conversion from AC to DC and back,would be about 15%.* Sources: Trieb and Knies (2004); van Voorthuysen (2008).
 

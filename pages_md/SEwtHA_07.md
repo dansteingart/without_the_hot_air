@@ -25,15 +25,15 @@ A microwave oven usually has its cooking power marked on the front: mine says 90
 A regular oven guzzles more: about 3 kW when on full. If you use the oven for one hour per day, and the oven’s on full power for half of that time, that’s <span class="red">1.5 kWh per day</span>.
 
 <img src="figure53.png" width="221" height="166" />
-<span class="figurenumber">Figure 7.1</span>. A flock of new houses.
+<div class='caption'><span class="figurenumber">Figure 7.1</span>. A flock of new houses.</div>
 
 <img src="figure54.png" width="218" height="134" />
-<span class="figurenumber">Figure 7.2</span>. The water in a bath.
+<div class='caption'><span class="figurenumber">Figure 7.2</span>. The water in a bath.</div>
 
 230 V × 13 A = 3000 W
 
 <img src="figure55.png" width="209" height="202" />
-<span class="figurenumber">Figure 7.3</span>. Power consumption by a heating and cooling device.
+<div class='caption'><span class="figurenumber">Figure 7.3</span>. Power consumption by a heating and cooling device.</div>
 
 Device
 power
@@ -100,13 +100,13 @@ One way to estimate the energy used per day for hot air is to imagine a building
 
 This chapter’s companion Chapter E contains a more detailed account of where the heat is going in a building; this model makes it possible to
 
-<span class="figurenumber">Table 7.4</span>. Energy consumption figures for heating and cooling devices, per household.
+<div class='caption'><span class="figurenumber">Table 7.4</span>. Energy consumption figures for heating and cooling devices, per household.</div>
 
 <img src="figure56.png" width="102" height="56" />
-<span class="figurenumber">Figure 7.5</span>. The hot water total at both home and work – including bathing, showering, clothes washing, cookers, kettles, microwave oven, and dishwashing – is about 12 kWh per day per person. I’ve given this box a light colour to indicate that this power could be delivered by low-grade thermal energy.
+<div class='caption'><span class="figurenumber">Figure 7.5</span>. The hot water total at both home and work – including bathing, showering, clothes washing, cookers, kettles, microwave oven, and dishwashing – is about 12 kWh per day per person. I’ve given this box a light colour to indicate that this power could be delivered by low-grade thermal energy.</div>
 
 <img src="figure57.png" width="148" height="140" />
-<span class="figurenumber">Figure 7.6</span>. A big electric heater: 2 kW.
+<div class='caption'><span class="figurenumber">Figure 7.6</span>. A big electric heater: 2 kW.</div>
 
 predict the heat savings from turning the thermostat down, double-glazing the windows, and so forth.
 
@@ -135,12 +135,12 @@ An economical way to get air-conditioning is an air-source heat pump. A window-m
 This chapter’s estimate of the energy cost of cooling – 1 kWh/d per person – includes this air-conditioning and a domestic refrigerator. Society
 
 <img src="figure58.png" width="102" height="101" />
-<span class="figurenumber">Figure 7.7</span>. Hot air total – including domestic and workplace heating – about 24 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure 7.7</span>. Hot air total – including domestic and workplace heating – about 24 kWh per day per person.</div>
 
-<span class="figurenumber">Figure 7.8</span>. Cambridge temperature in degrees Celsius, daily (red line), and half-hourly (blue line) during 2006.
+<div class='caption'><span class="figurenumber">Figure 7.8</span>. Cambridge temperature in degrees Celsius, daily (red line), and half-hourly (blue line) during 2006.</div>
 
 <img src="figure60.png" width="108" height="33" />
-<span class="figurenumber">Figure 7.9</span>. Cooling total – including a refrigerator (fridge/freezer) and a little summer air-conditioning – 1 kWh/d.
+<div class='caption'><span class="figurenumber">Figure 7.9</span>. Cooling total – including a refrigerator (fridge/freezer) and a little summer air-conditioning – 1 kWh/d.</div>
 
 <img src="figure61.png" width="410" height="136" />
 also refrigerates food on its way from field to shopping basket. I’ll estimate the power cost of the food-chain later, in Chapter 15.
@@ -160,10 +160,10 @@ Totting up these three numbers, a second guess for the national spend on heating
 page no.
 <span class="mark">50</span>*An oven uses 3 kW*. Obviously there’s a range of powers. Many ovens have a maximum power of 1.8 kW or 2.2 kW. Top-of-the-line ovens use as much as 6 kW. For example, the Whirlpool AGB 487/WP 4 Hotplate Electric Oven Range has a 5.9 kW oven, and four 2.3 kW hotplates. <span class="websitetitle">www.kcmltd.com/electric oven ranges.shtml</span> <span class="websitetitle">www.1stforkitchens.co.uk/kitchenovens.html</span>
 
-<span class="figurenumber">Figure 7.10</span>. My domestic cumulative gas consumption, in kWh, each year from 1993 to 2005. The number at the top of each year’s line is the average rate of energy consumption, in kWh per day. To find out what happened in 2007, keep reading!
+<div class='caption'><span class="figurenumber">Figure 7.10</span>. My domestic cumulative gas consumption, in kWh, each year from 1993 to 2005. The number at the top of each year’s line is the average rate of energy consumption, in kWh per day. To find out what happened in 2007, keep reading!</div>
 
 <img src="figure62.png" width="211" height="433" />
-<span class="figurenumber">Figure 7.11</span>. Heating and cooling – about 37 units per day per person. I’ve removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy.
+<div class='caption'><span class="figurenumber">Figure 7.11</span>. Heating and cooling – about 37 units per day per person. I’ve removed the shading from this box to indicate that it represents power that could be delivered by low-grade thermal energy.</div>
 
 <span class="mark">51</span>*An airing cupboard requires roughly 1.5 kWh to dry one load of clothes*. I worked this out by weighing my laundry: a load of clothes, 4 kg when dry, emerged from my Bosch washing machine weighing 2.2 kg more (even after a good German spinning). The latent heat of vaporization of water at 15 °C is roughly 2500 kJ/kg. To obtain the daily figure in table 7.4 I assumed that one person has a load of laundry every three days, and that this sucks valuable heat from the house during the cold half of the year. (In summer, using the airing cupboard delivers a little bit of air-conditioning, since the evaporating water cools the air in the house.)
 

@@ -28,10 +28,10 @@ If we used 25% of Britain for oilseed rape, we’d obtain biodiesel with an ener
 Sugar beet, in the UK, delivers an impressive yield of 53 t per hectare per year. And 1 t of sugar beet makes 108 litres of bioethanol. Bioethanol has an energy density of 6 kWh per litre, so this process has a power per unit area of <span class="green">0.4 W/m<sup>2</sup></span>, not accounting for energy inputs required.
 
 <img src="figure283.png" width="221" height="180" />
-<span class="figurenumber">Figure D.1.</span> Two trees.
+<div class='caption'><span class="figurenumber">Figure D.1.</span> Two trees.</div>
 
 <img src="figure284.png" width="219" height="207" />
-<span class="figurenumber">Figure D.2.</span> Oilseed rape. If used to create biodiesel, the power per unit area of rape is 0.13 W/m<sup>2</sup>. Photo by Tim Dunne.
+<div class='caption'><span class="figurenumber">Figure D.2.</span> Oilseed rape. If used to create biodiesel, the power per unit area of rape is 0.13 W/m<sup>2</sup>. Photo by Tim Dunne.</div>
 
 ### Bioethanol from sugar cane
 
@@ -92,7 +92,7 @@ refuse-derived waste
 5.1
 tyres
 8.9
-<span class="figurenumber">Table D.3.</span> Calorific value of wood and similar things. Sources: Yaros (1997); Ucuncu (1993), Digest of UK Energy Statistics 2005.
+<div class='caption'><span class="figurenumber">Table D.3.</span> Calorific value of wood and similar things. Sources: Yaros (1997); Ucuncu (1993), Digest of UK Energy Statistics 2005.</div>
 
 <img src="figure504.png" width="219" height="86" />
 
@@ -141,7 +141,7 @@ page no.
 <span class="mark">283</span>*The power per unit area of using willow, miscanthus, or poplar, for electricity is 0.2 W/m<sup>2</sup>*. Source: Select Committee on Science and Technology Minutes of Evidence – Memorandum from the Biotechnology & Biological Sciences Research Council \[<span class="websitetitle">www.publications.parliament.uk/pa/ld200304/ ldselect/ldsctech/126/4032413.htm</span>\]. “Typically a sustainable crop of 10
 
 <img src="figure285.png" width="221" height="380" />
-<span class="figurenumber">Figure D.4.</span> SELCHP – your trash is their business.
+<div class='caption'><span class="figurenumber">Figure D.4.</span> SELCHP – your trash is their business.</div>
 
 dry t/ha/y of woody biomass can be produced in Northern Europe... . Thus an area of 1 km<sup>2</sup> will produce 1000 dry t/y – enough for a power output 150 kWe at low conversion efficiencies or 300 kWe at high conversion efficiencies.” This means 0.15–0.3 W(e)/m<sup>2</sup>. See also Layzell et al. (2006), \[<span class="tinylink">3ap7lc</span>\].
 

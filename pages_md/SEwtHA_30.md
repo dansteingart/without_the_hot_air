@@ -3,7 +3,7 @@
 Figure 30.1 shows the power consumptions of lots of countries or regions, versus their gross domestic products (GDPs). It is a widely held assumption that human development and growth are good things, so when sketching world plans for sustainable energy I am going to assume that all the countries with low GDP per capita are going to progress rightwards in figure 30.1. And as their GDPs increase, it’s inevitable that their power consumptions will increase too. It’s not clear what consumption we should plan for, but I think that the average European level (125 kWh per day per person) seems a reasonable assumption; alternatively, we could assume that efficiency measures, like those envisaged in Cartoon Britain in Chapters 19–28, allow all countries to attain a European standard of living with a lower power consumption. In the consumption plan on p204, Cartoon Britain’s consumption fell to about <span class="red">68 kWh/d/p</span>. Bearing in mind that Cartoon Britain doesn’t havemuch industrial activity, perhaps it would be sensible to assume a slightly higher target, such as Hong Kong’s <span class="red">80 kWh/d/p</span>.
 
 <img src="figure242.png" width="480" height="438" />
-<span class="figurenumber">Figure 30.1.</span> Power consumption per capita versus GDP per capita, in purchasing-power-parity US dollars. Data from UNDP Human Development Report, 2007. Squares show countries having “high human development;” circles, “medium” or “low.” Both variables are on logarithmic scales. Figure 18.4 shows the same data on normal scales.
+<div class='caption'><span class="figurenumber">Figure 30.1.</span> Power consumption per capita versus GDP per capita, in purchasing-power-parity US dollars. Data from UNDP Human Development Report, 2007. Squares show countries having “high human development;” circles, “medium” or “low.” Both variables are on logarithmic scales. Figure 18.4 shows the same data on normal scales.</div>
 
 ## Redoing the calculations for Europe
 
@@ -57,7 +57,7 @@ Energy crops? Plants capture only 0.5 W/m<sup>2</sup> (figure 6.11). Given that 
 Let’s be realistic. Just like Britain, *Europe can’t live on its own renewables*. So if the aim is to get off fossil fuels, Europe needs nuclear power, or solar power in other people’s deserts (as discussed on p179), or both.
 
 <img src="figure243.png" width="221" height="254" />
-<span class="figurenumber">Figure 30.2.</span> A solar water heater providing hot water for a family in Michigan. The system’s pump is powered by the small photovoltaic panel on the left.
+<div class='caption'><span class="figurenumber">Figure 30.2.</span> A solar water heater providing hot water for a family in Michigan. The system’s pump is powered by the small photovoltaic panel on the left.</div>
 
 ## Redoing the calculations for North America
 
@@ -104,7 +104,7 @@ For our global estimate, let’s go with the numbers from Greenpeace and the Eur
 Worldwide, hydroelectricity currently contributes about 1.4 kWh/d per person.
 
 <img src="figure244.png" width="688" height="596" />
-<span class="figurenumber">Figure 30.3.</span> The little square strikes again. The 600 km by 600 km square in North America, completely filled with concentrating solar power, would provide enough power to give 500 million people the average American’s consumption of 250 kWh/d.    This map also shows the square of size 600 km by 600 km in Africa, which we met earlier. I’ve assumed a power density of 15 W/m<sup>2</sup>, as before.    The area of one yellow square is a little bigger than the area of Arizona, and 16 times the area of New Jersey. Within each big square is a smaller 145 km by 145 km square showing the area required in the desert – one New Jersey – to supply 30 million people with 250 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure 30.3.</span> The little square strikes again. The 600 km by 600 km square in North America, completely filled with concentrating solar power, would provide enough power to give 500 million people the average American’s consumption of 250 kWh/d.    This map also shows the square of size 600 km by 600 km in Africa, which we met earlier. I’ve assumed a power density of 15 W/m<sup>2</sup>, as before.    The area of one yellow square is a little bigger than the area of Arizona, and 16 times the area of New Jersey. Within each big square is a smaller 145 km by 145 km square showing the area required in the desert – one New Jersey – to supply 30 million people with 250 kWh per day per person.</div>
 
 From the website <span class="websitetitle">www.ieahydro.org</span>, “The International Hydropower Association and the International Energy Agency estimate the world’s total technical feasible hydro potential at 14 000 TWh/year \[6.4 kWh/d per person on the globe\], of which about 8000 TWh/year \[<span class="green">3.6 kWh/d per person</span>\] is currently considered economically feasible for development. Most of the potential for development is in Africa, Asia and Latin America.”
 
@@ -185,7 +185,7 @@ The non-solar numbers add up as follows. Wind: 24 kWh/d/p; hydro: 3.6 kWh/d/p; t
 | Yuma, AZ          | 93% |
 | Sahara Desert     | 98% |
 
-<span class="figurenumber">Table 30.4.</span> World sunniness figures. \[<span class="tinylink">3doaeg</span>\]
+<div class='caption'><span class="figurenumber">Table 30.4.</span> World sunniness figures. \[<span class="tinylink">3doaeg</span>\]</div>
 
 complete a plan that adds up, we must rely on one or more forms of solar power. Or use nuclear power. Or both.
 

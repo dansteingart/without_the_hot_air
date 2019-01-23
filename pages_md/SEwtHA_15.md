@@ -15,7 +15,7 @@ Let’s say we want to understand the full energy-cost of a stuff, perhaps with 
 To understand how much energy a stuff’s life requires, we should estimate the energy costs of all four phases and add them up. Usually one of these four phases dominates the total energy cost, so to get a reasonable estimate of the total energy cost we need accurate estimates only of the cost of that dominant phase. If we wish to redesign a stuff so as to reduce its total energy cost, we should usually focus on reducing the cost of the dominant phase, while making sure that energy-savings in that phase
 
 <img src="figure105.png" width="221" height="125" />
-<span class="figurenumber">Figure 15.1</span>. Selfridges’ rubbish advertisement.
+<div class='caption'><span class="figurenumber">Figure 15.1</span>. Selfridges’ rubbish advertisement.</div>
 
 embodied energy (kWh per kg)
 fossil fuel
@@ -32,7 +32,7 @@ aluminium
 40
 steel
 6
-<span class="figurenumber">Table 15.2</span>. Embodied energy of materials.
+<div class='caption'><span class="figurenumber">Table 15.2</span>. Embodied energy of materials.</div>
 
 aren’t being undone by accompanying increases in the energy costs of the other three phases.
 
@@ -59,10 +59,10 @@ The energy cost of making a rechargeable nickel-cadmium AA battery, storing 0.00
 <img src="figure413.png" width="221" height="172" />
 
 <img src="figure106.png" width="130" height="111" />
-<span class="figurenumber">Figure 15.3</span>. Five aluminium cans per day is 3 kWh/d. The embodied energy in other packaging chucked away by the average Brit is 4 kWh/d.
+<div class='caption'><span class="figurenumber">Figure 15.3</span>. Five aluminium cans per day is 3 kWh/d. The embodied energy in other packaging chucked away by the average Brit is 4 kWh/d.</div>
 
 <img src="figure107.png" width="221" height="184" />
-<span class="figurenumber">Figure 15.4</span>. She’s making chips. Photo: ABB. Making one personal computer every two years costs 2.5 kWh per day.
+<div class='caption'><span class="figurenumber">Figure 15.4</span>. She’s making chips. Photo: ABB. Making one personal computer every two years costs 2.5 kWh per day.</div>
 
 ### Newspapers, magazines, and junk mail
 
@@ -113,13 +113,13 @@ In 2002, 560 million tons of freight passed through British ports. The Tyndall C
 
 Water’s not a very glamorous stuff, but we use a lot of it – about 160 litres
 
-<span class="figurenumber">Figure 15.5</span>. Food-miles – Pasties, hand-made in Helston, Cornwall, shipped 580 km for consumption in Cambridge.
+<div class='caption'><span class="figurenumber">Figure 15.5</span>. Food-miles – Pasties, hand-made in Helston, Cornwall, shipped 580 km for consumption in Cambridge.</div>
 
 <img src="figure111.png" width="221" height="168" />
-<span class="figurenumber">Figure 15.6</span>. The container ship *Ever Uberty* at Thamesport Container Terminal. Photo by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>.
+<div class='caption'><span class="figurenumber">Figure 15.6</span>. The container ship *Ever Uberty* at Thamesport Container Terminal. Photo by Ian Boyle <span class="websitetitle">www.simplonpc.co.uk</span>.</div>
 
 <img src="figure112.png" width="133" height="54" />
-<span class="figurenumber">Figure 15.7</span>. The lorry delivereth and the lorry taketh away. Energy cost of UK road freight: 7 kWh/d per person.
+<div class='caption'><span class="figurenumber">Figure 15.7</span>. The lorry delivereth and the lorry taketh away. Energy cost of UK road freight: 7 kWh/d per person.</div>
 
 <img src="figure340.png" width="115" height="44" />
 
@@ -132,13 +132,13 @@ At the moment the UK doesn’t spend energy on water desalination. But there’s
 
 The Island of Jersey has a desalination plant that can produce 6000 m<sup>3</sup> of pure water per day (figure 15.10). Including the pumps for bringing the water up from the sea and through a series of filters, the whole plant uses a power of 2 MW. That’s an energy cost of 8 kWh per m<sup>3</sup> of water produced. At a cost of 8 kWh per m<sup>3</sup>, a daily water consumption of 160 litres would require <span class="red">1.3 kWh per day</span>.
 
-<span class="figurenumber">Figure 15.8</span>. Energy requirements of different forms of freight-transport. The vertical coordinate shows the energy consumed in kWh per net ton-km, (that is, the energy per t-km of freight moved, not including the weight of the vehicle). See also figure 20.23 (energy requirements of passenger transport).
+<div class='caption'><span class="figurenumber">Figure 15.8</span>. Energy requirements of different forms of freight-transport. The vertical coordinate shows the energy consumed in kWh per net ton-km, (that is, the energy per t-km of freight moved, not including the weight of the vehicle). See also figure 20.23 (energy requirements of passenger transport).</div>
 
 <img src="figure108.png" width="219" height="148" />
 Water transport requires energy because boats make waves. Nevertheless, transporting freight by ship is surprisingly energy efficient.
 
 <img src="figure113.png" width="101" height="61" />
-<span class="figurenumber">Figure 15.9</span>. Water delivery: 0.3 kWh/d; sewage processing: 0.1 kWh/d.
+<div class='caption'><span class="figurenumber">Figure 15.9</span>. Water delivery: 0.3 kWh/d; sewage processing: 0.1 kWh/d.</div>
 
 <img src="figure110.png" width="465" height="369" />
 ## Stuff retail
@@ -151,7 +151,7 @@ In standard accounts of “Britain’s energy consumption” or “Britain’s c
 
 In Chapter H, I explore this idea further, by looking at the weight of Britain’s imports. Leaving aside our imports of fuels, we import a little
 
-<span class="figurenumber">Figure 15.10</span>. Part of the reverse-osmosis facility at Jersey Water’s desalination plant. The pump in the foreground, right, has a power of 355 kW and shoves seawater at a pressure of 65 bar into 39 spiral-wound membranes in the banks of blue horizontal tubes, left, delivering 1500 m<sup>3</sup> per day of clean water. The clean water from this facility has a total energy cost of 8 kWh per m<sup>3</sup>.
+<div class='caption'><span class="figurenumber">Figure 15.10</span>. Part of the reverse-osmosis facility at Jersey Water’s desalination plant. The pump in the foreground, right, has a power of 355 kW and shoves seawater at a pressure of 65 bar into 39 spiral-wound membranes in the banks of blue horizontal tubes, left, delivering 1500 m<sup>3</sup> per day of clean water. The clean water from this facility has a total energy cost of 8 kWh per m<sup>3</sup>.</div>
 
 <img src="figure341.png" width="101" height="45" />
 
@@ -182,7 +182,7 @@ page no.
 <span class="mark">90</span>*A new car’s embodied energy is 76 000 kWh*. Source: Treloar et al. (2004). Burnham et al. (2007) give a lower figure: 30 500 kWh for the net life-cycle energy cost of a car. One reason for the difference may be that the latter lifecycle analysis assumes the vehicle is recycled, thus reducing the net materials cost.
 
 <img src="figure114.png" width="211" height="729" />
-<span class="figurenumber">Figure 15.11</span>. Making our stuff costs at least 48 kWh/d. Delivering the stuff costs 12 kWh/d.
+<div class='caption'><span class="figurenumber">Figure 15.11</span>. Making our stuff costs at least 48 kWh/d. Delivering the stuff costs 12 kWh/d.</div>
 
 <span class="mark">90</span>*Paper has an embodied energy of 10 kWh per kg*. Making newspaper from virgin wood has an energy cost of about 5 kWh/kg, and the paper itself has an energy content similar to that of wood, about 5 kWh/kg. (Source: Ucuncu (1993); Erdincler and Vesilind (1993); see p284.) Energy costs vary between mills and between countries. 5 kWh/kg is the figure for a Swedish newspaper mill in 1973 from Norrström (1980), who estimated that efficiency measures could reduce the cost to about 3.2 kWh/kg. A more recent full life-cycle analysis (Denison, 1997) estimates the net energy cost of production of newsprint in the USA from virgin wood followed by a typical mix of landfilling and incineration to be 12 kWh/kg; the energy cost of producing newsprint from recycled material and recycling it is 6 kWh/kg.
 

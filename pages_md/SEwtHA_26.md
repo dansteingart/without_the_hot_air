@@ -9,7 +9,7 @@ If we kick fossil fuels and go all-out for renewables, *or* all-out for nuclear,
 
 Either way, the easily turn-off-and-onable something needs to be a *big* something because electricity demand varies a lot (figure 26.1). The de-
 
-<span class="figurenumber">Figure 26.1</span>. Electricity demand in Great Britain (in kWh/d per person) during two winter weeks and two summer weeks of 2006. The peaks in January are at 6pm each day. The five-day working week is evident in summer and winter. (If you’d like to obtain the national demand in GW, remember the top of the scale, 24 kWh/d per person, is the same as 60 GW per UK.)
+<div class='caption'><span class="figurenumber">Figure 26.1</span>. Electricity demand in Great Britain (in kWh/d per person) during two winter weeks and two summer weeks of 2006. The peaks in January are at 6pm each day. The five-day working week is evident in summer and winter. (If you’d like to obtain the national demand in GW, remember the top of the scale, 24 kWh/d per person, is the same as 60 GW per UK.)</div>
 
 <img src="figure213.png" width="680" height="356" />
 mand sometimes changes significantly on a timescale of a few minutes. This chapter discusses how to cope with fluctuations in supply and demand, without using fossil fuels.
@@ -22,7 +22,7 @@ Critics of wind power say: “Wind power is intermittent and unpredictable, so i
 
 Let’s look at real data and try to figure out a balanced viewpoint. Figure 26.2 shows the summed output of the wind fleet of the Republic of Ireland from April 2006 to April 2007. Clearly wind is intermittent, even if we add up lots of turbines covering a whole country. The UK is a bit larger than Ireland, but the same problem holds there too. Between October 2006 and February 2007 there were 17 days when the output from Britain’s 1632 windmills was less than 10% of their capacity. During that period there were five days when output was less than 5% and one day when it was
 
-<span class="figurenumber">Figure 26.2</span>. Total output, in MW, of all wind farms of the Republic of Ireland, from April 2006 to April 2007 (top), and detail from January 2007 to April 2007 (middle), and February 2007 (bottom). Peak electricity demand in Ireland is about 5000 MW. Its wind “capacity” in 2007 is 745 MW, dispersed in about 60 wind farms. Data are provided every 15 minutes by <span class="websitetitle">www.eirgrid.com</span>.
+<div class='caption'><span class="figurenumber">Figure 26.2</span>. Total output, in MW, of all wind farms of the Republic of Ireland, from April 2006 to April 2007 (top), and detail from January 2007 to April 2007 (middle), and February 2007 (bottom). Peak electricity demand in Ireland is about 5000 MW. Its wind “capacity” in 2007 is 745 MW, dispersed in about 60 wind farms. Data are provided every 15 minutes by <span class="websitetitle">www.eirgrid.com</span>.</div>
 
 <img src="figure214.png" width="624" height="186" />
 only 2%.
@@ -39,7 +39,7 @@ Could these windy demands be met? In answering this question we’ll need to tal
 
 Is a national slew-rate of <span class="darkblue">4 GW per hour</span> completely outside human experience? No. Every morning, as figure 26.3 shows, British demand climbs by about 13 GW between 6.30am and 8.30am. That’s a slew rate of *<span class="darkblue">6.5 GW per hour</span>*. So our power engineers already cope, every day, with slew rates bigger than 4GW per hour on the national grid. An extra occasional slew of 4 GW per hour induced by sudden wind variations is no reasonable cause for ditching the idea of country-sized wind farms. It’s a problem
 
-<span class="figurenumber">Figure 26.3</span>. Electricity demand in Great Britain during two winter weeks of 2006. The left and right scales show the demand in national units (GW) and personal units (kWh/d per person) respectively. These are the same data as in figure 26.1.
+<div class='caption'><span class="figurenumber">Figure 26.3</span>. Electricity demand in Great Britain during two winter weeks of 2006. The left and right scales show the demand in national units (GW) and personal units (kWh/d per person) respectively. These are the same data as in figure 26.1.</div>
 
 just like problems that engineers have already solved. We simply need to figure out how to match ever-changing supply and demand in a grid with no fossil fuels. I’m not saying that the wind-slew problem is *already* solved – just that it is a problem of the same size as other problems that have been solved.
 
@@ -91,12 +91,12 @@ Dinorwig is the Queen of the four facilities. Let’s review her vital statistic
 
 If all four pumped storage stations are switched on simultaneously, they can produce a power of 2.8 GW. They can switch on extremely fast, coping with any slew rate that demand-fluctuations or wind-fluctuations could come up with. However the capacity of 2.8 GW is not enough to replace 10 GW or 33 GW of wind power if it suddenly went missing. Nor is the total energy stored (30 GWh) anywhere near the 1200 GWh we are interested in storing in order to make it through a big lull. Could pumped
 
-<span class="figurenumber">Table 26.4</span>. Pumped storage facilities in Britain. The maximum energy storable in today’s pumped storage systems is about 30 GWh.
+<div class='caption'><span class="figurenumber">Table 26.4</span>. Pumped storage facilities in Britain. The maximum energy storable in today’s pumped storage systems is about 30 GWh.</div>
 
-<span class="figurenumber">Figure 26.5</span>. How pumped storage pays for itself. Electricity prices, in £ per MWh, on three days in 2006 and 2007.
+<div class='caption'><span class="figurenumber">Figure 26.5</span>. How pumped storage pays for itself. Electricity prices, in £ per MWh, on three days in 2006 and 2007.</div>
 
 <img src="figure218.png" width="219" height="294" />
-<span class="figurenumber">Figure 26.6</span>. Llyn Stwlan, the upper reservoir of the Ffestiniog pumped storage scheme in north Wales. Energy stored: 1.3 GWh. Photo by Adrian Pingstone.
+<div class='caption'><span class="figurenumber">Figure 26.6</span>. Llyn Stwlan, the upper reservoir of the Ffestiniog pumped storage scheme in north Wales. Energy stored: 1.3 GWh. Photo by Adrian Pingstone.</div>
 
 storage be ramped up? Can we imagine solving the entire lull problem using pumped storage alone?
 
@@ -138,9 +138,9 @@ Is it plausible that twelve such sites could be found? Certainly, we could build
 
 Pumped-storage facilities holding significantly more energy than Dinorwig could be built in Scotland by upgrading existing hydroelectric facilities. Scanning a map of Scotland, one candidate location would use Loch Sloy as its upper lake and Loch Lomond as its lower lake. There is already a small hydroelectric power station linking these lakes. Figure 26.9 shows these lakes and the Dinorwig lakes on the same scale. The height
 
-<span class="figurenumber">Table 26.7</span>. Pumped storage. Ways to store 100 GWh. For comparison with column 2, the working volume of Dinorwig is 7 million m<sup>3</sup>, and the volume of Lake Windermere is 300 million m<sup>3</sup>. For comparison with column 3, Rutland water has an area of 12.6 km<sup>2</sup>; Grafham water 7.4 km<sup>2</sup>. Carron valley reservoir is 3.9 km<sup>2</sup>. The largest lake in Great Britain is Loch Lomond, with an area of 71 km<sup>2</sup>.
+<div class='caption'><span class="figurenumber">Table 26.7</span>. Pumped storage. Ways to store 100 GWh. For comparison with column 2, the working volume of Dinorwig is 7 million m<sup>3</sup>, and the volume of Lake Windermere is 300 million m<sup>3</sup>. For comparison with column 3, Rutland water has an area of 12.6 km<sup>2</sup>; Grafham water 7.4 km<sup>2</sup>. Carron valley reservoir is 3.9 km<sup>2</sup>. The largest lake in Great Britain is Loch Lomond, with an area of 71 km<sup>2</sup>.</div>
 
-<span class="figurenumber">Table 26.8</span>. Alternative sites for pumped storage facilities in Snowdonia. At both these sites the lower lake would have been a new artificial reservoir.
+<div class='caption'><span class="figurenumber">Table 26.8</span>. Alternative sites for pumped storage facilities in Snowdonia. At both these sites the lower lake would have been a new artificial reservoir.</div>
 
 <img src="figure216.png" width="461" height="521" />
 difference between Loch Sloy and Loch Lomond is about 270 m. Sloy’s area is about 1.5 km<sup>2</sup>, and it can already store an energy of 20 GWh. If Loch Sloy’s dam were raised by another 40 m then the extra energy that could be stored would be about 40 GWh. The water level in Loch Lomond would change by at most 0.8 m during a cycle. This is less than the normal range of annual water level variations of Loch Lomond (2 m).
@@ -149,7 +149,7 @@ Figure 26.10 shows 13 locations in Scotland with potential for pumped storage. (
 
 We could scour the map of Britain for other locations. The best locations would be near to big wind farms. One idea would be to make a new artificial lake in a hanging valley (across the mouth of which a dam would
 
-<span class="figurenumber">Figure 26.9</span>. Dinorwig, in the Snowdonia National Park, compared with Loch Sloy and Loch Lomond. The upper maps show 10 km by 10 km areas. In the lower maps the blue grid is made of 1 km squares. Images produced from Ordnance Survey’s Get-a-map service <span class="websitetitle">www.ordnancesurvey.co.uk/getamap</span>. Images reproduced with permission of Ordnance Survey. © Crown Copyright 2006.
+<div class='caption'><span class="figurenumber">Figure 26.9</span>. Dinorwig, in the Snowdonia National Park, compared with Loch Sloy and Loch Lomond. The upper maps show 10 km by 10 km areas. In the lower maps the blue grid is made of 1 km squares. Images produced from Ordnance Survey’s Get-a-map service <span class="websitetitle">www.ordnancesurvey.co.uk/getamap</span>. Images reproduced with permission of Ordnance Survey. © Crown Copyright 2006.</div>
 
 <img src="figure430.png" width="205" height="289" />
 
@@ -164,10 +164,10 @@ By building more pumped storage systems, it looks as if we could increase our ma
 
 To recap our requirements: we’d like to be able to store or do without about 1200 GWh, which is 20 kWh per person; and to cope with swings in supply of up to 33 GW – that’s 0.5 kW per person. These numbers are delightfully similar in size to the energy and power requirements of electric cars. The electric cars we saw in Chapter 20 had energy stores of between 9 kWh and 53 kWh. A national fleet of 30 million electric cars would store an energy similar to 20 kWh per person! Typical battery chargers draw a power of 2 or 3 kW. So simultaneously switching on 30 million battery chargers would create a change in demand of about 60 GW! The average power required to power all the nation’s transport, if it were all electric, is roughly 40 or 50 GW. There’s therefore a close match between the adoption of electric cars proposed in Chapter 20 and the creation of roughly 33 GW
 
-<span class="figurenumber">Figure 26.10</span>. Lochs in Scotland with potential for pumped storage.
+<div class='caption'><span class="figurenumber">Figure 26.10</span>. Lochs in Scotland with potential for pumped storage.</div>
 
 <img src="figure219.png" width="221" height="155" />
-<span class="figurenumber">Figure 26.11</span>. Okinawa pumped-storage power plant, whose lower reservoir is the ocean. Energy stored: 0.2 GWh. Photo by courtesy of J-Power. <span class="websitetitle">www.ieahydro.org</span>.
+<div class='caption'><span class="figurenumber">Figure 26.11</span>. Okinawa pumped-storage power plant, whose lower reservoir is the ocean. Energy stored: 0.2 GWh. Photo by courtesy of J-Power. <span class="websitetitle">www.ieahydro.org</span>.</div>
 
 of wind capacity, delivering 10 GW of power on average.
 
@@ -210,7 +210,7 @@ Norway has 27.5 GW of hydroelectric capacity. Sweden has roughly 16 GW. And Icel
 A radical approach is to put wind power and other intermittent sources onto a separate *second* electricity grid, used to power systems that don’t require reliable power, such as heating and electric vehicle battery-charging.
 
 <img src="figure221.png" width="212" height="219" />
-<span class="figurenumber">Figure 26.12</span>. Electrical production and consumption on Fair Isle, 1995–96. All numbers are in kWh/d per person. Production exceeds consumption because 0.6 kWh/d per person were dumped
+<div class='caption'><span class="figurenumber">Figure 26.12</span>. Electrical production and consumption on Fair Isle, 1995–96. All numbers are in kWh/d per person. Production exceeds consumption because 0.6 kWh/d per person were dumped</div>
 
 For over 25 years (since 1982), the Scottish island of Fair Isle (population 70, area 5.6 km<sup>2</sup>) has had two electricity networks that distribute power from two wind turbines and, if necessary, a diesel-powered electricity generator. Standard electricity service is provided on one network, and electric heating is delivered by a second set of cables. The electric heating is mainly served by excess electricity from the wind-turbines that would otherwise have had to be dumped. Remote frequency-sensitive programmable relays control individual water heaters and storage heaters in the individual buildings of the community. The mains frequency is used to inform heaters when they may switch on. In fact there are up to six frequency channels per household, so the system emulates seven grids. Fair Isle also successfully trialled a kinetic-energy storage system (a flywheel) to store energy during fluctuations of wind strength on a time-scale of 20 seconds.
 
@@ -227,7 +227,7 @@ There are lots of ways to store energy, and lots of criteria by which storage so
 Figure 26.15 shows a monster flywheel used to supply brief bursts of power of up to 0.4 GW to power an experimental facility. It weighs 800 t. Spinning at 225 revolutions per minute, it can store 1000 kWh, and its energy density is about 1 Wh per kg.
 
 <img src="figure222.png" width="219" height="190" />
-<span class="figurenumber">Figure 26.15</span>. One of the two flywheels at the fusion research facility in Culham, under construction. Photo: EFDA-JET. <span class="websitetitle">www.jet.efda.org.</span>
+<div class='caption'><span class="figurenumber">Figure 26.15</span>. One of the two flywheels at the fusion research facility in Culham, under construction. Photo: EFDA-JET. <span class="websitetitle">www.jet.efda.org.</span></div>
 
 <img src="figure220.png" width="461" height="216" />
 fuel
@@ -286,9 +286,9 @@ Supercapacitors are used to store small amounts of electrical energy (up to 1 kW
 
 A US company, EEStor, claims to be able to make much better supercapacitors, using barium titanate, with an energy density of 280 Wh/kg.
 
-<span class="figurenumber">Figure 26.13</span>. Some properties of storage systems and fuels. (a) Energy density (on a logarithmic scale) versus lifetime (number of cycles). (b) Energy density versus efficiency. The energy densities don’t include the masses of the energy systems’ containers, except in the case of “air” (compressed air storage). Taking into account the weight of a cryogenic tank for holding hydrogen, the energy density of hydrogen is reduced[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#199) 39 000Wh/kg to roughly 2400 Wh/kg.
+<div class='caption'><span class="figurenumber">Figure 26.13</span>. Some properties of storage systems and fuels. (a) Energy density (on a logarithmic scale) versus lifetime (number of cycles). (b) Energy density versus efficiency. The energy densities don’t include the masses of the energy systems’ containers, except in the case of “air” (compressed air storage). Taking into account the weight of a cryogenic tank for holding hydrogen, the energy density of hydrogen is reduced[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#199) 39 000Wh/kg to roughly 2400 Wh/kg.</div>
 
-<span class="figurenumber">Table 26.14</span>. (a) Calorific values (energy densities, per kg and per litre) of some fuels (in kWh per kg and MJ per litre). (b) Energy density of some batteries (in Wh per kg). 1 kWh = 1000Wh.
+<div class='caption'><span class="figurenumber">Table 26.14</span>. (a) Calorific values (energy densities, per kg and per litre) of some fuels (in kWh per kg and MJ per litre). (b) Energy density of some batteries (in Wh per kg). 1 kWh = 1000Wh.</div>
 
 ##### Vanadium flow batteries
 
@@ -311,7 +311,7 @@ The fluctuations of supply and demand that have the longest timescale are season
 Some renewables also have yearly fluctuations – solar power is stronger in summer and wind power is weaker.
 
 <img src="figure223.png" width="212" height="248" />
-<span class="figurenumber">Figure 26.16</span>. Gas demand (lower graph) and temperature (upper graph) in Britain during 2007.
+<div class='caption'><span class="figurenumber">Figure 26.16</span>. Gas demand (lower graph) and temperature (upper graph) in Britain during 2007.</div>
 
 How to ride through these very-long-timescale fluctuations? Electric vehicles and pumped storage are not going to help store the sort of quantities required. A useful technology will surely be long-term thermal storage. A big rock or a big vat of water can store a winter’s worth of heat for a building – Chapter E discusses this idea in more detail. In the Netherlands, summer heat from roads is stored in aquifers until the winter; and delivered to buildings via heat pumps \[<span class="tinylink">2wmuw7</span>\].
 
@@ -336,7 +336,7 @@ page no.
 where *ρ* is the density of water and *g* is the acceleration of gravity. I assumed the generators have an efficiency of *ε* = 0.9.
 
 <img src="figure224.png" width="218" height="239" />
-<span class="figurenumber">Figure 26.17</span>. Efficiency of the four pumped storage systems of Britain.
+<div class='caption'><span class="figurenumber">Figure 26.17</span>. Efficiency of the four pumped storage systems of Britain.</div>
 
 <span class="mark">192</span>*Table 26.8, Alternative sites for pumped storage facilities.* The proposed upper reservoir for Bowydd was Llyn Newydd, grid reference SH 722 470; for Croesor: Llyn Cwm-y-Foel, SH 653 466.
 
@@ -359,4 +359,4 @@ where *ρ* is the density of water and *g* is the acceleration of gravity. I ass
 <span class="mark">201</span>*... summer heat from roads is stored in aquifers...* \[<span class="tinylink">2wmuw7</span>\].
 
 <img src="figure225.png" width="221" height="276" />
-<span class="figurenumber">Figure 26.18</span>. A possible site for another 7 GWh pumped storage facility. Croesor valley is in the centre-left, between the sharp peak (Cnicht) on the left and the broader peaks (the Moelwyns) on the right.
+<div class='caption'><span class="figurenumber">Figure 26.18</span>. A possible site for another 7 GWh pumped storage facility. Croesor valley is in the centre-left, between the sharp peak (Cnicht) on the left and the broader peaks (the Moelwyns) on the right.</div>

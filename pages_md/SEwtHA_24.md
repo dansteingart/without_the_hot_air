@@ -15,7 +15,7 @@ In contrast, the amount of natural uranium required to provide the same amount o
 So the material streams flowing into and out of nuclear reactors are small, relative to fossil-fuel streams. “Small is beautiful,” but the fact that the nuclear waste stream is small doesn’t mean that it’s not a problem; it’s just a “beautifully small” problem.
 
 <img src="figure192.png" width="197" height="742" />
-<span class="figurenumber">Figure 24.1</span>. Electricity generated per capita from nuclear fission in 2007, in kWh per day per person, in each of the countries with nuclear power.
+<div class='caption'><span class="figurenumber">Figure 24.1</span>. Electricity generated per capita from nuclear fission in 2007, in kWh per day per person, in each of the countries with nuclear power.</div>
 
 ## “Sustainable” power from nuclear fission
 
@@ -60,10 +60,10 @@ Phosphate deposits
 22
 Seawater
 4500
-<span class="figurenumber">Table 24.2</span>. Known recoverable resources of uranium. The top part of the table shows the “reasonable assured resources” and “inferred resources,” at cost less than $130 per kg of uranium, as of 1 Jan 2005. These are the estimated resources in areas where exploration has taken place. There’s also 1.3 million tons of depleted uranium sitting around in stockpiles, a by-product of previous uranium activities.
+<div class='caption'><span class="figurenumber">Table 24.2</span>. Known recoverable resources of uranium. The top part of the table shows the “reasonable assured resources” and “inferred resources,” at cost less than $130 per kg of uranium, as of 1 Jan 2005. These are the estimated resources in areas where exploration has taken place. There’s also 1.3 million tons of depleted uranium sitting around in stockpiles, a by-product of previous uranium activities.</div>
 
 <img src="figure194.png" width="214" height="252" />
-<span class="figurenumber">Figure 24.3</span>. Workers push uranium slugs into the X-10 Graphite Reactor.
+<div class='caption'><span class="figurenumber">Figure 24.3</span>. Workers push uranium slugs into the X-10 Graphite Reactor.</div>
 
 exploration and little uranium exploration has been undertaken since the 1980s; so maybe more mineable uranium will be discovered. Indeed, one paper published in 1980 estimated that the low-grade uranium resource is more than 1000 times greater than the 27 million tons we just assumed.
 
@@ -85,10 +85,10 @@ How fast could uranium be extracted from the oceans? The oceans circulate slowly
 2.8 million GW-years / 1600 years = 1750 GW,
 
 <img src="figure195.png" width="221" height="144" />
-<span class="figurenumber">Figure 24.4</span>. Three Mile Island nuclear power plant.
+<div class='caption'><span class="figurenumber">Figure 24.4</span>. Three Mile Island nuclear power plant.</div>
 
 <img src="figure196.png" width="219" height="166" />
-<span class="figurenumber">Figure 24.5</span>. Dounreay Nuclear Power Development Establishment, whose primary purpose was the development of fast breeder reactor technology. Photo by John Mullen.
+<div class='caption'><span class="figurenumber">Figure 24.5</span>. Dounreay Nuclear Power Development Establishment, whose primary purpose was the development of fast breeder reactor technology. Photo by John Mullen.</div>
 
 <img src="figure193.png" width="688" height="473" />
 which, shared between 6 billion people, is <span class="green">7 kWh per day per person</span>. (There’s currently 369 GW of nuclear reactors, so this figure corresponds to a 4-fold increase in nuclear power over today’s levels.) I conclude that ocean extraction of uranium would turn today’s once-through reactors into a “sustainable” option – assuming that the uranium reactors can cover the energy cost of the ocean extraction process.
@@ -97,7 +97,7 @@ which, shared between 6 billion people, is <span class="green">7 kWh per day per
 
 If fast reactors are 60 times more efficient, the same extraction of ocean uranium could deliver <span class="green">420 kWh per day per person</span>. At last, a sustainable figure that beats current consumption! – but only with the joint help of two technologies that are respectively scarcely-developed and unfashionable: ocean extraction of uranium, and fast breeder reactors.
 
-<span class="figurenumber">Figure 24.6</span>. “Sustainable” power from uranium. For comparison, world nuclear power production today is 1.2 kWh/d per person. British nuclear power production used to be 4 kWh/d per person and is declining.
+<div class='caption'><span class="figurenumber">Figure 24.6</span>. “Sustainable” power from uranium. For comparison, world nuclear power production today is 1.2 kWh/d per person. British nuclear power production used to be 4 kWh/d per person and is declining.</div>
 
 ### Using uranium from rivers
 
@@ -140,10 +140,10 @@ Let’s imagine that Britain decides it is serious about getting off fossil fuel
 | Other countries | 95                   |
 | World total     | 1580                 |
 
-<span class="figurenumber">Table 24.7</span>. Known world thorium resources in monazite (economically extractable).
+<div class='caption'><span class="figurenumber">Table 24.7</span>. Known world thorium resources in monazite (economically extractable).</div>
 
 <img src="figure197.png" width="191" height="158" />
-<span class="figurenumber">Figure 24.8</span>. Thorium options.
+<div class='caption'><span class="figurenumber">Figure 24.8</span>. Thorium options.</div>
 
 per unit area of nuclear power stations, which is about <span class="green">1000W/m<sup>2</sup></span> (figure 24.10). Let’s imagine generating 22 kWh per day per person of nuclear power – equivalent to 55 GW (roughly the same as France’s nuclear power), which could be delivered by 55 nuclear power stations, each occupying one square kilometre. That’s about 0.02% of the area of the country. Wind farms delivering the same average power would require 500 times as much land: 10% of the country. If the nuclear power stations were placed in pairs around the coast (length about 3000 km, at 5 km resolution), then there’d be two every 100 km. Thus while the area required is modest, the fraction of coastline gobbled by these power stations would be about 2% (2 kilometres in every 100).
 
@@ -160,10 +160,10 @@ The safety system came with belt and braces. Independent of the failed safety al
 By April 2005, *<span class="darkblue">22 tons</span>* of uranium had leaked, but still none of the leak-detection systems detected the leak. The leak was finally detected by *accountancy*, when the bean-counters noticed that they were getting 10% less uranium out than their clients claimed they’d put in! Thank goodness this private company had a profit motive, hey? The criticism from the
 
 <img src="figure198.png" width="219" height="287" />
-<span class="figurenumber">Figure 24.9</span>. Sizewell’s power stations. Sizewell A, in the foreground, had a capacity of 420 MW, and was shut down at the end of 2006. Sizewell B, behind, has a capacity of 1.2 GW. Photo by William Connolley.
+<div class='caption'><span class="figurenumber">Figure 24.9</span>. Sizewell’s power stations. Sizewell A, in the foreground, had a capacity of 420 MW, and was shut down at the end of 2006. Sizewell B, behind, has a capacity of 1.2 GW. Photo by William Connolley.</div>
 
 <img src="figure435.png" width="208" height="312" />
-<span class="figurenumber">Figure 24.10</span>. Sizewell occupies less than 1 km<sup>2</sup>. The blue grid’s spacing is 1 km. © Crown copyright; Ordnance Survey.
+<div class='caption'><span class="figurenumber">Figure 24.10</span>. Sizewell occupies less than 1 km<sup>2</sup>. The blue grid’s spacing is 1 km. © Crown copyright; Ordnance Survey.</div>
 
 Chief Inspector of Nuclear Installations was withering: “The Plant was operated in a culture that seemed to allow instruments to operate in alarm mode rather than questioning the alarm and rectifying the relevant fault.”
 
@@ -176,7 +176,7 @@ When quantifying the public risks of different power sources, we need a new unit
 So, let’s discuss the actual death rates of a range of electricity sources. The death rates vary a lot from country to country. In China, for example, the death rate in coal mines, per ton of coal delivered, is 50 times that of most nations. Figure 24.11 shows numbers from studies by the Paul Scherrer Institute and by a European Union project called ExternE, which made comprehensive estimates of all the impacts of energy production. According to the EU figures, coal, lignite, and oil have the highest death rates, followed by peat and biomass-power, with death rates above 1 per GWy. Nuclear and wind are the best, with death rates below 0.2 per GWy. Hydroelectricity is the best of all according to the EU study, but comes out worst in the Paul Scherrer Institute’s study, because the latter surveyed a different set of countries.
 
 <img src="figure199.png" width="186" height="722" />
-<span class="figurenumber">Figure 24.11</span>. Death rates of electricity generation technologies. <span class="darkblue">x</span>: European Union estimates by the ExternE project. <span class="red">O</span>: Paul Scherrer Institute.
+<div class='caption'><span class="figurenumber">Figure 24.11</span>. Death rates of electricity generation technologies. <span class="darkblue">x</span>: European Union estimates by the ExternE project. <span class="red">O</span>: Paul Scherrer Institute.</div>
 
 ### Inherently safe nuclear power
 
@@ -211,7 +211,7 @@ Most of this waste is low-level waste. 7% is intermediate-level waste, and just 
 The high-level waste is the really nasty stuff. It’s conventional to keep the high-level waste at the reactor for its first 40 years. It is stored in pools of water and cooled. After 40 years, the level of radioactivity has dropped 1000-fold. The level of radioactivity continues to fall; after 1000 years,[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#169) the
 
 <img src="figure200.png" width="219" height="603" />
-<span class="figurenumber">Figure 24.12</span>. Chernobyl power plant (top), and the abandoned town of Prypiat, which used to serve it (bottom). Photos by Nik Stanbridge.
+<div class='caption'><span class="figurenumber">Figure 24.12</span>. Chernobyl power plant (top), and the abandoned town of Prypiat, which used to serve it (bottom). Photos by Nik Stanbridge.</div>
 
 radioactivity of the high-level waste is about the same as that of uranium ore.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#170) Thus waste storage engineers need to make a plan to secure high-level waste for about 1000 years.
 
@@ -228,7 +228,7 @@ People sometimes compare possible new nuclear waste with the nuclear waste we al
 That’s a fun question. And because we’ve carefully expressed everything in this book in a single set of units, it’s quite easy to answer. First, let’s recap the key numbers about global energy balance from p20: the average solar power absorbed by atmosphere, land, and oceans is 238 W/m<sup>2</sup>; doubling the atmospheric CO<sub>2</sub> concentration would effectively increase the net heating by 4 W/m<sup>2</sup>. This 1.7% increase in heating is believed to be bad news for climate. Variations in solar power during the 11-year solar cycle have a range of 0.25 W/m<sup>2</sup>. So now let’s assume that in 100 years or so, the world population is 10 billion, and everyone is living at a European stan-
 
 <img src="figure201.png" width="212" height="241" />
-<span class="figurenumber">Figure 24.13</span>. British nuclear waste, per person, per year, has a volume just a little larger than one wine bottle.
+<div class='caption'><span class="figurenumber">Figure 24.13</span>. British nuclear waste, per person, per year, has a volume just a little larger than one wine bottle.</div>
 
 dard of living, using 125 kWh per day derived from fossil sources, from nuclear power, or from mined geothermal power. The area of the earth per person would be 51 000 m<sup>2</sup>. Dividing the power per person by the area per person, we find that the extra power contributed by human energy use would be 0.1 W/m<sup>2</sup>. That’s one fortieth of the 4 W/m<sup>2</sup> that we’re currently fretting about, and a little smaller than the 0.25 W/m<sup>2</sup> effect of solar variations. So yes, under these assumptions, human power production would *just* show up as a contributor to global climate change.
 
@@ -243,7 +243,7 @@ How reasonable is my assertion that the world’s maximum historical constructio
 <img src="figure346.png" width="219" height="168" />
 
 <img src="figure202.png" width="209" height="140" />
-<span class="figurenumber">Figure 24.14</span>. Graph of the total nuclear power in the world that was built since 1967 and that is still operational today. The world construction rate peaked at 30 GW of nuclear power per year in 1984.
+<div class='caption'><span class="figurenumber">Figure 24.14</span>. Graph of the total nuclear power in the world that was built since 1967 and that is still operational today. The world construction rate peaked at 30 GW of nuclear power per year in 1984.</div>
 
 ## What about nuclear fusion?
 
@@ -274,10 +274,10 @@ World lithium reserves are estimated to be 9.5 million tons in ore deposits. If 
 There’s another source for lithium: seawater, where lithium has a concentration of 0.17 ppm. To produce lithium at a rate of 100 million kg per year from seawater is estimated to have an energy requirement of 2.5 kWh(e) per gram of lithium. If the fusion reactors give back 2300 kWh(e) per gram of lithium, the power thus delivered would be 105 kWh/d per person (assuming 6 billion people). At this rate, the lithium in the oceans would last more than a million years.
 
 <img src="figure204.png" width="219" height="157" />
-<span class="figurenumber">Figure 24.15</span>. The inside of an experimental fusion reactor. Split image showing the JET vacuum vessel with a superimposed image of a JET plasma, taken with an ordinary TV camera. Photo: EFDA-JET.
+<div class='caption'><span class="figurenumber">Figure 24.15</span>. The inside of an experimental fusion reactor. Split image showing the JET vacuum vessel with a superimposed image of a JET plasma, taken with an ordinary TV camera. Photo: EFDA-JET.</div>
 
 <img src="figure426.png" width="204" height="400" />
-<span class="figurenumber">Figure 24.16</span>. Lithium-based fusion, if used fairly and “sustainably,” could match our current levels of consumption. Mined lithium would deliver 10 kWh/d per person for 1000 years; lithium extracted from seawater could deliver 105 kWh/d per person for over a million years.
+<div class='caption'><span class="figurenumber">Figure 24.16</span>. Lithium-based fusion, if used fairly and “sustainably,” could match our current levels of consumption. Mined lithium would deliver 10 kWh/d per person for 1000 years; lithium extracted from seawater could deliver 105 kWh/d per person for over a million years.</div>
 
 <img src="figure203.png" width="403" height="287" />
 ### Deuterium fusion
@@ -295,7 +295,7 @@ page no.
 <span class="mark">–</span>*A once-through one-gigawatt nuclear power station uses 162 tons per year of uranium*. Source: <span class="websitetitle">www.world-nuclear.org/info/inf03.html</span>. A 1 GW(e) station with a thermal efficiency of 33% running at a load factor of 83% has the following upstream footprint: mining – 16 600 tons of 1%-uranium ore; milling – 191 t of uranium oxide (containing 162 t of natural uranium); enrichment and fuel fabrication – 22.4 t of uranium oxide (containing 20 t of enriched uranium). The enrichment requires 115 000 SWU; see p102 for the energy cost of SWU (separative work units).
 
 ![](figure.png)
-<span class="figurenumber">Figure 24.17</span>. Deuterium-based fusion, if it is achievable, offers plentiful sustainable energy for millions of years. This diagram’s scale is shrunk ten-fold in each dimension so as to fit fusion’s potential contribution on the page. The red and green stacks from figure 18.1 are shown to the same scale, for comparison.
+<div class='caption'><span class="figurenumber">Figure 24.17</span>. Deuterium-based fusion, if it is achievable, offers plentiful sustainable energy for millions of years. This diagram’s scale is shrunk ten-fold in each dimension so as to fit fusion’s potential contribution on the page. The red and green stacks from figure 18.1 are shown to the same scale, for comparison.</div>
 
 <span class="mark">163</span>*it’s been estimated that the low-grade uranium resource is more than 1000 times greater than the 22 million tons we just assumed*. Deffeyes and MacGregor (1980) estimate that the resource of uranium in concentrations of 30 ppm or more is 3×10<sup>10</sup> tons. (The average ore grade processed in South Africa in 1985 and 1990 was 150 ppm. Phosphates typically average 100 ppm.) Here’s what the World Nuclear Association said on the topic of uranium reserves in June 2008: “From time to time concerns are raised that the known resources might be insufficient when judged as a multiple of present rate of use. But this is the Limits to Growth fallacy, ... which takes no account of the very limited nature of the knowledge we have at any time of what is actually in the Earth’s crust. Our knowledge of geology is such that we can be confident that identified resources of metal minerals are a small fraction of what is there. “Measured resources of uranium, the amount known to be economically recoverable from orebodies, are ... dependent on the intensity of past exploration effort, and are basically a statement about what is known rather than what is there in the Earth’s crust. “The world’s present measured resources of uranium (5.5 Mt) ... are enough to last for over 80 years. This represents a higher level of assured resources than is normal for most minerals. Further exploration and higher prices will certainly, on the basis of present geological knowledge, yield further resources as present ones are used up.” “Economically rational players will only invest in finding these new reserves when they are most confident of gaining a return from them, which usually requires positive price messages caused by undersupply trends. If the economic system is working correctly and maximizing capital efficiency, there should never be more than a few decades of any resource commodity in reserves at any point in time.” \[Exploration has a cost; exploring for uranium, for example, has had a cost of $1–$1.50 per kg of uranium ($3.4/MJ), which is 2% of the spot price of $78/kgU; in contrast, the finding costs of crude oil have averaged around $6/barrel ($1050/MJ) (12% of the spot price) over at least the past three decades.\] “Unlike the metals which have been in demand for centuries, society has barely begun to utilize uranium. There has been only one cycle of exploration-discovery-production, driven in large part by late 1970s price peaks. “It is premature to speak about long-term uranium scarcity when the entire nuclear industry is so young that only one cycle of resource replenishment has been required.” <span class="websitetitle">www.world-nuclear.org/info/inf75.html</span> Further reading: Herring (2004); Price and Blaise (2002); Cohen (1983). The IPCC, citing the OECD, project that at the 2004 utilization levels, the uranium in conventional resources and phosphates would last 670 years in once-through reactors, 20 000 years in fast reactors with plutonium recycling, and 160 000 years in fast reactors recycling uranium and all actinides (Sims et al., 2007).
 

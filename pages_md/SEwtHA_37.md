@@ -36,7 +36,7 @@ In the building trade, it’s conventional to describe the power-losses caused b
 | lounge   | 1   |
 | bedroom  | 0.5 |
 
-<span class="figurenumber">Table E.1.</span> Air changes per hour: typical values of *N* for draught-proofed rooms. The worst draughty rooms might have *N* = 3 air changes per hour. The recommended minimum rate of air exchange is between 0.5 and 1.0 air changes per hour, providing adequate fresh air for human health, for safe combustion of fuels and to prevent damage to the building fabric from excess moisture in the air (EST 2003).
+<div class='caption'><span class="figurenumber">Table E.1.</span> Air changes per hour: typical values of *N* for draught-proofed rooms. The worst draughty rooms might have *N* = 3 air changes per hour. The recommended minimum rate of air exchange is between 0.5 and 1.0 air changes per hour, providing adequate fresh air for human health, for safe combustion of fuels and to prevent damage to the building fabric from excess moisture in the air (EST 2003).</div>
 
 U-values (W/m<sup>2</sup>/K)
  
@@ -134,7 +134,7 @@ Both these energy losses have the form
 
 <span class="darkblue">Something</span> × (Δ*T* × duration),
 
-<span class="figurenumber">Table E.2.</span> U-values of walls, floors, roofs, and windows.
+<div class='caption'><span class="figurenumber">Table E.2.</span> U-values of walls, floors, roofs, and windows.</div>
 
 <img src="figure286.png" width="397" height="419" />
 where the “<span class="darkblue">Something</span>” is measured in watts per °C. As day turns to night, and seasons pass, the temperature difference Δ*T* changes; we can think of a long period as being chopped into lots of small durations, during each of which the temperature difference is roughly constant. From duration to duration, the temperature difference changes, but the Somethings don’t change. When predicting a space’s total energy loss due to conduction and ventilation over a long period we thus need to multiply two things:
@@ -144,7 +144,7 @@ where the “<span class="darkblue">Something</span>” is measured in watts per
 
 The first factor is a property of the building measured in watts per °C. I’ll call this the *leakiness* of the building. (This leakiness is sometimes called the building’s *heat-loss coefficient*.) The second factor is a property of the weather; it’s often expressed as a number of “degree-days,” since temperature difference is measured in degrees, and days are a convenient unit for thinking about durations. For example, if your house interior is at 18 °C, and the outside temperature is 8 °C for a week, then we say that that
 
-<span class="figurenumber">Figure E.3.</span> U-values required by British and Swedish building regulations.
+<div class='caption'><span class="figurenumber">Figure E.3.</span> U-values required by British and Swedish building regulations.</div>
 
 <img src="figure287.png" width="475" height="237" />
 week contributed 10 × 7 = 70 degree-days to the (Δ*T* ×duration) sum. I’ll call the sum of all the (Δ*T* × duration) factors the *temperature demand* of a period.
@@ -167,10 +167,10 @@ To summarise, we can reduce the energy consumption of a building in three ways:
 
 We now quantify the potential of these options. (A fourth option – increasing the building’s incidental heat gains, especially from the sun – may also be useful, but I won’t address it here.)
 
-<span class="figurenumber">Figure E.4.</span> The temperature demand in Cambridge, 2006, visualized as an area on a graph of daily average temperatures. (a) Thermostat set to 20 °C, including cooling in summer; (b) winter thermostat set to 17 °C.
+<div class='caption'><span class="figurenumber">Figure E.4.</span> The temperature demand in Cambridge, 2006, visualized as an area on a graph of daily average temperatures. (a) Thermostat set to 20 °C, including cooling in summer; (b) winter thermostat set to 17 °C.</div>
 
 <img src="figure288.png" width="209" height="280" />
-<span class="figurenumber">Figure E.5.</span> Temperature demand in Cambridge, in degree-days per year, as a function of thermostat setting (°C). Reducing the winter thermostat from 20 °C to 17 °C reduces the temperature demand of heating by 30%, from 3188 to 2265 degree-days. Raising the summer thermostat from 20 °C to 23 °C reduces the temperature demand of cooling by 82%, from 91 to 16 degree-days.
+<div class='caption'><span class="figurenumber">Figure E.5.</span> Temperature demand in Cambridge, in degree-days per year, as a function of thermostat setting (°C). Reducing the winter thermostat from 20 °C to 17 °C reduces the temperature demand of heating by 30%, from 3188 to 2265 degree-days. Raising the summer thermostat from 20 °C to 23 °C reduces the temperature demand of cooling by 82%, from 91 to 16 degree-days.</div>
 
 ### Temperature demand
 
@@ -185,10 +185,10 @@ My house is a three-bedroom semi-detached house built about 1940 (figure E.7). B
 My estimate of the leakiness in 2006 is built up as shown in table E.8. The total leakiness of the house was 322 W/°C (or 7.7 kWh/d/.C), with conductive leakiness accounting for 72% and ventilation leakiness for 28% of the total. The conductive leakiness is roughly equally divided into three parts: windows; walls; and floor and ceiling.
 
 <img src="figure289.png" width="200" height="241" />
-<span class="figurenumber">Figure E.6.</span> The temperature demand in Cambridge, 2006, replotted in units of degree-days per day, also known as degrees. In these units, the temperature demand is just the average of the temperature difference between inside and outside.
+<div class='caption'><span class="figurenumber">Figure E.6.</span> The temperature demand in Cambridge, 2006, replotted in units of degree-days per day, also known as degrees. In these units, the temperature demand is just the average of the temperature difference between inside and outside.</div>
 
 <img src="figure290.png" width="219" height="289" />
-<span class="figurenumber">Figure E.7.</span> My house.
+<div class='caption'><span class="figurenumber">Figure E.7.</span> My house.</div>
 
 CONDUCTIVE LEAKINESS
 area (m<sup>2</sup>)
@@ -295,7 +295,7 @@ If the temperature is maintained at 19 °C for 24 hours per day, the energy lost
 
 To get a year-round heat-loss figure, we can take the temperature demand of Cambridge from figure E.5. With the thermostat at 19 °C, the
 
-<span class="figurenumber">Table E.8.</span> Breakdown of my house’s conductive leakiness, and its ventilation leakiness, pre-2006. I’ve treated the central wall of the semi-detached house as a perfect insulating wall, but this may be wrong if the gap between the adjacent houses is actually well-ventilated. I’ve highlighted the parameters that I altered after 2006, in modifications to be described shortly.
+<div class='caption'><span class="figurenumber">Table E.8.</span> Breakdown of my house’s conductive leakiness, and its ventilation leakiness, pre-2006. I’ve treated the central wall of the semi-detached house as a perfect insulating wall, but this may be wrong if the gap between the adjacent houses is actually well-ventilated. I’ve highlighted the parameters that I altered after 2006, in modifications to be described shortly.</div>
 
 temperature demand in 2006 was 2866 degree-days. The average rate of heat loss, if the house is always held at 19 °C, is therefore:
 
@@ -328,7 +328,7 @@ The heat-loss parameter of this house (total floor area 88 m<sup>2</sup>) is thu
 | – Reduction in conduction from double-glazing     two doors and one window              | 1.9 kWh/d |
 | – Ventilation reductions in hall and kitchen from     improvements to doors and windows | 2.9 kWh/d |
 
-<span class="figurenumber">Table E.9.</span> Break-down of the predicted reductions in heat loss from my house, on a cold winter day.
+<div class='caption'><span class="figurenumber">Table E.9.</span> Break-down of the predicted reductions in heat loss from my house, on a cold winter day.</div>
 
 It’s frustratingly hard to make a really big dent in the leakiness of an already-built house! As we saw a moment ago, a much easier way of achieving a big dent in heat loss is to turn the thermostat down. Turning down from 20 to 17 °C gave a reduction in heat loss of 30%.
 
@@ -367,10 +367,10 @@ The heat loss through conduction and ventilation is 4.2 kWh/d/°C. The *heat los
 With the house occupied by two people, the average space-heating consumption, with the thermostat set at 19 or 20 °C during the day, was 8100 kWh per year, or 22 kWh/d; the total energy consumption for all purposes was about 15 000 kWh per year, or 40 kWh/d. Expressed as an aver-
 
 <img src="figure292.png" width="219" height="115" />
-<span class="figurenumber">Figure E.10.</span> The Heatkeeper Serrekunda.
+<div class='caption'><span class="figurenumber">Figure E.10.</span> The Heatkeeper Serrekunda.</div>
 
 <img src="figure293.png" width="168" height="233" />
-<span class="figurenumber">Figure E.11.</span> The Heatkeeper’s heat-exchanger.
+<div class='caption'><span class="figurenumber">Figure E.11.</span> The Heatkeeper’s heat-exchanger.</div>
 
 age power per unit area, that’s <span class="red">6.6 W/m<sup>2</sup></span>.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#298)
 
@@ -395,7 +395,7 @@ The William Gates building at Cambridge University holds computer science resear
 But are these buildings impressive? Next door, the Rutherford building, built in the 1970s without any fancy eco-claims – indeed without even double glazing – has a floor area of 4998 m<sup>2</sup> and consumes 1557 MWh per year; that’s 0.85 kWh/d/m<sup>2</sup>, or 36 W/m<sup>2</sup>. So the award-winning building is just 30% better, in terms of power per unit area, than its simple 1970s cousin. Figure E.12 compares these buildings and another new building, the Law Faculty, with the Old Schools, which are ancient offices built pre-
 
 <img src="figure291.png" width="679" height="636" />
-<span class="figurenumber">Figure E.12.</span> Building benchmarks. Power used per unit area in various homes and offices.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#299)
+<div class='caption'><span class="figurenumber">Figure E.12.</span> Building benchmarks. Power used per unit area in various homes and offices.[<sup>**E**</sup>](http://www.withouthotair.com/Errata.html#299)</div>
 
 <img src="figure294.png" width="678" height="344" />
 1890. For all the fanfare, the difference between the new and the old is really quite disappointing!
@@ -406,7 +406,7 @@ Notice that the building power consumptions, per unit floor area, are in just th
 
 You might think that the coefficient of performance of a condensing boiler, 90%, sounds pretty hard to beat. But it can be significantly improved upon, by heat pumps. Whereas the condensing boiler takes chemical energy and turns 90% of it into useful heat, the heat pump takes some electrical energy and uses it to *move* heat from one place to another (for example, from outside a building to inside). Usually the amount of useful heat delivered is much bigger than the amount of electricity used. A coefficient of performance of 3 or 4 is normal.
 
-<span class="figurenumber">Figure E.13.</span> Ideal heat pump efficiencies. Top left: ideal electrical energy required, according to the limits of thermodynamics, to pump heat *out* of a place at temperature *T*<span class="smallsub"><sub>in</sub></span> when the heat is being pumped to a place at temperature *T*<span class="smallsub"><sub>out</sub></span> = 35 °C. Right: ideal electrical energy required to pump heat *into* a place at temperature *T*<span class="smallsub"><sub>in</sub></span> when the heat is being pumped from a place at temperature *T*<span class="smallsub"><sub>out</sub></span> = 0 °C. Bottom row: the efficiency is conventionally expressed as a “coefficient of performance,” which is the heat pumped per unit electrical energy. In practice, I understand that well-installed ground-source heat pumps and the best air-source heat pumps usually have a coefficient of performance of 3 or 4; however, government regulations in Japan have driven the coefficient of performance as high as 6.6.
+<div class='caption'><span class="figurenumber">Figure E.13.</span> Ideal heat pump efficiencies. Top left: ideal electrical energy required, according to the limits of thermodynamics, to pump heat *out* of a place at temperature *T*<span class="smallsub"><sub>in</sub></span> when the heat is being pumped to a place at temperature *T*<span class="smallsub"><sub>out</sub></span> = 35 °C. Right: ideal electrical energy required to pump heat *into* a place at temperature *T*<span class="smallsub"><sub>in</sub></span> when the heat is being pumped from a place at temperature *T*<span class="smallsub"><sub>out</sub></span> = 0 °C. Bottom row: the efficiency is conventionally expressed as a “coefficient of performance,” which is the heat pumped per unit electrical energy. In practice, I understand that well-installed ground-source heat pumps and the best air-source heat pumps usually have a coefficient of performance of 3 or 4; however, government regulations in Japan have driven the coefficient of performance as high as 6.6.</div>
 
 ### Theory of heat pumps
 
@@ -439,7 +439,7 @@ Density:
 Heat capacity per unit volume:
  
 *C*<span class="smallsub"><sub>V</sub></span> = 2.3 MJ/m<sup>3</sup>/K
-<span class="figurenumber">Table E.14.</span> Vital statistics for granite. (I use granite as an example of a typical rock.)
+<div class='caption'><span class="figurenumber">Table E.14.</span> Vital statistics for granite. (I use granite as an example of a typical rock.)</div>
 
 ### Ground storage without walls
 
@@ -475,9 +475,9 @@ earth's crust
 1.7
 dry soil
 0.14
-<span class="figurenumber">Table E.15.</span> Thermal conductivities. For more data see table E.18, p304.
+<div class='caption'><span class="figurenumber">Table E.15.</span> Thermal conductivities. For more data see table E.18, p304.</div>
 
-<span class="figurenumber">Figure E.16.</span> The temperature in Cambridge, 2006, and a cartoon, which says the temperature is the sum of an annual sinusoidal variation between 3 °C and 20 °C, and a daily sinusoidal variation with range up to 10.3 °C. The average temperature is 11.5 °C.
+<div class='caption'><span class="figurenumber">Figure E.16.</span> The temperature in Cambridge, 2006, and a cartoon, which says the temperature is the sum of an annual sinusoidal variation between 3 °C and 20 °C, and a daily sinusoidal variation with range up to 10.3 °C. The average temperature is 11.5 °C.</div>
 
 If the flux we want to suck out of the ground in winter is much bigger than these natural fluxes then we know that our sucking is going to significantly alter ground temperatures, and may thus not be feasible. For this calculation, I’ll assume the ground just below the surface is held, by the combined influence of sun, air, cloud, and night sky, at a temperature that varies slowly up and down during the year (figure E.16).
 
@@ -498,7 +498,7 @@ For the case of solid granite, the peak flux is 8 W/m<sup>2</sup>. For dry soils
 What does this mean? I suggest we take a flux in the middle of these numbers, 5 W/m<sup>2</sup>, as a useful benchmark, giving guidance about what sort of power we could expect to extract, per unit area, with a groundsource heat pump. If we suck a flux significantly smaller than 5 W/m<sup>2</sup>, the perturbation we introduce to the natural flows will be small. If on the
 
 <img src="figure296.png" width="219" height="201" />
-<span class="figurenumber">Figure E.17.</span> Temperature (in °C) versus depth and time. The depths are given in units of the characteristic depth *z*<span class="smallsub"><sub>0</sub></span>, which for granite and annual variations is 3 m. At “depth 2” (6 m), the temperature is always about 11 or 12 °C. At “depth 1” (3 m), it wobbles between 8 and 15 °C.
+<div class='caption'><span class="figurenumber">Figure E.17.</span> Temperature (in °C) versus depth and time. The depths are given in units of the characteristic depth *z*<span class="smallsub"><sub>0</sub></span>, which for granite and annual variations is 3 m. At “depth 2” (6 m), the temperature is always about 11 or 12 °C. At “depth 1” (3 m), it wobbles between 8 and 15 °C.</div>
 
 other hand we try to suck a flux bigger than 5 W/m<sup>2</sup>, we should expect that we’ll be shifting the temperature of the ground significantly away from its natural value, and such fluxes may be impossible to demand.
 
@@ -586,7 +586,7 @@ dry
 4.02
 1.1
 5.3
-<span class="figurenumber">Table E.18.</span> Thermal conductivity and heat capacity of various materials and soil types, and the deduced length-scale *z*<span class="smallsub"><sub>0</sub></span> = √<span style="text-decoration:overline">2κ/(*C*<span class="smallsub"><sub>V</sub></span>*ω*)</span> and peak flux *A*√<span style="text-decoration:overline">*C*<span class="smallsub"><sub>V</sub></span>*κω*</span> associated with annual temperature variations with amplitude *A* = 8.3 °C. The sandy and clay soils have porosity 0.4; the peat soil has porosity 0.8.
+<div class='caption'><span class="figurenumber">Table E.18.</span> Thermal conductivity and heat capacity of various materials and soil types, and the deduced length-scale *z*<span class="smallsub"><sub>0</sub></span> = √<span style="text-decoration:overline">2κ/(*C*<span class="smallsub"><sub>V</sub></span>*ω*)</span> and peak flux *A*√<span style="text-decoration:overline">*C*<span class="smallsub"><sub>V</sub></span>*κω*</span> associated with annual temperature variations with amplitude *A* = 8.3 °C. The sandy and clay soils have porosity 0.4; the peat soil has porosity 0.8.</div>
 
 (typical of damp clay soil),
 
@@ -645,4 +645,4 @@ For example, at the surface, the peak flux is
 
 (E.9)
 
-<span class="figurenumber">Box E.19.</span> Working out the natural flux caused by sinusoidal temperature variations.
+<div class='caption'><span class="figurenumber">Box E.19.</span> Working out the natural flux caused by sinusoidal temperature variations.</div>

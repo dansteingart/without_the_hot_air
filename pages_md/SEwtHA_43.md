@@ -42,20 +42,20 @@ Other renewables
 | "Primary units" (the first 2 kWh/d) | 10.73 p/kWh | 17.43 p/kWh |
 | "Secondary units" (the rest)        | 8.13 p/kWh  | 9.70 p/kWh  |
 
-<span class="figurenumber">Table K.1.</span> Breakdown of primary energy sources in the UK (2004–2006).
+<div class='caption'><span class="figurenumber">Table K.1.</span> Breakdown of primary energy sources in the UK (2004–2006).</div>
 
-<span class="figurenumber">Figure K.2.</span> Left: UK net electricity supplied, by source, in kWh per day per person. (Another 0.9 kWh/d/p is generated and used by the generators themselves.) Right: the energy gap created by UK power station closures, as projected by energy company EdF. This graph shows the predicted *capacity* of nuclear, coal, and oil power stations, in kilowatt-hours per day per person. The capacity is the maximum deliverable power of a source.
+<div class='caption'><span class="figurenumber">Figure K.2.</span> Left: UK net electricity supplied, by source, in kWh per day per person. (Another 0.9 kWh/d/p is generated and used by the generators themselves.) Right: the energy gap created by UK power station closures, as projected by energy company EdF. This graph shows the predicted *capacity* of nuclear, coal, and oil power stations, in kilowatt-hours per day per person. The capacity is the maximum deliverable power of a source.</div>
 
 Figure K.3. Electricity demand in Great Britain (in kWh/d per person) during two winter weeks of 2006. The peaks in January are at 6pm each day. (If you’d like to obtain the national demand in GW, the top of the scale, 24 kWh/d per person, is the same as 60 GW per UK.)
 
 Table K.4. Domestic electricity charges (2006, 2007) for Powergen customers in Cambridge, including tax.
 
 <img src="figure318.png" width="218" height="255" /> <img src="figure319.png" width="218" height="226" /> <img src="figure320.png" width="218" height="633" />
-<span class="figurenumber">Figure K.5.</span> History of UK production of electricity, hydroelectricity, and nuclear electricity. Powers are expressed “per person” by dividing each power by 60 million.
+<div class='caption'><span class="figurenumber">Figure K.5.</span> History of UK production of electricity, hydroelectricity, and nuclear electricity. Powers are expressed “per person” by dividing each power by 60 million.</div>
 
-<span class="figurenumber">Figure K.6.</span> History of UK use of fossil fuels for electricity production. Powers are expressed “per person” by dividing each power by 60 million.
+<div class='caption'><span class="figurenumber">Figure K.6.</span> History of UK use of fossil fuels for electricity production. Powers are expressed “per person” by dividing each power by 60 million.</div>
 
-<span class="figurenumber">Figure K.7.</span> UK production and imports of coal, and UK consumption of gas. Powers are expressed “per person” by dividing each power by 60 million.
+<div class='caption'><span class="figurenumber">Figure K.7.</span> UK production and imports of coal, and UK consumption of gas. Powers are expressed “per person” by dividing each power by 60 million.</div>
 
 facturers \[<span class="websitetitle">www.q400.com</span>\], uses 3.81 litres per 100 passenger-km (at a cruise speed of 667 km/h), which is an energy cost of <span class="mauve">38 kWh per 100 p-km</span>. The full 747 has an energy cost of <span class="mauve">42 kWh per 100 p-km</span>. So both planes are twice as fuel-efficient as a single-occupancy car. (The car I’m assuming here is the average European car that we discussed in Chapter 3.)
 

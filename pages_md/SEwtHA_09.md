@@ -20,9 +20,9 @@ In some countries, drivers must switch their lights on whenever their car is mov
 | 10 low-energy lights   | 0.1 kW | 5 h          | 0.5 kWh                 |
 
 <img src="figure67.png" width="216" height="457" />
-<span class="figurenumber">Figure 9.1</span>. Lighting – 4 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure 9.1</span>. Lighting – 4 kWh per day per person.</div>
 
-<span class="figurenumber">Table 9.2</span>. Electric consumption for domestic lighting. A plausible total is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh per day per person.
+<div class='caption'><span class="figurenumber">Table 9.2</span>. Electric consumption for domestic lighting. A plausible total is 5.5 kWh per home per day; and a similar figure at work; perhaps 4 kWh per day per person.</div>
 
 has an average power consumption of <span class="red">42 000W</span>. So having the lights on while driving requires 2% extra power.
 
@@ -41,10 +41,10 @@ It feels like a waste, doesn’t it? Someone put resources into making the old i
 Researchers say that LED (light-emitting diode) bulbs will soon be even more energy-efficient than compact fluorescent lights. The efficiency of a light is measured in *lumens per watt*. I checked the numbers on my latest purchases: the Philips Genie 11 W compact fluorescent bulb (figure 9.4) has a brightness of 600 lumens, which is an efficiency of **55 lumens per watt**; regular incandescent bulbs deliver **10 lumens per watt**; the Omicron 1.3 W lamp, which has 20 white LEDs hiding inside it, has a brightness of 46 lumens, which is an efficiency of **35 lumens per watt**. So this LED bulb is almost as efficient as the fluorescent bulb. The LED industry still has a little catching up to do. In its favour, the LED bulb has a life of 50 000 hours, eight times the life of the fluorescent bulb. As I write, I see that <span class="websitetitle">www.cree.com</span> is selling LEDs with a power of **100 lumens per watt**. It’s projected that in the future, white LEDs will have an efficiency of over 150 lumens per watt \[<span class="tinylink">ynjzej</span>\]. I expect that within another couple of years, the best advice, from the point of view of both energy efficiency and avoiding mercury pollution, will be to use LED bulbs.
 
 <img src="figure68.png" width="200" height="407" />
-<span class="figurenumber">Figure 9.3</span>. Total cumulative cost of using a traditional incandescent 100 W bulb for 3 hours per day, compared with replacing it *now* with an Osram Dulux Longlife Energy Saver (pictured). Assumptions: electricity costs 10p per kWh; replacement traditional bulbs cost 45p each; energy-saving bulbs cost £9. (I know you can find them cheaper than this, but this graph shows that even at £9, they’re much more economical.)
+<div class='caption'><span class="figurenumber">Figure 9.3</span>. Total cumulative cost of using a traditional incandescent 100 W bulb for 3 hours per day, compared with replacing it *now* with an Osram Dulux Longlife Energy Saver (pictured). Assumptions: electricity costs 10p per kWh; replacement traditional bulbs cost 45p each; energy-saving bulbs cost £9. (I know you can find them cheaper than this, but this graph shows that even at £9, they’re much more economical.)</div>
 
 <img src="figure69.png" width="221" height="155" />
-<span class="figurenumber">Figure 9.4</span>. Philips 11 W alongside Omicron 1.3 W LED bulb.
+<div class='caption'><span class="figurenumber">Figure 9.4</span>. Philips 11 W alongside Omicron 1.3 W LED bulb.</div>
 
 ### Mythconceptions
 
@@ -73,4 +73,4 @@ page no.
 | large fluorescent   | 94                    |
 | sodium street light | 150                   |
 
-<span class="figurenumber">Table 9.5</span>. Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt.
+<div class='caption'><span class="figurenumber">Table 9.5</span>. Lighting efficiencies of commercially-available bulbs. In the future, white LEDs are expected to deliver 150 lumens per watt.</div>

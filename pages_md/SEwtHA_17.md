@@ -51,7 +51,7 @@ So higher education and research seem to have a much lower energy cost than defe
 There may be other energy-consuming public services we could talk about, but at this point I’d like to wrap up our race between the red and green stacks.
 
 <img src="figure123.png" width="219" height="745" />
-<span class="figurenumber">Figure 17.1</span>. The energy cost of defence in the UK is estimated to be about 4 kWh per day per person.
+<div class='caption'><span class="figurenumber">Figure 17.1</span>. The energy cost of defence in the UK is estimated to be about 4 kWh per day per person.</div>
 
 ## Notes and further reading
 

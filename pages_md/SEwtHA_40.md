@@ -15,10 +15,10 @@ We can thus roughly estimate the energy footprint of our imports simply from the
 For this calculation I’ll take from the right-hand column in figure H.2
 
 <img src="figure306.png" width="219" height="166" />
-<span class="figurenumber">Figure H.1.</span> Continuous casting of steel strands at Korea Iron and Steel Company.
+<div class='caption'><span class="figurenumber">Figure H.1.</span> Continuous casting of steel strands at Korea Iron and Steel Company.</div>
 
 <img src="figure305.png" width="448" height="840" />
-<span class="figurenumber">Figure H.2.</span> Imports of stuff to the UK, 2006.
+<div class='caption'><span class="figurenumber">Figure H.2.</span> Imports of stuff to the UK, 2006.</div>
 
 the iron and steel products, the dry bulk products, the containerized freight and the “other freight,” which total 98million tons per year. I’m leaving the vehicles to one side for a moment. I subtract from this an estimated 25million tons of food which is presumably lurking in the “other freight” category (34 million tons of food were imported in 2006), leaving 73 million tons.
 
@@ -41,7 +41,7 @@ Table H.6 uses these numbers to estimate the process energy formaking a three-be
 If we share 42 000 kWh over 100 years, and double it to estimate the gross energy cost, the total embodied energy of a house comes to about 2.3 kWh/d. This is the energy cost of the *shell* of the house only – the bricks, tiles, roof beams.
 
 <img src="figure307.png" width="221" height="168" />
-<span class="figurenumber">Figure H.3.</span> Niobium open cast mine, Brazil.
+<div class='caption'><span class="figurenumber">Figure H.3.</span> Niobium open cast mine, Brazil.</div>
 
 Material
 Embodied energy
@@ -147,7 +147,7 @@ galvanised steel
 stainless steel
 51.5
 14.3
-<span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: \[<span class="tinylink">3kmcks</span>\], Lawson (1996).
+<div class='caption'><span class="figurenumber">Table H.4.</span> Embodied energy of building materials (assuming virgin rather than recycled product is used). (Dimension stone is natural stone or rock that has been selected and trimmed to specific sizes or shapes.) Sources: \[<span class="tinylink">3kmcks</span>\], Lawson (1996).</div>
 
 <img src="figure506.png" width="219" height="397" />
 
@@ -217,9 +217,9 @@ page no.
 
 Further resources: <span class="websitetitle">www.greenbooklive.com</span> has life cycle assessments of building products. Some helpful cautions about life-cycle analysis: <span class="websitetitle">www.gdrc.org/uem/lca/ life-cycle.html</span>. More links: <span class="websitetitle">www.epa.gov/ord/NRMRL/lcaccess/resources.htm</span>.
 
-<span class="figurenumber">Table H.5.</span> Embodied energy in various walls, floors, and roofs. Sources: \[<span class="tinylink">3kmcks</span>\], Lawson (1996).
+<div class='caption'><span class="figurenumber">Table H.5.</span> Embodied energy in various walls, floors, and roofs. Sources: \[<span class="tinylink">3kmcks</span>\], Lawson (1996).</div>
 
-<span class="figurenumber">Table H.6.</span> Process energy for making a three-bedroom house.
+<div class='caption'><span class="figurenumber">Table H.6.</span> Process energy for making a three-bedroom house.</div>
 
 <img src="figure308.png" width="219" height="166" />
-<span class="figurenumber">Figure H.7.</span> Millau Viaduct in France, the highest bridge in the world. Steel and concrete, 2.5 km long and 353 m high.
+<div class='caption'><span class="figurenumber">Figure H.7.</span> Millau Viaduct in France, the highest bridge in the world. Steel and concrete, 2.5 km long and 353 m high.</div>

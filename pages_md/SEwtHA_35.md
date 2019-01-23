@@ -29,7 +29,7 @@ force = rate of change of momentum
 (C.1)
 
 <img src="figure270.png" width="219" height="539" />
-<span class="figurenumber">Figure C.1.</span> Birds: two Arctic terns, a bar-tailed godwit, and a Boeing 747.
+<div class='caption'><span class="figurenumber">Figure C.1.</span> Birds: two Arctic terns, a bar-tailed godwit, and a Boeing 747.</div>
 
 <img src="figure271.png" width="462" height="165" /> <img src="figure272.png" width="296" height="155" />
 and Newton’s third law, which I just mentioned:
@@ -50,12 +50,12 @@ The sausage’s mass is
 
 Let’s say the whole sausage is moving down with speed *u*, and figure out what *u* needs to be in order for the plane to experience a lift force equal to
 
-<span class="figurenumber">Figure C.2.</span> A plane encounters a stationary tube of air. Once the plane has passed by, the air has been thrown downwards by the plane. The force exerted by the plane on the air to accelerate it downwards is equal and opposite to the upwards force exerted on the plane by the air.
+<div class='caption'><span class="figurenumber">Figure C.2.</span> A plane encounters a stationary tube of air. Once the plane has passed by, the air has been thrown downwards by the plane. The force exerted by the plane on the air to accelerate it downwards is equal and opposite to the upwards force exerted on the plane by the air.</div>
 
-<span class="figurenumber">Figure C.3.</span> Our cartoon assumes that the plane leaves a sausage of air moving down in its wake. A realistic picture involves a more complex swirling flow. For the real thing, see figure C.4.
+<div class='caption'><span class="figurenumber">Figure C.3.</span> Our cartoon assumes that the plane leaves a sausage of air moving down in its wake. A realistic picture involves a more complex swirling flow. For the real thing, see figure C.4.</div>
 
 <img src="figure274.png" width="208" height="170" />
-<span class="figurenumber">Figure C.4.</span> Air flow behind a plane. Photo by NASA Langley Research Center.
+<div class='caption'><span class="figurenumber">Figure C.4.</span> Air flow behind a plane. Photo by NASA Langley Research Center.</div>
 
 its weight mg. The downward momentum of the sausage created in time t is
 
@@ -141,7 +141,7 @@ The predicted optimal speeds (table C.6) are more accurate than we have a right 
 Let’s explore a few more predictions of our cartoon. We can check whether the force (C.13) is compatible with the known thrust of the 747. Remembering that at the optimal speed, the two forces are equal, we just
 
 <img src="figure275-2-0.png" width="220" height="195" />
-<span class="figurenumber">Figure C.5.</span> The force required to keep a plane moving, as a function of its speed *v*, is the sum of an ordinary drag force <sup>1</sup>⁄<sub>2</sub>*c*<span class="smallsub"><sub>d</sub></span>ρ*A*<span class="smallsub"><sub>p</sub></span>*v*<sup>2</sup> – which increases with speed – and the lift-related force (also known as the induced drag)
+<div class='caption'><span class="figurenumber">Figure C.5.</span> The force required to keep a plane moving, as a function of its speed *v*, is the sum of an ordinary drag force <sup>1</sup>⁄<sub>2</sub>*c*<span class="smallsub"><sub>d</sub></span>ρ*A*<span class="smallsub"><sub>p</sub></span>*v*<sup>2</sup> – which increases with speed – and the lift-related force (also known as the induced drag)</div>
 |     |                                                               |
 |-----|---------------------------------------------------------------|
 | 1   | (*mg*)<sup>2</sup>                                            |
@@ -214,10 +214,10 @@ Taking the jumbo jet’s figures, *c*<span class="smallsub"><sub>d</sub></span>�
 
 How does this agree with the 747’s spec sheets? In fact each of the 4 engines has a maximum thrust of about 250 kN, but this maximum thrust is used only during take-off. During cruise, the thrust is much smaller:
 
-<span class="figurenumber">Table C.6.</span> Estimating the optimal speeds for a jumbo jet and an albatross. ∗ Frontal area estimated for 747 by taking cabin width (6.1 m) times estimated height of body (10 m) and adding double to allow for the frontal area of engines, wings, and tail; for albatross, frontal area of 1 square foot estimated from a photograph.
+<div class='caption'><span class="figurenumber">Table C.6.</span> Estimating the optimal speeds for a jumbo jet and an albatross. ∗ Frontal area estimated for 747 by taking cabin width (6.1 m) times estimated height of body (10 m) and adding double to allow for the frontal area of engines, wings, and tail; for albatross, frontal area of 1 square foot estimated from a photograph.</div>
 
 <img src="figure276.png" width="216" height="218" />
-<span class="figurenumber">Figure C.7.</span> Frontal view of a Boeing 747, used to estimate the frontal area *A*<span class="smallsub"><sub>p</sub></span> of the plane. The square has area *A*<span class="smallsub"><sub>s</sub></span> (the square of the wingspan).
+<div class='caption'><span class="figurenumber">Figure C.7.</span> Frontal view of a Boeing 747, used to estimate the frontal area *A*<span class="smallsub"><sub>p</sub></span> of the plane. The square has area *A*<span class="smallsub"><sub>s</sub></span> (the square of the wingspan).</div>
 
 |                |     |
 |----------------|-----|
@@ -227,7 +227,7 @@ How does this agree with the 747’s spec sheets? In fact each of the 4 engines 
 | Common Tern    | 12  |
 | Albatross      | 20  |
 
-<span class="figurenumber">Table C.8.</span> Lift-to-drag ratios.
+<div class='caption'><span class="figurenumber">Table C.8.</span> Lift-to-drag ratios.</div>
 
 the thrust of a cruising 747 is 200 kN, just 50% more than our cartoon suggested. Our cartoon is a little bit off because our estimate of the dragto-lift ratio was a little bit low.
 
@@ -260,7 +260,7 @@ or
 If engine efficiency can be boosted only a tiny bit by technological progress, and if the shape of the plane has already been essentially perfected, then there is little that can be done about the dimensionless quantity. The transport efficiency is close to its physical limit. The aerodynamics community say that the shape of planes could be improved a little by a switch to blended-wing bodies, and that the drag coefficient could be reduced a
 
 <img src="figure277.png" width="221" height="145" />
-<span class="figurenumber">Figure C.9.</span> Cessna 310N: <span class="mauve">60 kWh per 100 passenger-km</span>. A Cessna 310 Turbo carries 6 passengers (including 1 pilot) at a speed of 370 km/h. Photograph by Adrian Pingstone.
+<div class='caption'><span class="figurenumber">Figure C.9.</span> Cessna 310N: <span class="mauve">60 kWh per 100 passenger-km</span>. A Cessna 310 Turbo carries 6 passengers (including 1 pilot) at a speed of 370 km/h. Photograph by Adrian Pingstone.</div>
 
 little by laminar flow control, a technology that reduces the growth of turbulence over a wing by sucking a little air through small perforations in the surface (Braslow, 1999). Adding laminar flow control to existing planes would deliver a 15% improvement in drag coefficient, and the change of shape to blended-wing bodies is predicted to improve the drag coefficient by about 18% (Green, 2006). And equation (C.26) says that the transport cost is proportional to the square root of the drag coefficient, so improvements of *c*<span class="smallsub"><sub>d</sub></span> by 15% or 18% would improve transport cost by 7.5% and 9% respectively.
 
@@ -291,7 +291,7 @@ This is a bit more efficient than a typical single-occupant car (12 km per litre
 We’ve covered quite a lot of ground! Let’s recap the key ideas. Half of the work done by a plane goes into *staying up*; the other half goes into *keeping going*. The fuel efficiency at the optimal speed, expressed as an energy-perdistance-travelled, was found in the force (C.22), and it was simply proportional to the weight of the plane; the constant of proportionality is the drag-to-lift ratio, which is determined by the shape of the plane.
 
 <img src="figure278.png" width="219" height="134" />
-<span class="figurenumber">Figure C.10.</span> “Fasten your cufflinks.” A Bombardier Learjet 60XR carrying 8 passengers at 780 km/h has a transport cost of <span class="mauve">150 kWh per 100 passenger-km</span>. Photograph by Adrian Pingstone.
+<div class='caption'><span class="figurenumber">Figure C.10.</span> “Fasten your cufflinks.” A Bombardier Learjet 60XR carrying 8 passengers at 780 km/h has a transport cost of <span class="mauve">150 kWh per 100 passenger-km</span>. Photograph by Adrian Pingstone.</div>
 
 So whereas lowering speed-limits for cars would reduce the energy consumed per distance travelled, there is no point in considering speed-limits for planes. Planes that are up in the air have optimal speeds, different for each plane, depending on its weight, and they already go at their optimal speeds. If you ordered a plane to go slower, its energy consumption would *increase*. The only way to make a plane consume fuel more efficiently is to put it on the ground and stop it. Planes have been fantastically optimized, and there is no prospect of significant improvements in plane efficiency. (See pages 37 and 132 for further discussion of the notion that new superjumbos are “far more efficient” than old jumbos; and p35 for discussion of the notion that turboprops are “far more efficient” than jets.)
 
@@ -324,7 +324,7 @@ So what is this magic length? It’s the same distance whether the fuel is goose
 (C.33)
 
 <img src="figure279.png" width="221" height="148" />
-<span class="figurenumber">Figure C.11.</span> Boeing 737-700: <span class="mauve">30 kWh per 100 passenger-km</span>. Photograph © Tom Collins.
+<div class='caption'><span class="figurenumber">Figure C.11.</span> Boeing 737-700: <span class="mauve">30 kWh per 100 passenger-km</span>. Photograph © Tom Collins.</div>
 
 The range of the bird is the intrinsic range of the fuel, 4000 km, times a factor *εf*<span class="smallsub"><sub>fuel</sub></span>/ (*c*<span class="smallsub"><sub>d</sub></span>*f*<span class="smallsub"><sub>A</sub></span>)<sup>1/2</sup>. If our bird has engine efficiency *ε* = 1/3 and drag-tolift ratio (*c*<span class="smallsub"><sub>d</sub></span>*f*<span class="smallsub"><sub>A</sub></span>)<sup>1/2</sup> <span class="cong">≅</span> 1/20, and if nearly half of the bird is fuel (a fully-laden 747 is 46% fuel), we find that all birds and planes, of whatever size, have the same range: about three times the fuel’s distance – roughly 13 000 km.
 
@@ -367,7 +367,7 @@ which exactly matches our cartoon. This electrical plane is not a lowerenergy pl
 Of course, this doesn’t mean that electric planes are not interesting. If one could replace traditional planes by alternatives with equal energy
 
 <img src="figure280.png" width="219" height="111" />
-<span class="figurenumber">Figure C.12.</span> The Electra F-WMDJ: <span class="mauve">11 kWh per 100 p-km</span>. Photo by Jean–Bernard Gache. <span class="websitetitle">www.apame.eu</span>
+<div class='caption'><span class="figurenumber">Figure C.12.</span> The Electra F-WMDJ: <span class="mauve">11 kWh per 100 p-km</span>. Photo by Jean–Bernard Gache. <span class="websitetitle">www.apame.eu</span></div>
 
 <img src="figure500-0-0.png" width="469" height="318" />
 consumption but no carbon emissions, that would certainly be a useful technology. And, as a person-transporter, the Electra delivers a respectable <span class="mauve">11 kWh per 100 p-km</span>, similar to the electric car in our transport diagram on p128. But in this book the bottom line is always: “where is the energy to come from?”
@@ -385,7 +385,7 @@ Figure C.13 shows the principle of the hydrofoil. The weight of the craft is sup
 where *c*<span class="smallsub"><sub>d</sub></span> is the drag coefficient of the underwater wing, *f*<span class="smallsub"><sub>A</sub></span> is the dimensionless area ratio defined before, *ε* is the engine efficiency, and *g* is the acceleration due to gravity.
 
 <img src="figure500-2-0-0-0.png" width="220" height="120" />
-<span class="figurenumber">Figure C.13.</span> Hydrofoil. Photograph by Georgios Pazios.
+<div class='caption'><span class="figurenumber">Figure C.13.</span> Hydrofoil. Photograph by Georgios Pazios.</div>
 
 Perhaps *c*<span class="smallsub"><sub>d</sub></span> and *f*<span class="smallsub"><sub>A</sub></span> are not quite the same as those of an optimized aeroplane. But the remarkable thing about this theory is that it has no dependence on the density of the fluid through which the wing is flying. So our ballpark prediction is that the transport cost (energy-per-distanceper-weight, including the vehicle weight) of a hydrofoil is *the same* as the transport cost of an aeroplane! Namely, roughly 0.4 kWh per ton-km.
 
@@ -416,10 +416,10 @@ where *c*<span class="smallsub"><sub>d</sub></span> is the drag coefficient, whi
 (C.36)
 
 <img src="figure281.png" width="221" height="170" />
-<span class="figurenumber">Figure C.14.</span> The 239m-long USS Akron (ZRS-4) flying over Manhattan. It weighed 100 t and could carry 83 t. Its engines had a total power of 3.4 MW, and it could transport 89 personnel and a stack of weapons at 93 km/h. It was also used as an aircraft carrier.
+<div class='caption'><span class="figurenumber">Figure C.14.</span> The 239m-long USS Akron (ZRS-4) flying over Manhattan. It weighed 100 t and could carry 83 t. Its engines had a total power of 3.4 MW, and it could transport 89 personnel and a stack of weapons at 93 km/h. It was also used as an aircraft carrier.</div>
 
 <img src="figure508.png" width="237" height="107" />
-<span class="figurenumber">Figure C.15.</span> An ellipsoidal airship.
+<div class='caption'><span class="figurenumber">Figure C.15.</span> An ellipsoidal airship.</div>
 
 <img src="E188-0-0-0-1.png" width="146" height="39" />
 
@@ -442,7 +442,7 @@ The ekranoplan, or water-skimming wingship, is a ground-effect aircraft: an airc
 The Soviet Union developed the ekranoplan as a military transport vehicle and missile launcher in the Khrushchev era. The Lun ekranoplan could travel at 500 km/h, and the total thrust of its eight engines was 1000 kN, though this total was not required once the vessel had risen clear of the water. Assuming the cruising thrust was one quarter of the maximum; that the engines were 30% efficient; and that of its 400-ton weight, 100 tons were cargo, this vehicle had a net freight-transport cost of <span class="mauve">2 kWh per ton-km</span>. I imagine that, if perfected for non-military freight transport, the ekranoplan might have a freight-transport cost about half that of an ordinary aeroplane.
 
 <img src="figure282.png" width="221" height="257" />
-<span class="figurenumber">Figure C.16.</span> The Lun ekranoplan – slightly longer and heavier than a Boeing 747. Photographs: A. Belyaev.
+<div class='caption'><span class="figurenumber">Figure C.16.</span> The Lun ekranoplan – slightly longer and heavier than a Boeing 747. Photographs: A. Belyaev.</div>
 
 ## Mythconceptions
 
